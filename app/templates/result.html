@@ -13,7 +13,7 @@
   <h1>Results:</h1>
   <br>
   <ol>
-  	{% for key, value in result %}
+  	{% for key, value in result.items() %}
 	<li>{{ key }}: {{ value}}</li>		
   	{% endfor %}
   <ol>
