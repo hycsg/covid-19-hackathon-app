@@ -10,16 +10,16 @@
 </head>
 
 <body>
-  <h1>Results:</h1>
-  <br>
-  <ol>
-{% if result %} 
+{% if result %}
+  	<h1>Results:</h1>
+  	<br>
+  	<ol>
   	{% for key, value in result.items() %}
 	<li>{{ key }}: {{ value}}</li>		
   	{% endfor %}
+  	<ol>
 {% else %}
 	<h1>Invalid city</h1>
 {% endif %}
-  <ol>
 </body>
 </html>
