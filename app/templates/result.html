@@ -13,9 +13,13 @@
   <h1>Results:</h1>
   <br>
   <ol>
+{% if result %} 
   	{% for key, value in result.items() %}
 	<li>{{ key }}: {{ value}}</li>		
   	{% endfor %}
+{% else %}
+	<h1>Invalid city</h1>
+{% endif %}
   <ol>
 </body>
 </html>
