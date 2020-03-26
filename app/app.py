@@ -1,6 +1,6 @@
 from flask import Flask, render_template, session, request
 import csvquery
-import datetime
+from datetime import date
 
 app = Flask(__name__)
 
