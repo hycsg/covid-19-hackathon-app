@@ -1,5 +1,5 @@
 from flask import Flask, render_template, session, request
-from csvquery import *
+from csvquery import get_csv, Comparisons
 from datetime import date, timedelta
 
 app = Flask(__name__)
