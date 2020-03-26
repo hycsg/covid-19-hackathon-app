@@ -8,6 +8,6 @@ def main():
 
 @app.route('/result/', methods=["POST"])
 def result():
-    data = {"state": request.form.get("state"), "county": request.form.get("county")}
+    input_data = {"state": request.form.get("state"), "county": request.form.get("county")}
       
 

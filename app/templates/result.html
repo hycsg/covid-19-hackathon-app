@@ -10,8 +10,11 @@
 
 <body>
   <h1>Results:</h1>
-  {% for key, value in data.items() %}
-
-  {% endfor %}
+  <br>
+  <ol>
+  	{% for key, value in data.items() %}
+	<li>{{ key }}: {{ value}}</li>		
+  	{% endfor %}
+  <ol>
 </body>
 </html>
