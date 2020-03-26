@@ -10,5 +10,5 @@ def main():
 @app.route('/result/', methods=["POST"])
 def result():
     data = {"name": request.form.get("city")}
-     
+      
 
