@@ -3,12 +3,12 @@ from csvquery import get_csv, open_csv, Comparisons
 from datetime import date, timedelta
 
 app = Flask(__name__)
+title = "COVID in my County"
+static_dir = "static/"
 
 # loading data
-county_population = open_csv("app/static/population.csv")
-county_population.add_field("full", lambda row: f"{row['county']}, {row['state']}")
-county_population = county_population.select(["full", "population"])
-county_population.index("full", Comparisons.strings)
+county_population = open_csv(f"{static_dir}population.csv")
+county_population.already_indexed("full", Comparisons.strings)
 
 yesterday = (date.today() - timedelta(days=1)).strftime('%m-%d-%Y')
 data = get_csv(f"https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{yesterday}.csv")
@@ -25,7 +25,7 @@ states = counties_states.select_unique("state").to_list()
 # responses
 @app.route('/')
 def main():
-    return render_template('index.html', title="COVID in my County")
+    return render_template('index.html', title=title)
 
 @app.route('/result', methods=["POST"])
 def result():
@@ -36,7 +36,7 @@ def result():
         population = int(county_population.query_one({"full":info_dict["full"]}).to_dictionary()["population"])
         # population data
 
-    return render_template("result.html", result=info_dict)
+    return render_template("result.html", result=info_dict, title=title)
 
 @app.route('/get_state')
 def get_state():
@@ -58,14 +58,11 @@ def get_county():
     
     selected_state = counties_states.query({"state":state}).index("county", Comparisons.strings)
     counties = selected_state.select_unique("county").to_list()
+    
     results = []
     for county in counties:
         if partial_county == county[0:len(partial_county)]:
-            some_results = selected_state.query({"county":county}).select("full").to_list()
-            for r in some_results:
-                results.append(r)
-                if len(results) == 3:
-                    break
-        if len(results) == 3:
-            break
+            results.append(county)
+            if len(results) == 5:
+                break
     return ";".join(results)

@@ -1,3143 +1,3130 @@
-population,state,county
-55869,alabama,autauga
-223234,alabama,baldwin
-24686,alabama,barbour
-22394,alabama,bibb
-57826,alabama,blount
-10101,alabama,bullock
-19448,alabama,butler
-113605,alabama,calhoun
-33254,alabama,chambers
-26196,alabama,cherokee
-44428,alabama,chilton
-12589,alabama,choctaw
-23622,alabama,clarke
-13235,alabama,clay
-14910,alabama,cleburne
-52342,alabama,coffee
-55241,alabama,colbert
-12067,alabama,conecuh
-10663,alabama,coosa
-37049,alabama,covington
-13772,alabama,crenshaw
-83768,alabama,cullman
-49172,alabama,dale
-37196,alabama,dallas
-71513,alabama,dekalb
-81209,alabama,elmore
-36633,alabama,escambia
-102268,alabama,etowah
-16302,alabama,fayette
-31362,alabama,franklin
-26271,alabama,geneva
-8111,alabama,greene
-14651,alabama,hale
-17205,alabama,henry
-105882,alabama,houston
-51626,alabama,jackson
-658573,alabama,jefferson
-13805,alabama,lamar
-92729,alabama,lauderdale
-32924,alabama,lawrence
-164542,alabama,lee
-98915,alabama,limestone
-9726,alabama,lowndes
-18068,alabama,macon
-372909,alabama,madison
-18863,alabama,marengo
-29709,alabama,marion
-96774,alabama,marshall
-413210,alabama,mobile
-20733,alabama,monroe
-226486,alabama,montgomery
-119679,alabama,morgan
-8923,alabama,perry
-19930,alabama,pickens
-33114,alabama,pike
-22722,alabama,randolph
-57961,alabama,russell
-89512,alabama,st. clair
-217702,alabama,shelby
-12427,alabama,sumter
-79978,alabama,talladega
-40367,alabama,tallapoosa
-209355,alabama,tuscaloosa
-63521,alabama,walker
-16326,alabama,washington
-10373,alabama,wilcox
-23629,alabama,winston
-3337,alaska,aleutians east
-5634,alaska,
-288000,alaska,
-18386,alaska,
-836,alaska,bristol bay
-2097,alaska,denali
-4916,alaska,
-96849,alaska,fairbanks north star
-2530,alaska,haines
-2148,alaska,
-31974,alaska,juneau
-58708,alaska,kenai peninsula
-13901,alaska,ketchikan gateway
-12998,alaska,kodiak island
-8314,alaska,
-1592,alaska,lake and peninsula
-108317,alaska,matanuska-susitna
-10004,alaska,
-9832,alaska,north slope
-7621,alaska,northwest arctic
-3266,alaska,petersburg
-6203,alaska,
-8493,alaska,sitka
-1183,alaska,
-6893,alaska,
-9202,alaska,
-2502,alaska,wrangell
-579,alaska,yakutat
-5230,alaska,
-71887,arizona,apache
-125922,arizona,cochise
-143476,arizona,coconino
-54018,arizona,gila
-38837,arizona,graham
-9498,arizona,greenlee
-21108,arizona,la paz
-4485414,arizona,maricopa
-212181,arizona,mohave
-110924,arizona,navajo
-1047279,arizona,pima
-462789,arizona,pinal
-46498,arizona,santa cruz
-235099,arizona,yavapai
-213787,arizona,yuma
-17486,arkansas,arkansas
-19657,arkansas,ashley
-41932,arkansas,baxter
-279141,arkansas,benton
-37432,arkansas,boone
-10763,arkansas,bradley
-5189,arkansas,calhoun
-28380,arkansas,carroll
-10118,arkansas,chicot
-22320,arkansas,clark
-14551,arkansas,clay
-24919,arkansas,cleburne
-7956,arkansas,cleveland
-23457,arkansas,columbia
-20846,arkansas,conway
-110332,arkansas,craighead
-63257,arkansas,crawford
-47955,arkansas,crittenden
-16419,arkansas,cross
-7009,arkansas,dallas
-11361,arkansas,desha
-18219,arkansas,drew
-126007,arkansas,faulkner
-17715,arkansas,franklin
-12477,arkansas,fulton
-99386,arkansas,garland
-18265,arkansas,grant
-45325,arkansas,greene
-21532,arkansas,hempstead
-33771,arkansas,hot spring
-13202,arkansas,howard
-37825,arkansas,independence
-13629,arkansas,izard
-16719,arkansas,jackson
-66824,arkansas,jefferson
-26578,arkansas,johnson
-6624,arkansas,lafayette
-16406,arkansas,lawrence
-8857,arkansas,lee
-13024,arkansas,lincoln
-12259,arkansas,little river
-21466,arkansas,logan
-73309,arkansas,lonoke
-16576,arkansas,madison
-16694,arkansas,marion
-43257,arkansas,miller
-40651,arkansas,mississippi
-6701,arkansas,monroe
-8986,arkansas,montgomery
-8252,arkansas,nevada
-7753,arkansas,newton
-23382,arkansas,ouachita
-10455,arkansas,perry
-17782,arkansas,phillips
-10718,arkansas,pike
-23528,arkansas,poinsett
-19964,arkansas,polk
-64072,arkansas,pope
-8062,arkansas,prairie
-391911,arkansas,pulaski
-17958,arkansas,randolph
-24994,arkansas,st. francis
-122437,arkansas,saline
-10281,arkansas,scott
-7881,arkansas,searcy
-127827,arkansas,sebastian
-17007,arkansas,sevier
-17442,arkansas,sharp
-12506,arkansas,stone
-38682,arkansas,union
-16545,arkansas,van buren
-239187,arkansas,washington
-78753,arkansas,white
-6320,arkansas,woodruff
-21341,arkansas,yell
-1671329,california,alameda
-1129,california,alpine
-39752,california,amador
-219186,california,butte
-45905,california,calaveras
-21547,california,colusa
-1153526,california,contra costa
-27812,california,del norte
-192843,california,el dorado
-999101,california,fresno
-28393,california,glenn
-135558,california,humboldt
-181215,california,imperial
-18039,california,inyo
-900202,california,kern
-152940,california,kings
-64386,california,lake
-30573,california,lassen
-10039107,california,los angeles
-157327,california,madera
-258826,california,marin
-17203,california,mariposa
-86749,california,mendocino
-277680,california,merced
-8841,california,modoc
-14444,california,mono
-434061,california,monterey
-137744,california,napa
-99755,california,nevada
-3175692,california,orange
-398329,california,placer
-18807,california,plumas
-2470546,california,riverside
-1552058,california,sacramento
-62808,california,san benito
-2180085,california,san bernardino
-3338330,california,san diego
-881549,california,san francisco
-762148,california,san joaquin
-283111,california,san luis obispo
-766573,california,san mateo
-446499,california,santa barbara
-1927852,california,santa clara
-273213,california,santa cruz
-180080,california,shasta
-3005,california,sierra
-43539,california,siskiyou
-447643,california,solano
-494336,california,sonoma
-550660,california,stanislaus
-96971,california,sutter
-65084,california,tehama
-12285,california,trinity
-466195,california,tulare
-54478,california,tuolumne
-846006,california,ventura
-220500,california,yolo
-78668,california,yuba
-517421,colorado,adams
-16233,colorado,alamosa
-656590,colorado,arapahoe
-14029,colorado,archuleta
-3581,colorado,baca
-5577,colorado,bent
-326196,colorado,boulder
-70465,colorado,broomfield
-20356,colorado,chaffee
-1831,colorado,cheyenne
-9700,colorado,clear creek
-8205,colorado,conejos
-3887,colorado,costilla
-6061,colorado,crowley
-5068,colorado,custer
-31162,colorado,delta
-727211,colorado,denver
-2055,colorado,dolores
-351154,colorado,douglas
-55127,colorado,eagle
-26729,colorado,elbert
-720403,colorado,el paso
-47839,colorado,fremont
-60061,colorado,garfield
-6243,colorado,gilpin
-15734,colorado,grand
-17462,colorado,gunnison
-820,colorado,hinsdale
-6897,colorado,huerfano
-1392,colorado,jackson
-582881,colorado,jefferson
-1406,colorado,kiowa
-7097,colorado,kit carson
-8127,colorado,lake
-56221,colorado,la plata
-356899,colorado,larimer
-14506,colorado,las animas
-5701,colorado,lincoln
-22409,colorado,logan
-154210,colorado,mesa
-769,colorado,mineral
-13283,colorado,moffat
-26183,colorado,montezuma
-42758,colorado,montrose
-29068,colorado,morgan
-18278,colorado,otero
-4952,colorado,ouray
-18845,colorado,park
-4265,colorado,phillips
-17767,colorado,pitkin
-12172,colorado,prowers
-168424,colorado,pueblo
-6324,colorado,rio blanco
-11267,colorado,rio grande
-25638,colorado,routt
-6824,colorado,saguache
-728,colorado,san juan
-8179,colorado,san miguel
-2248,colorado,sedgwick
-31011,colorado,summit
-25388,colorado,teller
-4908,colorado,washington
-324492,colorado,weld
-10019,colorado,yuma
-943332,connecticut,fairfield
-891720,connecticut,hartford
-180333,connecticut,litchfield
-162436,connecticut,middlesex
-854757,connecticut,new haven
-265206,connecticut,new london
-150721,connecticut,tolland
-116782,connecticut,windham
-180786,delaware,kent
-558753,delaware,new castle
-234225,delaware,sussex
-705749,district of columbia,
-269043,florida,alachua
-29210,florida,baker
-174705,florida,bay
-28201,florida,bradford
-601942,florida,brevard
-1952778,florida,broward
-14105,florida,calhoun
-188910,florida,charlotte
-149657,florida,citrus
-219252,florida,clay
-384902,florida,collier
-71686,florida,columbia
-38001,florida,desoto
-16826,florida,dixie
-957755,florida,duval
-318316,florida,escambia
-115081,florida,flagler
-12125,florida,franklin
-45660,florida,gadsden
-18582,florida,gilchrist
-13811,florida,glades
-13639,florida,gulf
-14428,florida,hamilton
-26937,florida,hardee
-42022,florida,hendry
-193920,florida,hernando
-106221,florida,highlands
-1471968,florida,hillsborough
-19617,florida,holmes
-159923,florida,indian river
-46414,florida,jackson
-14246,florida,jefferson
-8422,florida,lafayette
-367118,florida,lake
-770577,florida,lee
-293582,florida,leon
-41503,florida,levy
-8354,florida,liberty
-18493,florida,madison
-403253,florida,manatee
-365579,florida,marion
-161000,florida,martin
-2716940,florida,miami-dade
-74228,florida,monroe
-88625,florida,nassau
-210738,florida,okaloosa
-42168,florida,okeechobee
-1393452,florida,orange
-375751,florida,osceola
-1496770,florida,palm beach
-553947,florida,pasco
-974996,florida,pinellas
-724777,florida,polk
-74521,florida,putnam
-264672,florida,st. johns
-328297,florida,st. lucie
-184313,florida,santa rosa
-433742,florida,sarasota
-471826,florida,seminole
-132420,florida,sumter
-44417,florida,suwannee
-21569,florida,taylor
-15237,florida,union
-553284,florida,volusia
-33739,florida,wakulla
-74071,florida,walton
-25473,florida,washington
-18386,georgia,appling
-8165,georgia,atkinson
-11164,georgia,bacon
-3038,georgia,baker
-44890,georgia,baldwin
-19234,georgia,banks
-83240,georgia,barrow
-107738,georgia,bartow
-16700,georgia,ben hill
-19397,georgia,berrien
-153159,georgia,bibb
-12873,georgia,bleckley
-19109,georgia,brantley
-15457,georgia,brooks
-39627,georgia,bryan
-79608,georgia,bulloch
-22383,georgia,burke
-24936,georgia,butts
-6189,georgia,calhoun
-54666,georgia,camden
-10803,georgia,candler
-119992,georgia,carroll
-67580,georgia,catoosa
-13392,georgia,charlton
-289430,georgia,chatham
-10907,georgia,chattahoochee
-24789,georgia,chattooga
-258773,georgia,cherokee
-128331,georgia,clarke
-2834,georgia,clay
-292256,georgia,clayton
-6618,georgia,clinch
-760141,georgia,cobb
-43273,georgia,coffee
-45600,georgia,colquitt
-156714,georgia,columbia
-17270,georgia,cook
-148509,georgia,coweta
-12404,georgia,crawford
-22372,georgia,crisp
-16116,georgia,dade
-26108,georgia,dawson
-26404,georgia,decatur
-759297,georgia,dekalb
-20605,georgia,dodge
-13390,georgia,dooly
-87956,georgia,dougherty
-146343,georgia,douglas
-10190,georgia,early
-4006,georgia,echols
-64296,georgia,effingham
-19194,georgia,elbert
-22646,georgia,emanuel
-10654,georgia,evans
-26188,georgia,fannin
-114421,georgia,fayette
-98498,georgia,floyd
-244252,georgia,forsyth
-23349,georgia,franklin
-1063937,georgia,fulton
-31369,georgia,gilmer
-2971,georgia,glascock
-85292,georgia,glynn
-57963,georgia,gordon
-24633,georgia,grady
-18324,georgia,greene
-936250,georgia,gwinnett
-45328,georgia,habersham
-204441,georgia,hall
-8457,georgia,hancock
-29792,georgia,haralson
-35236,georgia,harris
-26205,georgia,hart
-11923,georgia,heard
-234561,georgia,henry
-157863,georgia,houston
-9416,georgia,irwin
-72977,georgia,jackson
-14219,georgia,jasper
-15115,georgia,jeff davis
-15362,georgia,jefferson
-8676,georgia,jenkins
-9643,georgia,johnson
-28735,georgia,jones
-19077,georgia,lamar
-10423,georgia,lanier
-47546,georgia,laurens
-29992,georgia,lee
-61435,georgia,liberty
-7921,georgia,lincoln
-19559,georgia,long
-117406,georgia,lowndes
-33610,georgia,lumpkin
-21312,georgia,mcduffie
-14378,georgia,mcintosh
-12947,georgia,macon
-29880,georgia,madison
-8359,georgia,marion
-21167,georgia,meriwether
-5718,georgia,miller
-21863,georgia,mitchell
-27578,georgia,monroe
-9172,georgia,montgomery
-19276,georgia,morgan
-40096,georgia,murray
-195769,georgia,muscogee
-111744,georgia,newton
-40280,georgia,oconee
-15259,georgia,oglethorpe
-168667,georgia,paulding
-27546,georgia,peach
-32591,georgia,pickens
-19465,georgia,pierce
-18962,georgia,pike
-42613,georgia,polk
-11137,georgia,pulaski
-22119,georgia,putnam
-2299,georgia,quitman
-17137,georgia,rabun
-6778,georgia,randolph
-202518,georgia,richmond
-90896,georgia,rockdale
-5257,georgia,schley
-13966,georgia,screven
-8090,georgia,seminole
-66703,georgia,spalding
-25925,georgia,stephens
-6621,georgia,stewart
-29524,georgia,sumter
-6195,georgia,talbot
-1537,georgia,taliaferro
-25286,georgia,tattnall
-8020,georgia,taylor
-15860,georgia,telfair
-8531,georgia,terrell
-44451,georgia,thomas
-40644,georgia,tift
-26830,georgia,toombs
-12037,georgia,towns
-6901,georgia,treutlen
-69922,georgia,troup
-7985,georgia,turner
-8120,georgia,twiggs
-24511,georgia,union
-26320,georgia,upson
-69761,georgia,walker
-94593,georgia,walton
-35734,georgia,ware
-5254,georgia,warren
-20374,georgia,washington
-29927,georgia,wayne
-2607,georgia,webster
-7855,georgia,wheeler
-30798,georgia,white
-104628,georgia,whitfield
-8635,georgia,wilcox
-9777,georgia,wilkes
-8954,georgia,wilkinson
-20247,georgia,worth
-201513,hawaii,hawaii
-974563,hawaii,honolulu
-86,hawaii,kalawao
-72293,hawaii,kauai
-167417,hawaii,maui
-481587,idaho,ada
-4294,idaho,adams
-87808,idaho,bannock
-6125,idaho,bear lake
-9298,idaho,benewah
-46811,idaho,bingham
-23021,idaho,blaine
-7831,idaho,boise
-45739,idaho,bonner
-119062,idaho,bonneville
-12245,idaho,boundary
-2597,idaho,butte
-1106,idaho,camas
-229849,idaho,canyon
-7155,idaho,caribou
-24030,idaho,cassia
-845,idaho,clark
-8756,idaho,clearwater
-4315,idaho,custer
-27511,idaho,elmore
-13876,idaho,franklin
-13099,idaho,fremont
-18112,idaho,gem
-15179,idaho,gooding
-16667,idaho,idaho
-29871,idaho,jefferson
-24412,idaho,jerome
-165697,idaho,kootenai
-40108,idaho,latah
-8027,idaho,lemhi
-3838,idaho,lewis
-5366,idaho,lincoln
-39907,idaho,madison
-21039,idaho,minidoka
-40408,idaho,nez perce
-4531,idaho,oneida
-11823,idaho,owyhee
-23951,idaho,payette
-7681,idaho,power
-12882,idaho,shoshone
-12142,idaho,teton
-86878,idaho,twin falls
-11392,idaho,valley
-10194,idaho,washington
-65435,illinois,adams
-5761,illinois,alexander
-16426,illinois,bond
-53544,illinois,boone
-6578,illinois,brown
-32628,illinois,bureau
-4739,illinois,calhoun
-14305,illinois,carroll
-12147,illinois,cass
-209689,illinois,champaign
-32304,illinois,christian
-15441,illinois,clark
-13184,illinois,clay
-37562,illinois,clinton
-50621,illinois,coles
-5150233,illinois,cook
-18667,illinois,crawford
-10766,illinois,cumberland
-104897,illinois,dekalb
-15638,illinois,de witt
-19465,illinois,douglas
-922921,illinois,dupage
-17161,illinois,edgar
-6395,illinois,edwards
-34008,illinois,effingham
-21336,illinois,fayette
-12961,illinois,ford
-38469,illinois,franklin
-34340,illinois,fulton
-4828,illinois,gallatin
-12969,illinois,greene
-51054,illinois,grundy
-8116,illinois,hamilton
-17708,illinois,hancock
-3821,illinois,hardin
-6646,illinois,henderson
-48913,illinois,henry
-27114,illinois,iroquois
-56750,illinois,jackson
-9610,illinois,jasper
-37684,illinois,jefferson
-21773,illinois,jersey
-21235,illinois,jo daviess
-12417,illinois,johnson
-532403,illinois,kane
-109862,illinois,kankakee
-128990,illinois,kendall
-49699,illinois,knox
-696535,illinois,lake
-108669,illinois,lasalle
-15678,illinois,lawrence
-34096,illinois,lee
-35648,illinois,livingston
-28618,illinois,logan
-29682,illinois,mcdonough
-307774,illinois,mchenry
-171517,illinois,mclean
-104009,illinois,macon
-44926,illinois,macoupin
-262966,illinois,madison
-37205,illinois,marion
-11438,illinois,marshall
-13359,illinois,mason
-13772,illinois,massac
-12196,illinois,menard
-15437,illinois,mercer
-34637,illinois,monroe
-28414,illinois,montgomery
-33658,illinois,morgan
-14501,illinois,moultrie
-50643,illinois,ogle
-179179,illinois,peoria
-20916,illinois,perry
-16344,illinois,piatt
-15561,illinois,pike
-4177,illinois,pope
-5335,illinois,pulaski
-5739,illinois,putnam
-31782,illinois,randolph
-15513,illinois,richland
-141879,illinois,rock island
-259686,illinois,st. clair
-23491,illinois,saline
-194672,illinois,sangamon
-6768,illinois,schuyler
-4951,illinois,scott
-21634,illinois,shelby
-5342,illinois,stark
-44498,illinois,stephenson
-131803,illinois,tazewell
-16653,illinois,union
-75758,illinois,vermilion
-11520,illinois,wabash
-16844,illinois,warren
-13887,illinois,washington
-16215,illinois,wayne
-13537,illinois,white
-55175,illinois,whiteside
-690743,illinois,will
-66597,illinois,williamson
-282572,illinois,winnebago
-38459,illinois,woodford
-35777,indiana,adams
-379299,indiana,allen
-83779,indiana,bartholomew
-8748,indiana,benton
-11758,indiana,blackford
-67843,indiana,boone
-15092,indiana,brown
-20257,indiana,carroll
-37689,indiana,cass
-118302,indiana,clark
-26225,indiana,clay
-32399,indiana,clinton
-10577,indiana,crawford
-33351,indiana,daviess
-49458,indiana,dearborn
-26559,indiana,decatur
-43475,indiana,dekalb
-114135,indiana,delaware
-42736,indiana,dubois
-206341,indiana,elkhart
-23102,indiana,fayette
-78522,indiana,floyd
-16346,indiana,fountain
-22758,indiana,franklin
-19974,indiana,fulton
-33659,indiana,gibson
-65769,indiana,grant
-31922,indiana,greene
-338011,indiana,hamilton
-78168,indiana,hancock
-40515,indiana,harrison
-170311,indiana,hendricks
-47972,indiana,henry
-82544,indiana,howard
-36520,indiana,huntington
-44231,indiana,jackson
-33562,indiana,jasper
-20436,indiana,jay
-32308,indiana,jefferson
-27735,indiana,jennings
-158167,indiana,johnson
-36594,indiana,knox
-79456,indiana,kosciusko
-39614,indiana,lagrange
-485493,indiana,lake
-109888,indiana,laporte
-45370,indiana,lawrence
-129569,indiana,madison
-964582,indiana,marion
-46258,indiana,marshall
-10255,indiana,martin
-35516,indiana,miami
-148431,indiana,monroe
-38338,indiana,montgomery
-70489,indiana,morgan
-13984,indiana,newton
-47744,indiana,noble
-5875,indiana,ohio
-19646,indiana,orange
-20799,indiana,owen
-16937,indiana,parke
-19169,indiana,perry
-12389,indiana,pike
-170389,indiana,porter
-25427,indiana,posey
-12353,indiana,pulaski
-37576,indiana,putnam
-24665,indiana,randolph
-28324,indiana,ripley
-16581,indiana,rush
-271826,indiana,st. joseph
-23873,indiana,scott
-44729,indiana,shelby
-20277,indiana,spencer
-22995,indiana,starke
-34594,indiana,steuben
-20669,indiana,sullivan
-10751,indiana,switzerland
-195732,indiana,tippecanoe
-15148,indiana,tipton
-7054,indiana,union
-181451,indiana,vanderburgh
-15498,indiana,vermillion
-107038,indiana,vigo
-30996,indiana,wabash
-8265,indiana,warren
-62998,indiana,warrick
-28036,indiana,washington
-65884,indiana,wayne
-28296,indiana,wells
-24102,indiana,white
-33964,indiana,whitley
-7152,iowa,adair
-3602,iowa,adams
-13687,iowa,allamakee
-12426,iowa,appanoose
-5496,iowa,audubon
-25645,iowa,benton
-131228,iowa,black hawk
-26234,iowa,boone
-25062,iowa,bremer
-21175,iowa,buchanan
-19620,iowa,buena vista
-14439,iowa,butler
-9668,iowa,calhoun
-20165,iowa,carroll
-12836,iowa,cass
-18627,iowa,cedar
-42450,iowa,cerro gordo
-11235,iowa,cherokee
-11933,iowa,chickasaw
-9395,iowa,clarke
-16016,iowa,clay
-17549,iowa,clayton
-46429,iowa,clinton
-16820,iowa,crawford
-93453,iowa,dallas
-9000,iowa,davis
-7870,iowa,decatur
-17011,iowa,delaware
-38967,iowa,des moines
-17258,iowa,dickinson
-97311,iowa,dubuque
-9208,iowa,emmet
-19650,iowa,fayette
-15642,iowa,floyd
-10070,iowa,franklin
-6960,iowa,fremont
-8888,iowa,greene
-12232,iowa,grundy
-10689,iowa,guthrie
-14773,iowa,hamilton
-10630,iowa,hancock
-16846,iowa,hardin
-14049,iowa,harrison
-19954,iowa,henry
-9158,iowa,howard
-9558,iowa,humboldt
-6860,iowa,ida
-16184,iowa,iowa
-19439,iowa,jackson
-37185,iowa,jasper
-18295,iowa,jefferson
-151140,iowa,johnson
-20681,iowa,jones
-10246,iowa,keokuk
-14813,iowa,kossuth
-33657,iowa,lee
-226706,iowa,linn
-11035,iowa,louisa
-8600,iowa,lucas
-11755,iowa,lyon
-16338,iowa,madison
-22095,iowa,mahaska
-33253,iowa,marion
-39369,iowa,marshall
-15109,iowa,mills
-10586,iowa,mitchell
-8615,iowa,monona
-7707,iowa,monroe
-9917,iowa,montgomery
-42664,iowa,muscatine
-13753,iowa,o'brien
-5958,iowa,osceola
-15107,iowa,page
-8886,iowa,palo alto
-25177,iowa,plymouth
-6619,iowa,pocahontas
-490161,iowa,polk
-93206,iowa,pottawattamie
-18504,iowa,poweshiek
-4894,iowa,ringgold
-9721,iowa,sac
-172943,iowa,scott
-11454,iowa,shelby
-34855,iowa,sioux
-97117,iowa,story
-16854,iowa,tama
-6121,iowa,taylor
-12241,iowa,union
-7044,iowa,van buren
-34969,iowa,wapello
-51466,iowa,warren
-21965,iowa,washington
-6441,iowa,wayne
-35904,iowa,webster
-10354,iowa,winnebago
-19991,iowa,winneshiek
-103107,iowa,woodbury
-7381,iowa,worth
-12562,iowa,wright
-12369,kansas,allen
-7858,kansas,anderson
-16073,kansas,atchison
-4427,kansas,barber
-25779,kansas,barton
-14534,kansas,bourbon
-9564,kansas,brown
-66911,kansas,butler
-2648,kansas,chase
-3250,kansas,chautauqua
-19939,kansas,cherokee
-2657,kansas,cheyenne
-1994,kansas,clark
-8002,kansas,clay
-8786,kansas,cloud
-8179,kansas,coffey
-1700,kansas,comanche
-34908,kansas,cowley
-38818,kansas,crawford
-2827,kansas,decatur
-18466,kansas,dickinson
-7600,kansas,doniphan
-122259,kansas,douglas
-2798,kansas,edwards
-2530,kansas,elk
-28553,kansas,ellis
-6102,kansas,ellsworth
-36467,kansas,finney
-33619,kansas,ford
-25544,kansas,franklin
-31670,kansas,geary
-2636,kansas,gove
-2482,kansas,graham
-7150,kansas,grant
-5988,kansas,gray
-1232,kansas,greeley
-5982,kansas,greenwood
-2539,kansas,hamilton
-5436,kansas,harper
-34429,kansas,harvey
-3968,kansas,haskell
-1794,kansas,hodgeman
-13171,kansas,jackson
-19043,kansas,jefferson
-2879,kansas,jewell
-602401,kansas,johnson
-3838,kansas,kearny
-7152,kansas,kingman
-2475,kansas,kiowa
-19618,kansas,labette
-1535,kansas,lane
-81758,kansas,leavenworth
-2962,kansas,lincoln
-9703,kansas,linn
-2794,kansas,logan
-33195,kansas,lyon
-28542,kansas,mcpherson
-11884,kansas,marion
-9707,kansas,marshall
-4033,kansas,meade
-34237,kansas,miami
-5979,kansas,mitchell
-31829,kansas,montgomery
-5620,kansas,morris
-2587,kansas,morton
-10231,kansas,nemaha
-16007,kansas,neosho
-2750,kansas,ness
-5361,kansas,norton
-15949,kansas,osage
-3421,kansas,osborne
-5704,kansas,ottawa
-6414,kansas,pawnee
-5234,kansas,phillips
-24383,kansas,pottawatomie
-9164,kansas,pratt
-2530,kansas,rawlins
-61998,kansas,reno
-4636,kansas,republic
-9537,kansas,rice
-74232,kansas,riley
-4920,kansas,rooks
-3036,kansas,rush
-6856,kansas,russell
-54224,kansas,saline
-4823,kansas,scott
-516042,kansas,sedgwick
-21428,kansas,seward
-176875,kansas,shawnee
-2521,kansas,sheridan
-5917,kansas,sherman
-3583,kansas,smith
-4156,kansas,stafford
-2006,kansas,stanton
-5485,kansas,stevens
-22836,kansas,sumner
-7777,kansas,thomas
-2803,kansas,trego
-6931,kansas,wabaunsee
-1518,kansas,wallace
-5406,kansas,washington
-2119,kansas,wichita
-8525,kansas,wilson
-3138,kansas,woodson
-165429,kansas,wyandotte
-19202,kentucky,adair
-21315,kentucky,allen
-22747,kentucky,anderson
-7888,kentucky,ballard
-44249,kentucky,barren
-12500,kentucky,bath
-26032,kentucky,bell
-133581,kentucky,boone
-19788,kentucky,bourbon
-46718,kentucky,boyd
-30060,kentucky,boyle
-8303,kentucky,bracken
-12630,kentucky,breathitt
-20477,kentucky,breckinridge
-81676,kentucky,bullitt
-12879,kentucky,butler
-12747,kentucky,caldwell
-39001,kentucky,calloway
-93584,kentucky,campbell
-4760,kentucky,carlisle
-10631,kentucky,carroll
-26797,kentucky,carter
-16159,kentucky,casey
-70461,kentucky,christian
-36263,kentucky,clark
-19901,kentucky,clay
-10218,kentucky,clinton
-8806,kentucky,crittenden
-6614,kentucky,cumberland
-101511,kentucky,daviess
-12150,kentucky,edmonson
-7517,kentucky,elliott
-14106,kentucky,estill
-323152,kentucky,fayette
-14581,kentucky,fleming
-35589,kentucky,floyd
-50991,kentucky,franklin
-5969,kentucky,fulton
-8869,kentucky,gallatin
-17666,kentucky,garrard
-25069,kentucky,grant
-37266,kentucky,graves
-26427,kentucky,grayson
-10941,kentucky,green
-35098,kentucky,greenup
-8722,kentucky,hancock
-110958,kentucky,hardin
-26010,kentucky,harlan
-18886,kentucky,harrison
-19035,kentucky,hart
-45210,kentucky,henderson
-16126,kentucky,henry
-4380,kentucky,hickman
-44686,kentucky,hopkins
-13329,kentucky,jackson
-766757,kentucky,jefferson
-54115,kentucky,jessamine
-22188,kentucky,johnson
-166998,kentucky,kenton
-14806,kentucky,knott
-31145,kentucky,knox
-14398,kentucky,larue
-60813,kentucky,laurel
-15317,kentucky,lawrence
-7403,kentucky,lee
-9877,kentucky,leslie
-21553,kentucky,letcher
-13275,kentucky,lewis
-24549,kentucky,lincoln
-9194,kentucky,livingston
-27102,kentucky,logan
-8210,kentucky,lyon
-65418,kentucky,mccracken
-17231,kentucky,mccreary
-9207,kentucky,mclean
-92987,kentucky,madison
-12161,kentucky,magoffin
-19273,kentucky,marion
-31100,kentucky,marshall
-11195,kentucky,martin
-17070,kentucky,mason
-28572,kentucky,meade
-6489,kentucky,menifee
-21933,kentucky,mercer
-10071,kentucky,metcalfe
-10650,kentucky,monroe
-28157,kentucky,montgomery
-13309,kentucky,morgan
-30622,kentucky,muhlenberg
-46233,kentucky,nelson
-7269,kentucky,nicholas
-23994,kentucky,ohio
-66799,kentucky,oldham
-10901,kentucky,owen
-4415,kentucky,owsley
-14590,kentucky,pendleton
-25758,kentucky,perry
-57876,kentucky,pike
-12359,kentucky,powell
-64979,kentucky,pulaski
-2108,kentucky,robertson
-16695,kentucky,rockcastle
-24460,kentucky,rowan
-17923,kentucky,russell
-57004,kentucky,scott
-49024,kentucky,shelby
-18572,kentucky,simpson
-19351,kentucky,spencer
-25769,kentucky,taylor
-12294,kentucky,todd
-14651,kentucky,trigg
-8471,kentucky,trimble
-14381,kentucky,union
-132896,kentucky,warren
-12095,kentucky,washington
-20333,kentucky,wayne
-12942,kentucky,webster
-36264,kentucky,whitley
-7157,kentucky,wolfe
-26734,kentucky,woodford
-62045,louisiana,acadia
-25627,louisiana,allen
-126604,louisiana,ascension
-21891,louisiana,assumption
-40144,louisiana,avoyelles
-37497,louisiana,beauregard
-13241,louisiana,bienville
-127039,louisiana,bossier
-240204,louisiana,caddo
-203436,louisiana,calcasieu
-9918,louisiana,caldwell
-6973,louisiana,cameron
-9494,louisiana,catahoula
-15670,louisiana,claiborne
-19259,louisiana,concordia
-27463,louisiana,de soto
-440059,louisiana,east baton rouge
-6861,louisiana,east carroll
-19135,louisiana,east feliciana
-33395,louisiana,evangeline
-20015,louisiana,franklin
-22389,louisiana,grant
-69830,louisiana,iberia
-32511,louisiana,iberville
-15744,louisiana,jackson
-432493,louisiana,jefferson
-31368,louisiana,jefferson davis
-244390,louisiana,lafayette
-97614,louisiana,lafourche
-14892,louisiana,lasalle
-46742,louisiana,lincoln
-140789,louisiana,livingston
-10951,louisiana,madison
-24874,louisiana,morehouse
-38158,louisiana,natchitoches
-390144,louisiana,orleans
-153279,louisiana,ouachita
-23197,louisiana,plaquemines
-21730,louisiana,pointe coupee
-129648,louisiana,rapides
-8442,louisiana,red river
-20122,louisiana,richland
-23884,louisiana,sabine
-47244,louisiana,st. bernard
-53100,louisiana,st. charles
-10132,louisiana,st. helena
-21096,louisiana,st. james
-42837,louisiana,st. john the baptist
-82124,louisiana,st. landry
-53431,louisiana,st. martin
-49348,louisiana,st. mary
-260419,louisiana,st. tammany
-134758,louisiana,tangipahoa
-4334,louisiana,tensas
-110461,louisiana,terrebonne
-22108,louisiana,union
-59511,louisiana,vermilion
-47429,louisiana,vernon
-46194,louisiana,washington
-38340,louisiana,webster
-26465,louisiana,west baton rouge
-10830,louisiana,west carroll
-15568,louisiana,west feliciana
-13904,louisiana,winn
-108277,maine,androscoggin
-67055,maine,aroostook
-295003,maine,cumberland
-30199,maine,franklin
-54987,maine,hancock
-122302,maine,kennebec
-39772,maine,knox
-34634,maine,lincoln
-57975,maine,oxford
-152148,maine,penobscot
-16785,maine,piscataquis
-35856,maine,sagadahoc
-50484,maine,somerset
-39715,maine,waldo
-31379,maine,washington
-207641,maine,york
-70416,maryland,allegany
-579234,maryland,anne arundel
-827370,maryland,baltimore
-92525,maryland,calvert
-33406,maryland,caroline
-168447,maryland,carroll
-102855,maryland,cecil
-163257,maryland,charles
-31929,maryland,dorchester
-259547,maryland,frederick
-29014,maryland,garrett
-255441,maryland,harford
-325690,maryland,howard
-19422,maryland,kent
-1050688,maryland,montgomery
-909327,maryland,prince george's
-50381,maryland,queen anne's
-113510,maryland,st. mary's
-25616,maryland,somerset
-37181,maryland,talbot
-151049,maryland,washington
-103609,maryland,wicomico
-52276,maryland,worcester
-593490,maryland,baltimore
-212990,massachusetts,barnstable
-124944,massachusetts,berkshire
-565217,massachusetts,bristol
-17332,massachusetts,dukes
-789034,massachusetts,essex
-70180,massachusetts,franklin
-466372,massachusetts,hampden
-160830,massachusetts,hampshire
-1611699,massachusetts,middlesex
-11399,massachusetts,nantucket
-706775,massachusetts,norfolk
-521202,massachusetts,plymouth
-803907,massachusetts,suffolk
-830622,massachusetts,worcester
-10405,michigan,alcona
-9108,michigan,alger
-118081,michigan,allegan
-28405,michigan,alpena
-23324,michigan,antrim
-14883,michigan,arenac
-8209,michigan,baraga
-61550,michigan,barry
-103126,michigan,bay
-17766,michigan,benzie
-153401,michigan,berrien
-43517,michigan,branch
-134159,michigan,calhoun
-51787,michigan,cass
-26143,michigan,charlevoix
-25276,michigan,cheboygan
-37349,michigan,chippewa
-30950,michigan,clare
-79595,michigan,clinton
-14029,michigan,crawford
-35784,michigan,delta
-25239,michigan,dickinson
-110268,michigan,eaton
-33415,michigan,emmet
-405813,michigan,genesee
-25449,michigan,gladwin
-13975,michigan,gogebic
-93088,michigan,grand traverse
-40711,michigan,gratiot
-45605,michigan,hillsdale
-35684,michigan,houghton
-30981,michigan,huron
-292406,michigan,ingham
-64697,michigan,ionia
-25127,michigan,iosco
-11066,michigan,iron
-69872,michigan,isabella
-158510,michigan,jackson
-265066,michigan,kalamazoo
-18038,michigan,kalkaska
-656955,michigan,kent
-2116,michigan,keweenaw
-11853,michigan,lake
-87607,michigan,lapeer
-21761,michigan,leelanau
-98451,michigan,lenawee
-191995,michigan,livingston
-6229,michigan,luce
-10799,michigan,mackinac
-873972,michigan,macomb
-24558,michigan,manistee
-66699,michigan,marquette
-29144,michigan,mason
-43453,michigan,mecosta
-22780,michigan,menominee
-83156,michigan,midland
-15118,michigan,missaukee
-150500,michigan,monroe
-63888,michigan,montcalm
-9328,michigan,montmorency
-173566,michigan,muskegon
-48980,michigan,newaygo
-1257584,michigan,oakland
-26467,michigan,oceana
-20997,michigan,ogemaw
-5720,michigan,ontonagon
-23460,michigan,osceola
-8241,michigan,oscoda
-24668,michigan,otsego
-291830,michigan,ottawa
-12592,michigan,presque isle
-24019,michigan,roscommon
-190539,michigan,saginaw
-159128,michigan,st. clair
-60964,michigan,st. joseph
-41170,michigan,sanilac
-8094,michigan,schoolcraft
-68122,michigan,shiawassee
-52245,michigan,tuscola
-75677,michigan,van buren
-367601,michigan,washtenaw
-1749343,michigan,wayne
-33631,michigan,wexford
-15886,minnesota,aitkin
-356921,minnesota,anoka
-34423,minnesota,becker
-47188,minnesota,beltrami
-40889,minnesota,benton
-4991,minnesota,big stone
-67653,minnesota,blue earth
-25008,minnesota,brown
-35871,minnesota,carlton
-105089,minnesota,carver
-29779,minnesota,cass
-11800,minnesota,chippewa
-56579,minnesota,chisago
-64222,minnesota,clay
-8818,minnesota,clearwater
-5463,minnesota,cook
-11196,minnesota,cottonwood
-65055,minnesota,crow wing
-429021,minnesota,dakota
-20934,minnesota,dodge
-38141,minnesota,douglas
-13653,minnesota,faribault
-21067,minnesota,fillmore
-30281,minnesota,freeborn
-46340,minnesota,goodhue
-5972,minnesota,grant
-1265843,minnesota,hennepin
-18600,minnesota,houston
-21491,minnesota,hubbard
-40596,minnesota,isanti
-45130,minnesota,itasca
-9846,minnesota,jackson
-16337,minnesota,kanabec
-43199,minnesota,kandiyohi
-4298,minnesota,kittson
-12229,minnesota,koochiching
-6623,minnesota,lac qui parle
-10641,minnesota,lake
-3740,minnesota,lake of the woods
-28887,minnesota,le sueur
-5639,minnesota,lincoln
-25474,minnesota,lyon
-35893,minnesota,mcleod
-5527,minnesota,mahnomen
-9336,minnesota,marshall
-19683,minnesota,martin
-23222,minnesota,meeker
-26277,minnesota,mille lacs
-33386,minnesota,morrison
-40062,minnesota,mower
-8194,minnesota,murray
-34274,minnesota,nicollet
-21629,minnesota,nobles
-6375,minnesota,norman
-158293,minnesota,olmsted
-58746,minnesota,otter tail
-14119,minnesota,pennington
-29579,minnesota,pine
-9126,minnesota,pipestone
-31364,minnesota,polk
-11249,minnesota,pope
-550321,minnesota,ramsey
-4055,minnesota,red lake
-15170,minnesota,redwood
-14548,minnesota,renville
-66972,minnesota,rice
-9315,minnesota,rock
-15165,minnesota,roseau
-199070,minnesota,st. louis
-149013,minnesota,scott
-97238,minnesota,sherburne
-14865,minnesota,sibley
-161075,minnesota,stearns
-36649,minnesota,steele
-9805,minnesota,stevens
-9266,minnesota,swift
-24664,minnesota,todd
-3259,minnesota,traverse
-21627,minnesota,wabasha
-13682,minnesota,wadena
-18612,minnesota,waseca
-262440,minnesota,washington
-10897,minnesota,watonwan
-6207,minnesota,wilkin
-50484,minnesota,winona
-138377,minnesota,wright
-9709,minnesota,yellow medicine
-30693,mississippi,adams
-36953,mississippi,alcorn
-12297,mississippi,amite
-18174,mississippi,attala
-8259,mississippi,benton
-30628,mississippi,bolivar
-14361,mississippi,calhoun
-9947,mississippi,carroll
-17103,mississippi,chickasaw
-8210,mississippi,choctaw
-8988,mississippi,claiborne
-15541,mississippi,clarke
-19316,mississippi,clay
-22124,mississippi,coahoma
-28065,mississippi,copiah
-18636,mississippi,covington
-184945,mississippi,desoto
-74897,mississippi,forrest
-7713,mississippi,franklin
-24500,mississippi,george
-13586,mississippi,greene
-20758,mississippi,grenada
-47632,mississippi,hancock
-208080,mississippi,harrison
-231840,mississippi,hinds
-17010,mississippi,holmes
-8064,mississippi,humphreys
-1327,mississippi,issaquena
-23390,mississippi,itawamba
-143617,mississippi,jackson
-16383,mississippi,jasper
-6990,mississippi,jefferson
-11128,mississippi,jefferson davis
-68098,mississippi,jones
-9742,mississippi,kemper
-54019,mississippi,lafayette
-63343,mississippi,lamar
-74125,mississippi,lauderdale
-12586,mississippi,lawrence
-22786,mississippi,leake
-85436,mississippi,lee
-28183,mississippi,leflore
-34153,mississippi,lincoln
-58595,mississippi,lowndes
-106272,mississippi,madison
-24573,mississippi,marion
-35294,mississippi,marshall
-35252,mississippi,monroe
-9775,mississippi,montgomery
-29118,mississippi,neshoba
-21018,mississippi,newton
-10417,mississippi,noxubee
-49587,mississippi,oktibbeha
-34192,mississippi,panola
-55535,mississippi,pearl river
-11973,mississippi,perry
-39288,mississippi,pike
-32174,mississippi,pontotoc
-25126,mississippi,prentiss
-6792,mississippi,quitman
-155271,mississippi,rankin
-28124,mississippi,scott
-4321,mississippi,sharkey
-26658,mississippi,simpson
-15916,mississippi,smith
-18336,mississippi,stone
-25110,mississippi,sunflower
-13809,mississippi,tallahatchie
-28321,mississippi,tate
-22015,mississippi,tippah
-19383,mississippi,tishomingo
-9632,mississippi,tunica
-28815,mississippi,union
-14286,mississippi,walthall
-45381,mississippi,warren
-43909,mississippi,washington
-20183,mississippi,wayne
-9689,mississippi,webster
-8630,mississippi,wilkinson
-17955,mississippi,winston
-12108,mississippi,yalobusha
-29690,mississippi,yazoo
-25343,missouri,adair
-17712,missouri,andrew
-5143,missouri,atchison
-25388,missouri,audrain
-35789,missouri,barry
-11754,missouri,barton
-16172,missouri,bates
-19443,missouri,benton
-12133,missouri,bollinger
-180463,missouri,boone
-87364,missouri,buchanan
-42478,missouri,butler
-9020,missouri,caldwell
-44743,missouri,callaway
-46305,missouri,camden
-78871,missouri,cape girardeau
-8679,missouri,carroll
-5982,missouri,carter
-105780,missouri,cass
-14349,missouri,cedar
-7426,missouri,chariton
-88595,missouri,christian
-6797,missouri,clark
-249948,missouri,clay
-20387,missouri,clinton
-76745,missouri,cole
-17709,missouri,cooper
-23920,missouri,crawford
-7561,missouri,dade
-16878,missouri,dallas
-8278,missouri,daviess
-12547,missouri,dekalb
-15573,missouri,dent
-13185,missouri,douglas
-29131,missouri,dunklin
-103967,missouri,franklin
-14706,missouri,gasconade
-6571,missouri,gentry
-293086,missouri,greene
-9850,missouri,grundy
-8352,missouri,harrison
-21824,missouri,henry
-9544,missouri,hickory
-4403,missouri,holt
-10001,missouri,howard
-40117,missouri,howell
-10125,missouri,iron
-703011,missouri,jackson
-121328,missouri,jasper
-225081,missouri,jefferson
-54062,missouri,johnson
-3959,missouri,knox
-35723,missouri,laclede
-32708,missouri,lafayette
-38355,missouri,lawrence
-9776,missouri,lewis
-59013,missouri,lincoln
-11920,missouri,linn
-15227,missouri,livingston
-22837,missouri,mcdonald
-15117,missouri,macon
-12088,missouri,madison
-8697,missouri,maries
-28530,missouri,marion
-3617,missouri,mercer
-25619,missouri,miller
-13180,missouri,mississippi
-16132,missouri,moniteau
-8644,missouri,monroe
-11551,missouri,montgomery
-20627,missouri,morgan
-17076,missouri,new madrid
-58236,missouri,newton
-22092,missouri,nodaway
-10529,missouri,oregon
-13615,missouri,osage
-9174,missouri,ozark
-15805,missouri,pemiscot
-19136,missouri,perry
-42339,missouri,pettis
-44573,missouri,phelps
-18302,missouri,pike
-104418,missouri,platte
-32149,missouri,polk
-52607,missouri,pulaski
-4696,missouri,putnam
-10309,missouri,ralls
-24748,missouri,randolph
-23018,missouri,ray
-6270,missouri,reynolds
-13288,missouri,ripley
-402022,missouri,st. charles
-9397,missouri,st. clair
-17894,missouri,ste. genevieve
-67215,missouri,st. francois
-994205,missouri,st. louis
-22761,missouri,saline
-4660,missouri,schuyler
-4902,missouri,scotland
-38280,missouri,scott
-8166,missouri,shannon
-5930,missouri,shelby
-29025,missouri,stoddard
-31952,missouri,stone
-6089,missouri,sullivan
-55928,missouri,taney
-25398,missouri,texas
-20563,missouri,vernon
-35649,missouri,warren
-24730,missouri,washington
-12873,missouri,wayne
-39592,missouri,webster
-2013,missouri,worth
-18289,missouri,wright
-300576,missouri,st. louis
-9453,montana,beaverhead
-13319,montana,big horn
-6681,montana,blaine
-6237,montana,broadwater
-10725,montana,carbon
-1252,montana,carter
-81366,montana,cascade
-5635,montana,chouteau
-11402,montana,custer
-1690,montana,daniels
-8613,montana,dawson
-9140,montana,deer lodge
-2846,montana,fallon
-11050,montana,fergus
-103806,montana,flathead
-114434,montana,gallatin
-1258,montana,garfield
-13753,montana,glacier
-821,montana,golden valley
-3379,montana,granite
-16484,montana,hill
-12221,montana,jefferson
-2007,montana,judith basin
-30458,montana,lake
-69432,montana,lewis and clark
-2337,montana,liberty
-19980,montana,lincoln
-1664,montana,mccone
-8600,montana,madison
-1862,montana,meagher
-4397,montana,mineral
-119600,montana,missoula
-4633,montana,musselshell
-16606,montana,park
-487,montana,petroleum
-3954,montana,phillips
-5911,montana,pondera
-1682,montana,powder river
-6890,montana,powell
-1077,montana,prairie
-43806,montana,ravalli
-10803,montana,richland
-11004,montana,roosevelt
-8937,montana,rosebud
-12113,montana,sanders
-3309,montana,sheridan
-34915,montana,silver bow
-9642,montana,stillwater
-3737,montana,sweet grass
-6147,montana,teton
-4736,montana,toole
-696,montana,treasure
-7396,montana,valley
-2126,montana,wheatland
-969,montana,wibaux
-161300,montana,yellowstone
-31363,nebraska,adams
-6298,nebraska,antelope
-463,nebraska,arthur
-745,nebraska,banner
-465,nebraska,blaine
-5192,nebraska,boone
-10783,nebraska,box butte
-1919,nebraska,boyd
-2955,nebraska,brown
-49659,nebraska,buffalo
-6459,nebraska,burt
-8016,nebraska,butler
-26248,nebraska,cass
-8402,nebraska,cedar
-3924,nebraska,chase
-5689,nebraska,cherry
-8910,nebraska,cheyenne
-6203,nebraska,clay
-10709,nebraska,colfax
-8846,nebraska,cuming
-10777,nebraska,custer
-20026,nebraska,dakota
-8589,nebraska,dawes
-23595,nebraska,dawson
-1794,nebraska,deuel
-5636,nebraska,dixon
-36565,nebraska,dodge
-571327,nebraska,douglas
-1693,nebraska,dundy
-5462,nebraska,fillmore
-2979,nebraska,franklin
-2627,nebraska,frontier
-4676,nebraska,furnas
-21513,nebraska,gage
-1837,nebraska,garden
-1969,nebraska,garfield
-1990,nebraska,gosper
-623,nebraska,grant
-2356,nebraska,greeley
-61353,nebraska,hall
-9324,nebraska,hamilton
-3380,nebraska,harlan
-922,nebraska,hayes
-2762,nebraska,hitchcock
-10067,nebraska,holt
-682,nebraska,hooker
-6445,nebraska,howard
-7046,nebraska,jefferson
-5071,nebraska,johnson
-6495,nebraska,kearney
-8034,nebraska,keith
-806,nebraska,keya paha
-3632,nebraska,kimball
-8332,nebraska,knox
-319090,nebraska,lancaster
-34914,nebraska,lincoln
-748,nebraska,logan
-664,nebraska,loup
-494,nebraska,mcpherson
-35099,nebraska,madison
-7755,nebraska,merrick
-4642,nebraska,morrill
-3519,nebraska,nance
-6972,nebraska,nemaha
-4148,nebraska,nuckolls
-16012,nebraska,otoe
-2613,nebraska,pawnee
-2891,nebraska,perkins
-9034,nebraska,phelps
-7148,nebraska,pierce
-33470,nebraska,platte
-5213,nebraska,polk
-10724,nebraska,red willow
-7865,nebraska,richardson
-1357,nebraska,rock
-14224,nebraska,saline
-187196,nebraska,sarpy
-21578,nebraska,saunders
-35618,nebraska,scotts bluff
-17284,nebraska,seward
-5246,nebraska,sheridan
-3001,nebraska,sherman
-1166,nebraska,sioux
-5920,nebraska,stanton
-5003,nebraska,thayer
-722,nebraska,thomas
-7224,nebraska,thurston
-4158,nebraska,valley
-20729,nebraska,washington
-9385,nebraska,wayne
-3487,nebraska,webster
-783,nebraska,wheeler
-13679,nebraska,york
-24909,nevada,churchill
-2266715,nevada,clark
-48905,nevada,douglas
-52778,nevada,elko
-873,nevada,esmeralda
-2029,nevada,eureka
-16831,nevada,humboldt
-5532,nevada,lander
-5183,nevada,lincoln
-57510,nevada,lyon
-4505,nevada,mineral
-46523,nevada,nye
-6725,nevada,pershing
-4123,nevada,storey
-471519,nevada,washoe
-9580,nevada,white pine
-55916,nevada,carson
-61303,new hampshire,belknap
-48910,new hampshire,carroll
-76085,new hampshire,cheshire
-31563,new hampshire,coos
-89886,new hampshire,grafton
-417025,new hampshire,hillsborough
-151391,new hampshire,merrimack
-309769,new hampshire,rockingham
-130633,new hampshire,strafford
-43146,new hampshire,sullivan
-263670,new jersey,atlantic
-932202,new jersey,bergen
-445349,new jersey,burlington
-506471,new jersey,camden
-92039,new jersey,cape may
-149527,new jersey,cumberland
-798975,new jersey,essex
-291636,new jersey,gloucester
-672391,new jersey,hudson
-124371,new jersey,hunterdon
-367430,new jersey,mercer
-825062,new jersey,middlesex
-618795,new jersey,monmouth
-491845,new jersey,morris
-607186,new jersey,ocean
-501826,new jersey,passaic
-62385,new jersey,salem
-328934,new jersey,somerset
-140488,new jersey,sussex
-556341,new jersey,union
-105267,new jersey,warren
-679121,new mexico,bernalillo
-3527,new mexico,catron
-64615,new mexico,chaves
-26675,new mexico,cibola
-11941,new mexico,colfax
-48954,new mexico,curry
-1748,new mexico,de baca
-218195,new mexico,do�a ana
-58460,new mexico,eddy
-26998,new mexico,grant
-4300,new mexico,guadalupe
-625,new mexico,harding
-4198,new mexico,hidalgo
-71070,new mexico,lea
-19572,new mexico,lincoln
-19369,new mexico,los alamos
-23709,new mexico,luna
-71367,new mexico,mckinley
-4521,new mexico,mora
-67490,new mexico,otero
-8253,new mexico,quay
-38921,new mexico,rio arriba
-18500,new mexico,roosevelt
-146748,new mexico,sandoval
-123958,new mexico,san juan
-27277,new mexico,san miguel
-150358,new mexico,santa fe
-10791,new mexico,sierra
-16637,new mexico,socorro
-32723,new mexico,taos
-15461,new mexico,torrance
-4059,new mexico,union
-76688,new mexico,valencia
-305506,new york,albany
-46091,new york,allegany
-1418207,new york,bronx
-190488,new york,broome
-76117,new york,cattaraugus
-76576,new york,cayuga
-126903,new york,chautauqua
-83456,new york,chemung
-47207,new york,chenango
-80485,new york,clinton
-59461,new york,columbia
-47581,new york,cortland
-44135,new york,delaware
-294218,new york,dutchess
-918702,new york,erie
-36885,new york,essex
-50022,new york,franklin
-53383,new york,fulton
-57280,new york,genesee
-47188,new york,greene
-4416,new york,hamilton
-61319,new york,herkimer
-109834,new york,jefferson
-2559903,new york,kings
-26296,new york,lewis
-62914,new york,livingston
-70941,new york,madison
-741770,new york,monroe
-49221,new york,montgomery
-1356924,new york,nassau
-1628706,new york,new york
-209281,new york,niagara
-228671,new york,oneida
-460528,new york,onondaga
-109777,new york,ontario
-384940,new york,orange
-40352,new york,orleans
-117124,new york,oswego
-59493,new york,otsego
-98320,new york,putnam
-2253858,new york,queens
-158714,new york,rensselaer
-476143,new york,richmond
-325789,new york,rockland
-107740,new york,st. lawrence
-229863,new york,saratoga
-155299,new york,schenectady
-30999,new york,schoharie
-17807,new york,schuyler
-34016,new york,seneca
-95379,new york,steuben
-1476601,new york,suffolk
-75432,new york,sullivan
-48203,new york,tioga
-102180,new york,tompkins
-177573,new york,ulster
-63944,new york,warren
-61204,new york,washington
-89918,new york,wayne
-967506,new york,westchester
-39859,new york,wyoming
-24913,new york,yates
-169509,north carolina,alamance
-37497,north carolina,alexander
-11137,north carolina,alleghany
-24446,north carolina,anson
-27203,north carolina,ashe
-17557,north carolina,avery
-46994,north carolina,beaufort
-18947,north carolina,bertie
-32722,north carolina,bladen
-142820,north carolina,brunswick
-261191,north carolina,buncombe
-90485,north carolina,burke
-216453,north carolina,cabarrus
-82178,north carolina,caldwell
-10867,north carolina,camden
-69473,north carolina,carteret
-22604,north carolina,caswell
-159551,north carolina,catawba
-74470,north carolina,chatham
-28612,north carolina,cherokee
-13943,north carolina,chowan
-11231,north carolina,clay
-97947,north carolina,cleveland
-55508,north carolina,columbus
-102139,north carolina,craven
-335509,north carolina,cumberland
-27763,north carolina,currituck
-37009,north carolina,dare
-167609,north carolina,davidson
-42846,north carolina,davie
-58741,north carolina,duplin
-321488,north carolina,durham
-51472,north carolina,edgecombe
-382295,north carolina,forsyth
-69685,north carolina,franklin
-224529,north carolina,gaston
-11562,north carolina,gates
-8441,north carolina,graham
-60443,north carolina,granville
-21069,north carolina,greene
-537174,north carolina,guilford
-50010,north carolina,halifax
-135976,north carolina,harnett
-62317,north carolina,haywood
-117417,north carolina,henderson
-23677,north carolina,hertford
-55234,north carolina,hoke
-4937,north carolina,hyde
-181806,north carolina,iredell
-43938,north carolina,jackson
-209339,north carolina,johnston
-9419,north carolina,jones
-61779,north carolina,lee
-55949,north carolina,lenoir
-86111,north carolina,lincoln
-45756,north carolina,mcdowell
-35858,north carolina,macon
-21755,north carolina,madison
-22440,north carolina,martin
-1110356,north carolina,mecklenburg
-14964,north carolina,mitchell
-27173,north carolina,montgomery
-100880,north carolina,moore
-94298,north carolina,nash
-234473,north carolina,new hanover
-19483,north carolina,northampton
-197938,north carolina,onslow
-148476,north carolina,orange
-12726,north carolina,pamlico
-39824,north carolina,pasquotank
-63060,north carolina,pender
-13463,north carolina,perquimans
-39490,north carolina,person
-180742,north carolina,pitt
-20724,north carolina,polk
-143667,north carolina,randolph
-44829,north carolina,richmond
-130625,north carolina,robeson
-91010,north carolina,rockingham
-142088,north carolina,rowan
-67029,north carolina,rutherford
-63531,north carolina,sampson
-34823,north carolina,scotland
-62806,north carolina,stanly
-45591,north carolina,stokes
-71783,north carolina,surry
-14271,north carolina,swain
-34385,north carolina,transylvania
-4016,north carolina,tyrrell
-239859,north carolina,union
-44535,north carolina,vance
-1111761,north carolina,wake
-19731,north carolina,warren
-11580,north carolina,washington
-56177,north carolina,watauga
-123131,north carolina,wayne
-68412,north carolina,wilkes
-81801,north carolina,wilson
-37667,north carolina,yadkin
-18069,north carolina,yancey
-2216,north dakota,adams
-10415,north dakota,barnes
-6832,north dakota,benson
-928,north dakota,billings
-6282,north dakota,ottineau
-3024,north dakota,bowman
-2115,north dakota,burke
-95626,north dakota,burleigh
-181923,north dakota,cass
-3762,north dakota,cavalier
-4872,north dakota,dickey
-2264,north dakota,divide
-4424,north dakota,dunn
-2287,north dakota,eddy
-3241,north dakota,emmons
-3210,north dakota,foster
-1761,north dakota,golden valley
-69451,north dakota,grand forks
-2274,north dakota,grant
-2231,north dakota,griggs
-2499,north dakota,hettinger
-2480,north dakota,kidder
-4046,north dakota,lamoure
-1850,north dakota,logan
-5745,north dakota,mchenry
-2497,north dakota,mcintosh
-15024,north dakota,mckenzie
-9450,north dakota,mclean
-8187,north dakota,mercer
-31364,north dakota,morton
-10545,north dakota,mountrail
-2879,north dakota,nelson
-1959,north dakota,oliver
-6801,north dakota,pembina
-3975,north dakota,pierce
-11519,north dakota,ramsey
-5218,north dakota,ransom
-2327,north dakota,renville
-16177,north dakota,richland
-14176,north dakota,rolette
-3898,north dakota,sargent
-1315,north dakota,sheridan
-4230,north dakota,sioux
-750,north dakota,slope
-31489,north dakota,stark
-1890,north dakota,steele
-20704,north dakota,stutsman
-2189,north dakota,towner
-8036,north dakota,traill
-10641,north dakota,walsh
-67641,north dakota,ward
-3834,north dakota,wells
-37589,north dakota,williams
-27698,ohio,adams
-102351,ohio,allen
-53484,ohio,ashland
-97241,ohio,ashtabula
-65327,ohio,athens
-45656,ohio,auglaize
-67006,ohio,belmont
-43432,ohio,brown
-383134,ohio,butler
-26914,ohio,carroll
-38885,ohio,champaign
-134083,ohio,clark
-206428,ohio,clermont
-41968,ohio,clinton
-101883,ohio,columbiana
-36600,ohio,coshocton
-41494,ohio,crawford
-1235072,ohio,cuyahoga
-51113,ohio,darke
-38087,ohio,defiance
-209177,ohio,delaware
-74266,ohio,erie
-157574,ohio,fairfield
-28525,ohio,fayette
-1316756,ohio,franklin
-42126,ohio,fulton
-29898,ohio,gallia
-93649,ohio,geauga
-168937,ohio,greene
-38875,ohio,guernsey
-817473,ohio,hamilton
-75783,ohio,hancock
-31365,ohio,hardin
-15040,ohio,harrison
-27006,ohio,henry
-43161,ohio,highland
-28264,ohio,hocking
-43960,ohio,holmes
-58266,ohio,huron
-32413,ohio,jackson
-65325,ohio,jefferson
-62322,ohio,knox
-230149,ohio,lake
-59463,ohio,lawrence
-176862,ohio,licking
-45672,ohio,logan
-309833,ohio,lorain
-428348,ohio,lucas
-44731,ohio,madison
-228683,ohio,mahoning
-65093,ohio,marion
-179746,ohio,medina
-22907,ohio,meigs
-41172,ohio,mercer
-106987,ohio,miami
-13654,ohio,monroe
-531687,ohio,montgomery
-14508,ohio,morgan
-35328,ohio,morrow
-86215,ohio,muskingum
-14424,ohio,noble
-40525,ohio,ottawa
-18672,ohio,paulding
-36134,ohio,perry
-58457,ohio,pickaway
-27772,ohio,pike
-162466,ohio,portage
-40882,ohio,preble
-33861,ohio,putnam
-121154,ohio,richland
-76666,ohio,ross
-58518,ohio,sandusky
-75314,ohio,scioto
-55178,ohio,seneca
-48590,ohio,shelby
-370606,ohio,stark
-541013,ohio,summit
-197974,ohio,trumbull
-91987,ohio,tuscarawas
-58988,ohio,union
-28275,ohio,van wert
-13085,ohio,vinton
-234602,ohio,warren
-59911,ohio,washington
-115710,ohio,wayne
-36692,ohio,williams
-130817,ohio,wood
-21772,ohio,wyandot
-22194,oklahoma,adair
-5702,oklahoma,alfalfa
-13758,oklahoma,atoka
-5311,oklahoma,beaver
-21859,oklahoma,beckham
-9429,oklahoma,blaine
-47995,oklahoma,bryan
-28762,oklahoma,caddo
-148306,oklahoma,canadian
-48111,oklahoma,carter
-48657,oklahoma,cherokee
-14672,oklahoma,choctaw
-2137,oklahoma,cimarron
-284014,oklahoma,cleveland
-5495,oklahoma,coal
-120749,oklahoma,comanche
-5666,oklahoma,cotton
-14142,oklahoma,craig
-71522,oklahoma,creek
-29003,oklahoma,custer
-43009,oklahoma,delaware
-4891,oklahoma,dewey
-3859,oklahoma,ellis
-61056,oklahoma,garfield
-27711,oklahoma,garvin
-55834,oklahoma,grady
-4333,oklahoma,grant
-5712,oklahoma,greer
-2653,oklahoma,harmon
-3688,oklahoma,harper
-12627,oklahoma,haskell
-13279,oklahoma,hughes
-24530,oklahoma,jackson
-6002,oklahoma,jefferson
-11085,oklahoma,johnston
-43538,oklahoma,kay
-15765,oklahoma,kingfisher
-8708,oklahoma,kiowa
-10073,oklahoma,latimer
-49853,oklahoma,le flore
-34877,oklahoma,lincoln
-48011,oklahoma,logan
-10253,oklahoma,love
-40474,oklahoma,mcclain
-32832,oklahoma,mccurtain
-19596,oklahoma,mcintosh
-7629,oklahoma,major
-16931,oklahoma,marshall
-41100,oklahoma,mayes
-14073,oklahoma,murray
-67997,oklahoma,muskogee
-11131,oklahoma,noble
-10076,oklahoma,nowata
-11993,oklahoma,okfuskee
-797434,oklahoma,oklahoma
-38465,oklahoma,okmulgee
-46963,oklahoma,osage
-31127,oklahoma,ottawa
-16376,oklahoma,pawnee
-81784,oklahoma,payne
-43654,oklahoma,pittsburg
-38284,oklahoma,pontotoc
-72592,oklahoma,pottawatomie
-11096,oklahoma,pushmataha
-3583,oklahoma,roger mills
-92459,oklahoma,rogers
-24258,oklahoma,seminole
-41569,oklahoma,sequoyah
-43143,oklahoma,stephens
-19983,oklahoma,texas
-7250,oklahoma,tillman
-651552,oklahoma,tulsa
-81289,oklahoma,wagoner
-51527,oklahoma,washington
-10916,oklahoma,washita
-8793,oklahoma,woods
-20211,oklahoma,woodward
-16124,oregon,baker
-93053,oregon,benton
-418187,oregon,clackamas
-40224,oregon,clatsop
-52354,oregon,columbia
-64487,oregon,coos
-24404,oregon,crook
-22925,oregon,curry
-197692,oregon,deschutes
-110980,oregon,douglas
-1912,oregon,gilliam
-7199,oregon,grant
-7393,oregon,harney
-23382,oregon,hood river
-220944,oregon,jackson
-24658,oregon,jefferson
-87487,oregon,josephine
-68238,oregon,klamath
-7869,oregon,lake
-382067,oregon,lane
-49962,oregon,lincoln
-129749,oregon,linn
-30571,oregon,malheur
-347818,oregon,marion
-11603,oregon,morrow
-812855,oregon,multnomah
-86085,oregon,polk
-1780,oregon,sherman
-27036,oregon,tillamook
-77950,oregon,umatilla
-26835,oregon,union
-7208,oregon,wallowa
-26682,oregon,wasco
-601592,oregon,washington
-1332,oregon,wheeler
-107100,oregon,yamhill
-103009,pennsylvania,adams
-1216045,pennsylvania,allegheny
-64735,pennsylvania,armstrong
-163929,pennsylvania,beaver
-47888,pennsylvania,bedford
-421164,pennsylvania,berks
-121829,pennsylvania,blair
-60323,pennsylvania,bradford
-628270,pennsylvania,bucks
-187853,pennsylvania,butler
-130192,pennsylvania,cambria
-4447,pennsylvania,cameron
-64182,pennsylvania,carbon
-162385,pennsylvania,centre
-524989,pennsylvania,chester
-38438,pennsylvania,clarion
-79255,pennsylvania,clearfield
-38632,pennsylvania,clinton
-64964,pennsylvania,columbia
-84629,pennsylvania,crawford
-253370,pennsylvania,cumberland
-278299,pennsylvania,dauphin
-566747,pennsylvania,delaware
-29910,pennsylvania,elk
-269728,pennsylvania,erie
-129274,pennsylvania,fayette
-7247,pennsylvania,forest
-155027,pennsylvania,franklin
-14530,pennsylvania,fulton
-36233,pennsylvania,greene
-45144,pennsylvania,huntingdon
-84073,pennsylvania,indiana
-43425,pennsylvania,jefferson
-24763,pennsylvania,juniata
-209674,pennsylvania,lackawanna
-545724,pennsylvania,lancaster
-85512,pennsylvania,lawrence
-141793,pennsylvania,lebanon
-369318,pennsylvania,lehigh
-317417,pennsylvania,luzerne
-113299,pennsylvania,lycoming
-40625,pennsylvania,mckean
-109424,pennsylvania,mercer
-46138,pennsylvania,mifflin
-170271,pennsylvania,monroe
-830915,pennsylvania,montgomery
-18230,pennsylvania,montour
-305285,pennsylvania,northampton
-90843,pennsylvania,northumberland
-46272,pennsylvania,perry
-1584064,pennsylvania,philadelphia
-55809,pennsylvania,pike
-16526,pennsylvania,potter
-141359,pennsylvania,schuylkill
-40372,pennsylvania,snyder
-73447,pennsylvania,somerset
-6066,pennsylvania,sullivan
-40328,pennsylvania,susquehanna
-40591,pennsylvania,tioga
-44923,pennsylvania,union
-50668,pennsylvania,venango
-39191,pennsylvania,warren
-206865,pennsylvania,washington
-51361,pennsylvania,wayne
-348899,pennsylvania,westmoreland
-26794,pennsylvania,wyoming
-449058,pennsylvania,york
-48479,rhode island,bristol
-164292,rhode island,kent
-82082,rhode island,newport
-638931,rhode island,providence
-125577,rhode island,washington
-24527,south carolina,abbeville
-170872,south carolina,aiken
-8688,south carolina,allendale
-202558,south carolina,anderson
-14066,south carolina,bamberg
-20866,south carolina,barnwell
-192122,south carolina,beaufort
-227907,south carolina,berkeley
-14553,south carolina,calhoun
-411406,south carolina,charleston
-57300,south carolina,cherokee
-32244,south carolina,chester
-45650,south carolina,chesterfield
-33745,south carolina,clarendon
-37677,south carolina,colleton
-66618,south carolina,darlington
-30479,south carolina,dillon
-162809,south carolina,dorchester
-27260,south carolina,edgefield
-22347,south carolina,fairfield
-138293,south carolina,florence
-62680,south carolina,georgetown
-523542,south carolina,greenville
-70811,south carolina,greenwood
-19222,south carolina,hampton
-354081,south carolina,horry
-30073,south carolina,jasper
-66551,south carolina,kershaw
-98012,south carolina,lancaster
-67493,south carolina,laurens
-16828,south carolina,lee
-298750,south carolina,lexington
-9463,south carolina,mccormick
-30657,south carolina,marion
-26118,south carolina,marlboro
-38440,south carolina,newberry
-79546,south carolina,oconee
-86175,south carolina,orangeburg
-126884,south carolina,pickens
-415759,south carolina,richland
-20473,south carolina,saluda
-319785,south carolina,spartanburg
-106721,south carolina,sumter
-27316,south carolina,union
-30368,south carolina,williamsburg
-280979,south carolina,york
-2751,south dakota,aurora
-18453,south dakota,beadle
-3365,south dakota,bennett
-6901,south dakota,bon homme
-35077,south dakota,brookings
-38839,south dakota,brown
-5297,south dakota,brule
-1962,south dakota,buffalo
-10429,south dakota,butte
-1376,south dakota,campbell
-9292,south dakota,charles mix
-3736,south dakota,clark
-14070,south dakota,clay
-28009,south dakota,codington
-4086,south dakota,corson
-8972,south dakota,custer
-19775,south dakota,davison
-5424,south dakota,day
-4351,south dakota,deuel
-5892,south dakota,dewey
-2921,south dakota,douglas
-3829,south dakota,edmunds
-6713,south dakota,fall river
-2299,south dakota,faulk
-7052,south dakota,grant
-4185,south dakota,gregory
-1899,south dakota,haakon
-6164,south dakota,hamlin
-3191,south dakota,hand
-3453,south dakota,hanson
-1298,south dakota,harding
-17526,south dakota,hughes
-7291,south dakota,hutchinson
-1301,south dakota,hyde
-3344,south dakota,jackson
-2013,south dakota,jerauld
-903,south dakota,jones
-4939,south dakota,kingsbury
-12797,south dakota,lake
-25844,south dakota,lawrence
-61128,south dakota,lincoln
-3781,south dakota,lyman
-5586,south dakota,mccook
-2379,south dakota,mcpherson
-4935,south dakota,marshall
-28332,south dakota,meade
-2061,south dakota,mellette
-2216,south dakota,miner
-193134,south dakota,minnehaha
-6576,south dakota,moody
-14177,south dakota,oglala lakota
-113775,south dakota,pennington
-2865,south dakota,perkins
-2153,south dakota,potter
-10394,south dakota,roberts
-2344,south dakota,sanborn
-6376,south dakota,spink
-3098,south dakota,stanley
-1391,south dakota,sully
-10177,south dakota,todd
-5441,south dakota,tripp
-8384,south dakota,turner
-15932,south dakota,union
-5435,south dakota,walworth
-22814,south dakota,yankton
-2756,south dakota,ziebach
-76978,tennessee,anderson
-49713,tennessee,bedford
-16160,tennessee,benton
-15064,tennessee,bledsoe
-133088,tennessee,blount
-108110,tennessee,bradley
-39842,tennessee,campbell
-14678,tennessee,cannon
-27767,tennessee,carroll
-56391,tennessee,carter
-40667,tennessee,cheatham
-17297,tennessee,chester
-31959,tennessee,claiborne
-7615,tennessee,clay
-36004,tennessee,cocke
-56520,tennessee,coffee
-14230,tennessee,crockett
-60520,tennessee,cumberland
-694144,tennessee,davidson
-11663,tennessee,decatur
-20490,tennessee,dekalb
-53948,tennessee,dickson
-37159,tennessee,dyer
-41133,tennessee,fayette
-18523,tennessee,fentress
-42208,tennessee,franklin
-49133,tennessee,gibson
-29464,tennessee,giles
-23320,tennessee,grainger
-69069,tennessee,greene
-13427,tennessee,grundy
-64934,tennessee,hamblen
-367804,tennessee,hamilton
-6620,tennessee,hancock
-25050,tennessee,hardeman
-25652,tennessee,hardin
-56786,tennessee,hawkins
-17304,tennessee,haywood
-28117,tennessee,henderson
-32345,tennessee,henry
-25178,tennessee,hickman
-8201,tennessee,houston
-18582,tennessee,humphreys
-11786,tennessee,jackson
-54495,tennessee,jefferson
-17788,tennessee,johnson
-470313,tennessee,knox
-7016,tennessee,lake
-25633,tennessee,lauderdale
-44142,tennessee,lawrence
-12268,tennessee,lewis
-34366,tennessee,lincoln
-54068,tennessee,loudon
-53794,tennessee,mcminn
-25694,tennessee,mcnairy
-24602,tennessee,macon
-97984,tennessee,madison
-28907,tennessee,marion
-34375,tennessee,marshall
-96387,tennessee,maury
-12422,tennessee,meigs
-46545,tennessee,monroe
-208993,tennessee,montgomery
-6488,tennessee,moore
-21403,tennessee,morgan
-30069,tennessee,obion
-22241,tennessee,overton
-8076,tennessee,perry
-5048,tennessee,pickett
-16832,tennessee,polk
-80245,tennessee,putnam
-33167,tennessee,rhea
-53382,tennessee,roane
-71813,tennessee,robertson
-332285,tennessee,rutherford
-22068,tennessee,scott
-15026,tennessee,sequatchie
-98250,tennessee,sevier
-937166,tennessee,shelby
-20157,tennessee,smith
-13715,tennessee,stewart
-158348,tennessee,sullivan
-191283,tennessee,sumner
-61599,tennessee,tipton
-11284,tennessee,trousdale
-17883,tennessee,unicoi
-19972,tennessee,union
-5872,tennessee,van buren
-41277,tennessee,warren
-129375,tennessee,washington
-16673,tennessee,wayne
-33328,tennessee,weakley
-27345,tennessee,white
-238412,tennessee,williamson
-144657,tennessee,wilson
-57735,texas,anderson
-18705,texas,andrews
-86715,texas,angelina
-23510,texas,aransas
-8553,texas,archer
-1887,texas,armstrong
-51153,texas,atascosa
-30032,texas,austin
-7000,texas,bailey
-23112,texas,bandera
-88723,texas,bastrop
-3509,texas,baylor
-32565,texas,bee
-362924,texas,bell
-2003554,texas,bexar
-11931,texas,blanco
-654,texas,borden
-18685,texas,bosque
-93245,texas,bowie
-374264,texas,brazoria
-229211,texas,brazos
-9203,texas,brewster
-1546,texas,briscoe
-7093,texas,brooks
-37864,texas,brown
-18443,texas,burleson
-48155,texas,burnet
-43664,texas,caldwell
-21290,texas,calhoun
-13943,texas,callahan
-423163,texas,cameron
-13094,texas,camp
-5926,texas,carson
-30026,texas,cass
-7530,texas,castro
-43837,texas,chambers
-52646,texas,cherokee
-7306,texas,childress
-10471,texas,clay
-2853,texas,cochran
-3387,texas,coke
-8175,texas,coleman
-1034730,texas,collin
-2920,texas,collingsworth
-21493,texas,colorado
-156209,texas,comal
-13635,texas,comanche
-2726,texas,concho
-41257,texas,cooke
-75951,texas,coryell
-1398,texas,cottle
-4797,texas,crane
-3464,texas,crockett
-5737,texas,crosby
-2171,texas,culberson
-7287,texas,dallam
-2635516,texas,dallas
-12728,texas,dawson
-18546,texas,deaf smith
-5331,texas,delta
-887207,texas,denton
-20160,texas,dewitt
-2211,texas,dickens
-10124,texas,dimmit
-3278,texas,donley
-11157,texas,duval
-18360,texas,eastland
-166223,texas,ector
-1932,texas,edwards
-184826,texas,ellis
-839238,texas,el paso
-42698,texas,erath
-17297,texas,falls
-35514,texas,fannin
-25346,texas,fayette
-3830,texas,fisher
-5712,texas,floyd
-1155,texas,foard
-811688,texas,fort bend
-10725,texas,franklin
-19717,texas,freestone
-20306,texas,frio
-21492,texas,gaines
-342139,texas,galveston
-6229,texas,garza
-26988,texas,gillespie
-1409,texas,glasscock
-7658,texas,goliad
-20837,texas,gonzales
-21886,texas,gray
-136212,texas,grayson
-123945,texas,gregg
-28880,texas,grimes
-166847,texas,guadalupe
-33406,texas,hale
-2964,texas,hall
-8461,texas,hamilton
-5399,texas,hansford
-3933,texas,hardeman
-57602,texas,hardin
-4713325,texas,harris
-66553,texas,harrison
-5576,texas,hartley
-5658,texas,haskell
-230191,texas,hays
-3819,texas,hemphill
-82737,texas,henderson
-868707,texas,hidalgo
-36649,texas,hill
-23021,texas,hockley
-61643,texas,hood
-37084,texas,hopkins
-22968,texas,houston
-36664,texas,howard
-4886,texas,hudspeth
-98594,texas,hunt
-20938,texas,hutchinson
-1536,texas,irion
-8935,texas,jack
-14760,texas,jackson
-35529,texas,jasper
-2274,texas,jeff davis
-251565,texas,jefferson
-5200,texas,jim hogg
-40482,texas,jim wells
-175817,texas,johnson
-20083,texas,jones
-15601,texas,karnes
-136154,texas,kaufman
-47431,texas,kendall
-404,texas,kenedy
-762,texas,kent
-52600,texas,kerr
-4337,texas,kimble
-272,texas,king
-3667,texas,kinney
-30680,texas,kleberg
-3664,texas,knox
-49859,texas,lamar
-12893,texas,lamb
-21428,texas,lampasas
-7520,texas,la salle
-20154,texas,lavaca
-17239,texas,lee
-17404,texas,leon
-88219,texas,liberty
-23437,texas,limestone
-3233,texas,lipscomb
-12207,texas,live oak
-21795,texas,llano
-169,texas,loving
-310569,texas,lubbock
-5951,texas,lynn
-7984,texas,mcculloch
-256623,texas,mclennan
-743,texas,mcmullen
-14284,texas,madison
-9854,texas,marion
-5771,texas,martin
-4274,texas,mason
-36643,texas,matagorda
-58722,texas,maverick
-51584,texas,medina
-2138,texas,menard
-176832,texas,midland
-24823,texas,milam
-4873,texas,mills
-8545,texas,mitchell
-19818,texas,montague
-607391,texas,montgomery
-20940,texas,moore
-12388,texas,morris
-1200,texas,motley
-65204,texas,nacogdoches
-50113,texas,navarro
-13595,texas,newton
-14714,texas,nolan
-362294,texas,nueces
-9836,texas,ochiltree
-2112,texas,oldham
-83396,texas,orange
-29189,texas,palo pinto
-23194,texas,panola
-142878,texas,parker
-9605,texas,parmer
-15823,texas,pecos
-51353,texas,polk
-117415,texas,potter
-6704,texas,presidio
-12514,texas,rains
-137713,texas,randall
-3849,texas,reagan
-3452,texas,real
-12023,texas,red river
-15976,texas,reeves
-6948,texas,refugio
-854,texas,roberts
-17074,texas,robertson
-104915,texas,rockwall
-10264,texas,runnels
-54406,texas,rusk
-10542,texas,sabine
-8237,texas,san augustine
-28859,texas,san jacinto
-66730,texas,san patricio
-6055,texas,san saba
-2793,texas,schleicher
-16703,texas,scurry
-3265,texas,shackelford
-25274,texas,shelby
-3022,texas,sherman
-232751,texas,smith
-9128,texas,somervell
-64633,texas,starr
-9366,texas,stephens
-1291,texas,sterling
-1350,texas,stonewall
-3776,texas,sutton
-7397,texas,swisher
-2102515,texas,tarrant
-138034,texas,taylor
-776,texas,terrell
-12337,texas,terry
-1501,texas,throckmorton
-32750,texas,titus
-119200,texas,tom green
-1273954,texas,travis
-14651,texas,trinity
-21672,texas,tyler
-41753,texas,upshur
-3657,texas,upton
-26741,texas,uvalde
-49025,texas,val verde
-56590,texas,van zandt
-92084,texas,victoria
-72971,texas,walker
-55246,texas,waller
-11998,texas,ward
-35882,texas,washington
-276652,texas,webb
-41556,texas,wharton
-5056,texas,wheeler
-132230,texas,wichita
-12769,texas,wilbarger
-21358,texas,willacy
-590551,texas,williamson
-51070,texas,wilson
-8010,texas,winkler
-69984,texas,wise
-45539,texas,wood
-8713,texas,yoakum
-18010,texas,young
-14179,texas,zapata
-11840,texas,zavala
-6710,utah,beaver
-56046,utah,box elder
-128289,utah,cache
-20463,utah,carbon
-950,utah,daggett
-355481,utah,davis
-19938,utah,duchesne
-10012,utah,emery
-5051,utah,garfield
-9754,utah,grand
-54839,utah,iron
-12017,utah,juab
-7886,utah,kane
-13188,utah,millard
-12124,utah,morgan
-1479,utah,piute
-2483,utah,rich
-1160437,utah,salt lake
-15308,utah,san juan
-30939,utah,sanpete
-21620,utah,sevier
-42145,utah,summit
-72259,utah,tooele
-35734,utah,uintah
-636235,utah,utah
-34091,utah,wasatch
-177556,utah,washington
-2711,utah,wayne
-260213,utah,weber
-36777,vermont,addison
-35470,vermont,bennington
-29993,vermont,caledonia
-163774,vermont,chittenden
-6163,vermont,essex
-49402,vermont,franklin
-7235,vermont,grand isle
-25362,vermont,lamoille
-28892,vermont,orange
-27037,vermont,orleans
-58191,vermont,rutland
-58409,vermont,washington
-42222,vermont,windham
-55062,vermont,windsor
-32316,virginia,accomack
-109330,virginia,albemarle
-14860,virginia,alleghany
-13145,virginia,amelia
-31605,virginia,amherst
-15911,virginia,appomattox
-236842,virginia,arlington
-75558,virginia,augusta
-4147,virginia,bath
-78997,virginia,bedford
-6280,virginia,bland
-33419,virginia,botetourt
-16231,virginia,brunswick
-21004,virginia,buchanan
-17148,virginia,buckingham
-54885,virginia,campbell
-30725,virginia,caroline
-29791,virginia,carroll
-6963,virginia,charles city
-11880,virginia,charlotte
-352802,virginia,chesterfield
-14619,virginia,clarke
-5131,virginia,craig
-52605,virginia,culpeper
-9932,virginia,cumberland
-14318,virginia,dickenson
-28544,virginia,dinwiddie
-10953,virginia,essex
-1147532,virginia,fairfax
-71222,virginia,fauquier
-15749,virginia,floyd
-27270,virginia,fluvanna
-56042,virginia,franklin
-89313,virginia,frederick
-16720,virginia,giles
-37348,virginia,gloucester
-23753,virginia,goochland
-15550,virginia,grayson
-19819,virginia,greene
-11336,virginia,greensville
-33911,virginia,halifax
-107766,virginia,hanover
-330818,virginia,henrico
-50557,virginia,henry
-2190,virginia,highland
-37109,virginia,isle of wight
-76523,virginia,james city
-7025,virginia,king and queen
-26836,virginia,king george
-17148,virginia,king william
-10603,virginia,lancaster
-23423,virginia,lee
-413538,virginia,loudoun
-37591,virginia,louisa
-12196,virginia,lunenburg
-13261,virginia,madison
-8834,virginia,mathews
-30587,virginia,mecklenburg
-10582,virginia,middlesex
-98535,virginia,montgomery
-14930,virginia,nelson
-23091,virginia,new kent
-11710,virginia,northampton
-12095,virginia,northumberland
-15232,virginia,nottoway
-37051,virginia,orange
-23902,virginia,page
-17608,virginia,patrick
-60354,virginia,pittsylvania
-29652,virginia,powhatan
-22802,virginia,prince edward
-38353,virginia,prince george
-470335,virginia,prince william
-34027,virginia,pulaski
-7370,virginia,rappahannock
-9023,virginia,richmond
-94186,virginia,roanoke
-22573,virginia,rockbridge
-81948,virginia,rockingham
-26586,virginia,russell
-21566,virginia,scott
-43616,virginia,shenandoah
-30104,virginia,smyth
-17631,virginia,southampton
-136215,virginia,spotsylvania
-152882,virginia,stafford
-6422,virginia,surry
-11159,virginia,sussex
-40595,virginia,tazewell
-40164,virginia,warren
-53740,virginia,washington
-18015,virginia,westmoreland
-37383,virginia,wise
-28684,virginia,wythe
-68280,virginia,york
-159428,virginia,alexandria
-16762,virginia,bristol
-6478,virginia,buena vista
-47266,virginia,charlottesville
-244835,virginia,chesapeake
-17370,virginia,colonial heights
-5538,virginia,covington
-40044,virginia,danville
-5346,virginia,emporia
-24019,virginia,fairfax
-14617,virginia,falls church
-7967,virginia,franklin
-29036,virginia,fredericksburg
-6347,virginia,galax
-134510,virginia,hampton
-53016,virginia,harrisonburg
-22529,virginia,hopewell
-7446,virginia,lexington
-82168,virginia,lynchburg
-41085,virginia,manassas
-17478,virginia,manassas park
-12554,virginia,martinsville
-179225,virginia,newport news
-242742,virginia,norfolk
-3981,virginia,norton
-31346,virginia,petersburg
-12271,virginia,poquoson
-94398,virginia,portsmouth
-18249,virginia,radford
-230436,virginia,richmond
-99143,virginia,roanoke
-25301,virginia,salem
-24932,virginia,staunton
-92108,virginia,suffolk
-449974,virginia,virginia beach
-22630,virginia,waynesboro
-14954,virginia,williamsburg
-28078,virginia,winchester
-19983,washington,adams
-22582,washington,asotin
-204390,washington,benton
-77200,washington,chelan
-77331,washington,clallam
-488241,washington,clark
-3985,washington,columbia
-110593,washington,cowlitz
-43429,washington,douglas
-7627,washington,ferry
-95222,washington,franklin
-2225,washington,garfield
-97733,washington,grant
-75061,washington,grays harbor
-85141,washington,island
-32221,washington,jefferson
-2252782,washington,king
-271473,washington,kitsap
-47935,washington,kittitas
-22425,washington,klickitat
-80707,washington,lewis
-10939,washington,lincoln
-66768,washington,mason
-42243,washington,okanogan
-22471,washington,pacific
-13724,washington,pend oreille
-904980,washington,pierce
-17582,washington,san juan
-129205,washington,skagit
-12083,washington,skamania
-822083,washington,snohomish
-522798,washington,spokane
-45723,washington,stevens
-290536,washington,thurston
-4488,washington,wahkiakum
-60760,washington,walla walla
-229247,washington,whatcom
-50104,washington,whitman
-250873,washington,yakima
-16441,west virginia,barbour
-119171,west virginia,berkeley
-21457,west virginia,boone
-13957,west virginia,braxton
-21939,west virginia,brooke
-91945,west virginia,cabell
-7109,west virginia,calhoun
-8508,west virginia,clay
-8448,west virginia,doddridge
-42406,west virginia,fayette
-7823,west virginia,gilmer
-11568,west virginia,grant
-34662,west virginia,greenbrier
-23175,west virginia,hampshire
-28810,west virginia,hancock
-13776,west virginia,hardy
-67256,west virginia,harrison
-28576,west virginia,jackson
-57146,west virginia,jefferson
-178124,west virginia,kanawha
-15907,west virginia,lewis
-20409,west virginia,lincoln
-32019,west virginia,logan
-17624,west virginia,mcdowell
-56072,west virginia,marion
-30531,west virginia,marshall
-26516,west virginia,mason
-58758,west virginia,mercer
-26868,west virginia,mineral
-23424,west virginia,mingo
-105612,west virginia,monongalia
-13275,west virginia,monroe
-17884,west virginia,morgan
-24496,west virginia,nicholas
-41411,west virginia,ohio
-6969,west virginia,pendleton
-7460,west virginia,pleasants
-8247,west virginia,pocahontas
-33432,west virginia,preston
-56450,west virginia,putnam
-73361,west virginia,raleigh
-28695,west virginia,randolph
-9554,west virginia,ritchie
-13688,west virginia,roane
-12573,west virginia,summers
-16695,west virginia,taylor
-6839,west virginia,tucker
-8591,west virginia,tyler
-24176,west virginia,upshur
-39402,west virginia,wayne
-8114,west virginia,webster
-15065,west virginia,wetzel
-5821,west virginia,wirt
-83518,west virginia,wood
-20394,west virginia,wyoming
-20220,wisconsin,adams
-15562,wisconsin,ashland
-45244,wisconsin,barron
-15036,wisconsin,bayfield
-264542,wisconsin,brown
-13031,wisconsin,buffalo
-15414,wisconsin,burnett
-50089,wisconsin,calumet
-64658,wisconsin,chippewa
-34774,wisconsin,clark
-57532,wisconsin,columbia
-16131,wisconsin,crawford
-546695,wisconsin,dane
-87839,wisconsin,dodge
-27668,wisconsin,door
-43150,wisconsin,douglas
-45368,wisconsin,dunn
-104646,wisconsin,eau claire
-4295,wisconsin,florence
-103403,wisconsin,fond du lac
-9004,wisconsin,forest
-51439,wisconsin,grant
-36960,wisconsin,green
-18913,wisconsin,green lake
-23678,wisconsin,iowa
-5687,wisconsin,iron
-20643,wisconsin,jackson
-84769,wisconsin,jefferson
-26687,wisconsin,juneau
-169561,wisconsin,kenosha
-20434,wisconsin,kewaunee
-118016,wisconsin,la crosse
-16665,wisconsin,lafayette
-19189,wisconsin,langlade
-27593,wisconsin,lincoln
-78981,wisconsin,manitowoc
-135692,wisconsin,marathon
-40350,wisconsin,marinette
-15574,wisconsin,marquette
-4556,wisconsin,menominee
-945726,wisconsin,milwaukee
-46253,wisconsin,monroe
-37930,wisconsin,oconto
-35595,wisconsin,oneida
-187885,wisconsin,outagamie
-89221,wisconsin,ozaukee
-7287,wisconsin,pepin
-42754,wisconsin,pierce
-43783,wisconsin,polk
-70772,wisconsin,portage
-13351,wisconsin,price
-196311,wisconsin,racine
-17252,wisconsin,richland
-163354,wisconsin,rock
-14178,wisconsin,rusk
-90687,wisconsin,st. croix
-64442,wisconsin,sauk
-16558,wisconsin,sawyer
-40899,wisconsin,shawano
-115340,wisconsin,sheboygan
-20343,wisconsin,taylor
-29649,wisconsin,trempealeau
-30822,wisconsin,vernon
-22195,wisconsin,vilas
-103868,wisconsin,walworth
-15720,wisconsin,washburn
-136034,wisconsin,washington
-404198,wisconsin,waukesha
-50990,wisconsin,waupaca
-24443,wisconsin,waushara
-171907,wisconsin,winnebago
-72999,wisconsin,wood
-38880,wyoming,albany
-11790,wyoming,big horn
-46341,wyoming,campbell
-14800,wyoming,carbon
-13822,wyoming,converse
-7584,wyoming,crook
-39261,wyoming,fremont
-13211,wyoming,goshen
-4413,wyoming,hot springs
-8445,wyoming,johnson
-99500,wyoming,laramie
-19830,wyoming,lincoln
-79858,wyoming,natrona
-2356,wyoming,niobrara
-29194,wyoming,park
-8393,wyoming,platte
-30485,wyoming,sheridan
-9831,wyoming,sublette
-42343,wyoming,sweetwater
-23464,wyoming,teton
-20226,wyoming,uinta
-7805,wyoming,washakie
-6927,wyoming,weston
+population,full
+24527,"abbeville, south carolina"
+62045,"acadia, louisiana"
+32316,"accomack, virginia"
+481587,"ada, idaho"
+7152,"adair, iowa"
+19202,"adair, kentucky"
+25343,"adair, missouri"
+22194,"adair, oklahoma"
+517421,"adams, colorado"
+4294,"adams, idaho"
+65435,"adams, illinois"
+35777,"adams, indiana"
+3602,"adams, iowa"
+30693,"adams, mississippi"
+31363,"adams, nebraska"
+2216,"adams, north dakota"
+27698,"adams, ohio"
+103009,"adams, pennsylvania"
+19983,"adams, washington"
+20220,"adams, wisconsin"
+36777,"addison, vermont"
+170872,"aiken, south carolina"
+15886,"aitkin, minnesota"
+269043,"alachua, florida"
+169509,"alamance, north carolina"
+1671329,"alameda, california"
+16233,"alamosa, colorado"
+305506,"albany, new york"
+38880,"albany, wyoming"
+109330,"albemarle, virginia"
+10405,"alcona, michigan"
+36953,"alcorn, mississippi"
+3337,"aleutians east, alaska"
+5761,"alexander, illinois"
+37497,"alexander, north carolina"
+159428,"alexandria, virginia"
+5702,"alfalfa, oklahoma"
+9108,"alger, michigan"
+13687,"allamakee, iowa"
+118081,"allegan, michigan"
+70416,"allegany, maryland"
+46091,"allegany, new york"
+11137,"alleghany, north carolina"
+14860,"alleghany, virginia"
+1216045,"allegheny, pennsylvania"
+379299,"allen, indiana"
+12369,"allen, kansas"
+21315,"allen, kentucky"
+25627,"allen, louisiana"
+102351,"allen, ohio"
+8688,"allendale, south carolina"
+28405,"alpena, michigan"
+1129,"alpine, california"
+39752,"amador, california"
+13145,"amelia, virginia"
+31605,"amherst, virginia"
+12297,"amite, mississippi"
+7858,"anderson, kansas"
+22747,"anderson, kentucky"
+202558,"anderson, south carolina"
+76978,"anderson, tennessee"
+57735,"anderson, texas"
+17712,"andrew, missouri"
+18705,"andrews, texas"
+108277,"androscoggin, maine"
+86715,"angelina, texas"
+579234,"anne arundel, maryland"
+356921,"anoka, minnesota"
+24446,"anson, north carolina"
+6298,"antelope, nebraska"
+23324,"antrim, michigan"
+71887,"apache, arizona"
+12426,"appanoose, iowa"
+18386,"appling, georgia"
+15911,"appomattox, virginia"
+23510,"aransas, texas"
+656590,"arapahoe, colorado"
+8553,"archer, texas"
+14029,"archuleta, colorado"
+14883,"arenac, michigan"
+17486,"arkansas, arkansas"
+236842,"arlington, virginia"
+64735,"armstrong, pennsylvania"
+1887,"armstrong, texas"
+67055,"aroostook, maine"
+463,"arthur, nebraska"
+126604,"ascension, louisiana"
+27203,"ashe, north carolina"
+53484,"ashland, ohio"
+15562,"ashland, wisconsin"
+19657,"ashley, arkansas"
+97241,"ashtabula, ohio"
+22582,"asotin, washington"
+21891,"assumption, louisiana"
+51153,"atascosa, texas"
+16073,"atchison, kansas"
+5143,"atchison, missouri"
+65327,"athens, ohio"
+8165,"atkinson, georgia"
+263670,"atlantic, new jersey"
+13758,"atoka, oklahoma"
+18174,"attala, mississippi"
+25388,"audrain, missouri"
+5496,"audubon, iowa"
+45656,"auglaize, ohio"
+75558,"augusta, virginia"
+2751,"aurora, south dakota"
+30032,"austin, texas"
+55869,"autauga, alabama"
+17557,"avery, north carolina"
+40144,"avoyelles, louisiana"
+3581,"baca, colorado"
+11164,"bacon, georgia"
+7000,"bailey, texas"
+29210,"baker, florida"
+3038,"baker, georgia"
+16124,"baker, oregon"
+223234,"baldwin, alabama"
+44890,"baldwin, georgia"
+7888,"ballard, kentucky"
+593490,"baltimore, maryland"
+827370,"baltimore, maryland"
+14066,"bamberg, south carolina"
+23112,"bandera, texas"
+19234,"banks, georgia"
+745,"banner, nebraska"
+87808,"bannock, idaho"
+8209,"baraga, michigan"
+4427,"barber, kansas"
+24686,"barbour, alabama"
+16441,"barbour, west virginia"
+10415,"barnes, north dakota"
+212990,"barnstable, massachusetts"
+20866,"barnwell, south carolina"
+44249,"barren, kentucky"
+45244,"barron, wisconsin"
+83240,"barrow, georgia"
+61550,"barry, michigan"
+35789,"barry, missouri"
+83779,"bartholomew, indiana"
+25779,"barton, kansas"
+11754,"barton, missouri"
+107738,"bartow, georgia"
+88723,"bastrop, texas"
+16172,"bates, missouri"
+12500,"bath, kentucky"
+4147,"bath, virginia"
+41932,"baxter, arkansas"
+174705,"bay, florida"
+103126,"bay, michigan"
+15036,"bayfield, wisconsin"
+3509,"baylor, texas"
+18453,"beadle, south dakota"
+6125,"bear lake, idaho"
+46994,"beaufort, north carolina"
+192122,"beaufort, south carolina"
+37497,"beauregard, louisiana"
+5311,"beaver, oklahoma"
+163929,"beaver, pennsylvania"
+6710,"beaver, utah"
+9453,"beaverhead, montana"
+34423,"becker, minnesota"
+21859,"beckham, oklahoma"
+47888,"bedford, pennsylvania"
+49713,"bedford, tennessee"
+78997,"bedford, virginia"
+32565,"bee, texas"
+61303,"belknap, new hampshire"
+26032,"bell, kentucky"
+362924,"bell, texas"
+67006,"belmont, ohio"
+47188,"beltrami, minnesota"
+16700,"ben hill, georgia"
+9298,"benewah, idaho"
+3365,"bennett, south dakota"
+35470,"bennington, vermont"
+6832,"benson, north dakota"
+5577,"bent, colorado"
+279141,"benton, arkansas"
+8748,"benton, indiana"
+25645,"benton, iowa"
+40889,"benton, minnesota"
+8259,"benton, mississippi"
+19443,"benton, missouri"
+93053,"benton, oregon"
+16160,"benton, tennessee"
+204390,"benton, washington"
+17766,"benzie, michigan"
+932202,"bergen, new jersey"
+227907,"berkeley, south carolina"
+119171,"berkeley, west virginia"
+421164,"berks, pennsylvania"
+124944,"berkshire, massachusetts"
+679121,"bernalillo, new mexico"
+19397,"berrien, georgia"
+153401,"berrien, michigan"
+18947,"bertie, north carolina"
+2003554,"bexar, texas"
+22394,"bibb, alabama"
+153159,"bibb, georgia"
+13241,"bienville, louisiana"
+13319,"big horn, montana"
+11790,"big horn, wyoming"
+4991,"big stone, minnesota"
+928,"billings, north dakota"
+46811,"bingham, idaho"
+131228,"black hawk, iowa"
+11758,"blackford, indiana"
+32722,"bladen, north carolina"
+23021,"blaine, idaho"
+6681,"blaine, montana"
+465,"blaine, nebraska"
+9429,"blaine, oklahoma"
+121829,"blair, pennsylvania"
+11931,"blanco, texas"
+6280,"bland, virginia"
+12873,"bleckley, georgia"
+15064,"bledsoe, tennessee"
+57826,"blount, alabama"
+133088,"blount, tennessee"
+67653,"blue earth, minnesota"
+7831,"boise, idaho"
+30628,"bolivar, mississippi"
+12133,"bollinger, missouri"
+6901,"bon homme, south dakota"
+16426,"bond, illinois"
+45739,"bonner, idaho"
+119062,"bonneville, idaho"
+37432,"boone, arkansas"
+53544,"boone, illinois"
+67843,"boone, indiana"
+26234,"boone, iowa"
+133581,"boone, kentucky"
+180463,"boone, missouri"
+5192,"boone, nebraska"
+21457,"boone, west virginia"
+654,"borden, texas"
+18685,"bosque, texas"
+127039,"bossier, louisiana"
+33419,"botetourt, virginia"
+326196,"boulder, colorado"
+12245,"boundary, idaho"
+14534,"bourbon, kansas"
+19788,"bourbon, kentucky"
+93245,"bowie, texas"
+3024,"bowman, north dakota"
+10783,"box butte, nebraska"
+56046,"box elder, utah"
+46718,"boyd, kentucky"
+1919,"boyd, nebraska"
+30060,"boyle, kentucky"
+8303,"bracken, kentucky"
+28201,"bradford, florida"
+60323,"bradford, pennsylvania"
+10763,"bradley, arkansas"
+108110,"bradley, tennessee"
+43517,"branch, michigan"
+19109,"brantley, georgia"
+13957,"braxton, west virginia"
+374264,"brazoria, texas"
+229211,"brazos, texas"
+12630,"breathitt, kentucky"
+20477,"breckinridge, kentucky"
+25062,"bremer, iowa"
+601942,"brevard, florida"
+9203,"brewster, texas"
+1546,"briscoe, texas"
+836,"bristol bay, alaska"
+565217,"bristol, massachusetts"
+48479,"bristol, rhode island"
+16762,"bristol, virginia"
+6237,"broadwater, montana"
+1418207,"bronx, new york"
+21939,"brooke, west virginia"
+35077,"brookings, south dakota"
+15457,"brooks, georgia"
+7093,"brooks, texas"
+190488,"broome, new york"
+70465,"broomfield, colorado"
+1952778,"broward, florida"
+6578,"brown, illinois"
+15092,"brown, indiana"
+9564,"brown, kansas"
+25008,"brown, minnesota"
+2955,"brown, nebraska"
+43432,"brown, ohio"
+38839,"brown, south dakota"
+37864,"brown, texas"
+264542,"brown, wisconsin"
+5297,"brule, south dakota"
+142820,"brunswick, north carolina"
+16231,"brunswick, virginia"
+39627,"bryan, georgia"
+47995,"bryan, oklahoma"
+21175,"buchanan, iowa"
+87364,"buchanan, missouri"
+21004,"buchanan, virginia"
+17148,"buckingham, virginia"
+628270,"bucks, pennsylvania"
+19620,"buena vista, iowa"
+6478,"buena vista, virginia"
+49659,"buffalo, nebraska"
+1962,"buffalo, south dakota"
+13031,"buffalo, wisconsin"
+81676,"bullitt, kentucky"
+79608,"bulloch, georgia"
+10101,"bullock, alabama"
+261191,"buncombe, north carolina"
+32628,"bureau, illinois"
+22383,"burke, georgia"
+90485,"burke, north carolina"
+2115,"burke, north dakota"
+95626,"burleigh, north dakota"
+18443,"burleson, texas"
+445349,"burlington, new jersey"
+48155,"burnet, texas"
+15414,"burnett, wisconsin"
+6459,"burt, nebraska"
+19448,"butler, alabama"
+14439,"butler, iowa"
+66911,"butler, kansas"
+12879,"butler, kentucky"
+42478,"butler, missouri"
+8016,"butler, nebraska"
+383134,"butler, ohio"
+187853,"butler, pennsylvania"
+219186,"butte, california"
+2597,"butte, idaho"
+10429,"butte, south dakota"
+24936,"butts, georgia"
+216453,"cabarrus, north carolina"
+91945,"cabell, west virginia"
+128289,"cache, utah"
+240204,"caddo, louisiana"
+28762,"caddo, oklahoma"
+45905,"calaveras, california"
+203436,"calcasieu, louisiana"
+12747,"caldwell, kentucky"
+9918,"caldwell, louisiana"
+9020,"caldwell, missouri"
+82178,"caldwell, north carolina"
+43664,"caldwell, texas"
+29993,"caledonia, vermont"
+113605,"calhoun, alabama"
+5189,"calhoun, arkansas"
+14105,"calhoun, florida"
+6189,"calhoun, georgia"
+4739,"calhoun, illinois"
+9668,"calhoun, iowa"
+134159,"calhoun, michigan"
+14361,"calhoun, mississippi"
+14553,"calhoun, south carolina"
+21290,"calhoun, texas"
+7109,"calhoun, west virginia"
+13943,"callahan, texas"
+44743,"callaway, missouri"
+39001,"calloway, kentucky"
+50089,"calumet, wisconsin"
+92525,"calvert, maryland"
+1106,"camas, idaho"
+130192,"cambria, pennsylvania"
+54666,"camden, georgia"
+46305,"camden, missouri"
+506471,"camden, new jersey"
+10867,"camden, north carolina"
+6973,"cameron, louisiana"
+4447,"cameron, pennsylvania"
+423163,"cameron, texas"
+13094,"camp, texas"
+93584,"campbell, kentucky"
+1376,"campbell, south dakota"
+39842,"campbell, tennessee"
+54885,"campbell, virginia"
+46341,"campbell, wyoming"
+148306,"canadian, oklahoma"
+10803,"candler, georgia"
+14678,"cannon, tennessee"
+229849,"canyon, idaho"
+78871,"cape girardeau, missouri"
+92039,"cape may, new jersey"
+10725,"carbon, montana"
+64182,"carbon, pennsylvania"
+20463,"carbon, utah"
+14800,"carbon, wyoming"
+7155,"caribou, idaho"
+4760,"carlisle, kentucky"
+35871,"carlton, minnesota"
+33406,"caroline, maryland"
+30725,"caroline, virginia"
+28380,"carroll, arkansas"
+119992,"carroll, georgia"
+14305,"carroll, illinois"
+20257,"carroll, indiana"
+20165,"carroll, iowa"
+10631,"carroll, kentucky"
+168447,"carroll, maryland"
+9947,"carroll, mississippi"
+8679,"carroll, missouri"
+48910,"carroll, new hampshire"
+26914,"carroll, ohio"
+27767,"carroll, tennessee"
+29791,"carroll, virginia"
+55916,"carson, nevada"
+5926,"carson, texas"
+26797,"carter, kentucky"
+5982,"carter, missouri"
+1252,"carter, montana"
+48111,"carter, oklahoma"
+56391,"carter, tennessee"
+69473,"carteret, north carolina"
+105089,"carver, minnesota"
+81366,"cascade, montana"
+16159,"casey, kentucky"
+12147,"cass, illinois"
+37689,"cass, indiana"
+12836,"cass, iowa"
+51787,"cass, michigan"
+29779,"cass, minnesota"
+105780,"cass, missouri"
+26248,"cass, nebraska"
+181923,"cass, north dakota"
+30026,"cass, texas"
+24030,"cassia, idaho"
+7530,"castro, texas"
+22604,"caswell, north carolina"
+9494,"catahoula, louisiana"
+159551,"catawba, north carolina"
+67580,"catoosa, georgia"
+3527,"catron, new mexico"
+76117,"cattaraugus, new york"
+3762,"cavalier, north dakota"
+76576,"cayuga, new york"
+102855,"cecil, maryland"
+18627,"cedar, iowa"
+14349,"cedar, missouri"
+8402,"cedar, nebraska"
+162385,"centre, pennsylvania"
+42450,"cerro gordo, iowa"
+20356,"chaffee, colorado"
+33254,"chambers, alabama"
+43837,"chambers, texas"
+209689,"champaign, illinois"
+38885,"champaign, ohio"
+7426,"chariton, missouri"
+6963,"charles city, virginia"
+9292,"charles mix, south dakota"
+163257,"charles, maryland"
+411406,"charleston, south carolina"
+26143,"charlevoix, michigan"
+188910,"charlotte, florida"
+11880,"charlotte, virginia"
+47266,"charlottesville, virginia"
+13392,"charlton, georgia"
+2648,"chase, kansas"
+3924,"chase, nebraska"
+289430,"chatham, georgia"
+74470,"chatham, north carolina"
+10907,"chattahoochee, georgia"
+24789,"chattooga, georgia"
+3250,"chautauqua, kansas"
+126903,"chautauqua, new york"
+64615,"chaves, new mexico"
+40667,"cheatham, tennessee"
+25276,"cheboygan, michigan"
+77200,"chelan, washington"
+83456,"chemung, new york"
+47207,"chenango, new york"
+26196,"cherokee, alabama"
+258773,"cherokee, georgia"
+11235,"cherokee, iowa"
+19939,"cherokee, kansas"
+28612,"cherokee, north carolina"
+48657,"cherokee, oklahoma"
+57300,"cherokee, south carolina"
+52646,"cherokee, texas"
+5689,"cherry, nebraska"
+244835,"chesapeake, virginia"
+76085,"cheshire, new hampshire"
+524989,"chester, pennsylvania"
+32244,"chester, south carolina"
+17297,"chester, tennessee"
+45650,"chesterfield, south carolina"
+352802,"chesterfield, virginia"
+1831,"cheyenne, colorado"
+2657,"cheyenne, kansas"
+8910,"cheyenne, nebraska"
+11933,"chickasaw, iowa"
+17103,"chickasaw, mississippi"
+10118,"chicot, arkansas"
+7306,"childress, texas"
+44428,"chilton, alabama"
+37349,"chippewa, michigan"
+11800,"chippewa, minnesota"
+64658,"chippewa, wisconsin"
+56579,"chisago, minnesota"
+163774,"chittenden, vermont"
+12589,"choctaw, alabama"
+8210,"choctaw, mississippi"
+14672,"choctaw, oklahoma"
+5635,"chouteau, montana"
+13943,"chowan, north carolina"
+32304,"christian, illinois"
+70461,"christian, kentucky"
+88595,"christian, missouri"
+24909,"churchill, nevada"
+26675,"cibola, new mexico"
+2137,"cimarron, oklahoma"
+149657,"citrus, florida"
+418187,"clackamas, oregon"
+15670,"claiborne, louisiana"
+8988,"claiborne, mississippi"
+31959,"claiborne, tennessee"
+77331,"clallam, washington"
+30950,"clare, michigan"
+33745,"clarendon, south carolina"
+38438,"clarion, pennsylvania"
+22320,"clark, arkansas"
+845,"clark, idaho"
+15441,"clark, illinois"
+118302,"clark, indiana"
+1994,"clark, kansas"
+36263,"clark, kentucky"
+6797,"clark, missouri"
+2266715,"clark, nevada"
+134083,"clark, ohio"
+3736,"clark, south dakota"
+488241,"clark, washington"
+34774,"clark, wisconsin"
+23622,"clarke, alabama"
+128331,"clarke, georgia"
+9395,"clarke, iowa"
+15541,"clarke, mississippi"
+14619,"clarke, virginia"
+40224,"clatsop, oregon"
+13235,"clay, alabama"
+14551,"clay, arkansas"
+219252,"clay, florida"
+2834,"clay, georgia"
+13184,"clay, illinois"
+26225,"clay, indiana"
+16016,"clay, iowa"
+8002,"clay, kansas"
+19901,"clay, kentucky"
+64222,"clay, minnesota"
+19316,"clay, mississippi"
+249948,"clay, missouri"
+6203,"clay, nebraska"
+11231,"clay, north carolina"
+14070,"clay, south dakota"
+7615,"clay, tennessee"
+10471,"clay, texas"
+8508,"clay, west virginia"
+292256,"clayton, georgia"
+17549,"clayton, iowa"
+9700,"clear creek, colorado"
+79255,"clearfield, pennsylvania"
+8756,"clearwater, idaho"
+8818,"clearwater, minnesota"
+14910,"cleburne, alabama"
+24919,"cleburne, arkansas"
+206428,"clermont, ohio"
+7956,"cleveland, arkansas"
+97947,"cleveland, north carolina"
+284014,"cleveland, oklahoma"
+6618,"clinch, georgia"
+37562,"clinton, illinois"
+32399,"clinton, indiana"
+46429,"clinton, iowa"
+10218,"clinton, kentucky"
+79595,"clinton, michigan"
+20387,"clinton, missouri"
+80485,"clinton, new york"
+41968,"clinton, ohio"
+38632,"clinton, pennsylvania"
+8786,"cloud, kansas"
+22124,"coahoma, mississippi"
+5495,"coal, oklahoma"
+760141,"cobb, georgia"
+125922,"cochise, arizona"
+2853,"cochran, texas"
+36004,"cocke, tennessee"
+143476,"coconino, arizona"
+28009,"codington, south dakota"
+52342,"coffee, alabama"
+43273,"coffee, georgia"
+56520,"coffee, tennessee"
+8179,"coffey, kansas"
+3387,"coke, texas"
+55241,"colbert, alabama"
+76745,"cole, missouri"
+8175,"coleman, texas"
+50621,"coles, illinois"
+10709,"colfax, nebraska"
+11941,"colfax, new mexico"
+37677,"colleton, south carolina"
+384902,"collier, florida"
+1034730,"collin, texas"
+2920,"collingsworth, texas"
+17370,"colonial heights, virginia"
+21493,"colorado, texas"
+45600,"colquitt, georgia"
+23457,"columbia, arkansas"
+71686,"columbia, florida"
+156714,"columbia, georgia"
+59461,"columbia, new york"
+52354,"columbia, oregon"
+64964,"columbia, pennsylvania"
+3985,"columbia, washington"
+57532,"columbia, wisconsin"
+101883,"columbiana, ohio"
+55508,"columbus, north carolina"
+21547,"colusa, california"
+156209,"comal, texas"
+1700,"comanche, kansas"
+120749,"comanche, oklahoma"
+13635,"comanche, texas"
+2726,"concho, texas"
+19259,"concordia, louisiana"
+12067,"conecuh, alabama"
+8205,"conejos, colorado"
+1153526,"contra costa, california"
+13822,"converse, wyoming"
+20846,"conway, arkansas"
+17270,"cook, georgia"
+5150233,"cook, illinois"
+5463,"cook, minnesota"
+41257,"cooke, texas"
+17709,"cooper, missouri"
+31563,"coos, new hampshire"
+64487,"coos, oregon"
+10663,"coosa, alabama"
+28065,"copiah, mississippi"
+4086,"corson, south dakota"
+47581,"cortland, new york"
+75951,"coryell, texas"
+36600,"coshocton, ohio"
+3887,"costilla, colorado"
+1398,"cottle, texas"
+5666,"cotton, oklahoma"
+11196,"cottonwood, minnesota"
+37049,"covington, alabama"
+18636,"covington, mississippi"
+5538,"covington, virginia"
+148509,"coweta, georgia"
+34908,"cowley, kansas"
+110593,"cowlitz, washington"
+14142,"craig, oklahoma"
+5131,"craig, virginia"
+110332,"craighead, arkansas"
+4797,"crane, texas"
+102139,"craven, north carolina"
+63257,"crawford, arkansas"
+12404,"crawford, georgia"
+18667,"crawford, illinois"
+10577,"crawford, indiana"
+16820,"crawford, iowa"
+38818,"crawford, kansas"
+14029,"crawford, michigan"
+23920,"crawford, missouri"
+41494,"crawford, ohio"
+84629,"crawford, pennsylvania"
+16131,"crawford, wisconsin"
+71522,"creek, oklahoma"
+13772,"crenshaw, alabama"
+22372,"crisp, georgia"
+47955,"crittenden, arkansas"
+8806,"crittenden, kentucky"
+14230,"crockett, tennessee"
+3464,"crockett, texas"
+24404,"crook, oregon"
+7584,"crook, wyoming"
+5737,"crosby, texas"
+16419,"cross, arkansas"
+65055,"crow wing, minnesota"
+6061,"crowley, colorado"
+2171,"culberson, texas"
+83768,"cullman, alabama"
+52605,"culpeper, virginia"
+10766,"cumberland, illinois"
+6614,"cumberland, kentucky"
+295003,"cumberland, maine"
+149527,"cumberland, new jersey"
+335509,"cumberland, north carolina"
+253370,"cumberland, pennsylvania"
+60520,"cumberland, tennessee"
+9932,"cumberland, virginia"
+8846,"cuming, nebraska"
+27763,"currituck, north carolina"
+48954,"curry, new mexico"
+22925,"curry, oregon"
+5068,"custer, colorado"
+4315,"custer, idaho"
+11402,"custer, montana"
+10777,"custer, nebraska"
+29003,"custer, oklahoma"
+8972,"custer, south dakota"
+1235072,"cuyahoga, ohio"
+16116,"dade, georgia"
+7561,"dade, missouri"
+950,"daggett, utah"
+429021,"dakota, minnesota"
+20026,"dakota, nebraska"
+49172,"dale, alabama"
+7287,"dallam, texas"
+37196,"dallas, alabama"
+7009,"dallas, arkansas"
+93453,"dallas, iowa"
+16878,"dallas, missouri"
+2635516,"dallas, texas"
+546695,"dane, wisconsin"
+1690,"daniels, montana"
+40044,"danville, virginia"
+37009,"dare, north carolina"
+51113,"darke, ohio"
+66618,"darlington, south carolina"
+278299,"dauphin, pennsylvania"
+167609,"davidson, north carolina"
+694144,"davidson, tennessee"
+42846,"davie, north carolina"
+33351,"daviess, indiana"
+101511,"daviess, kentucky"
+8278,"daviess, missouri"
+9000,"davis, iowa"
+355481,"davis, utah"
+19775,"davison, south dakota"
+8589,"dawes, nebraska"
+26108,"dawson, georgia"
+8613,"dawson, montana"
+23595,"dawson, nebraska"
+12728,"dawson, texas"
+5424,"day, south dakota"
+1748,"de baca, new mexico"
+27463,"de soto, louisiana"
+15638,"de witt, illinois"
+18546,"deaf smith, texas"
+49458,"dearborn, indiana"
+26404,"decatur, georgia"
+26559,"decatur, indiana"
+7870,"decatur, iowa"
+2827,"decatur, kansas"
+11663,"decatur, tennessee"
+9140,"deer lodge, montana"
+38087,"defiance, ohio"
+71513,"dekalb, alabama"
+759297,"dekalb, georgia"
+104897,"dekalb, illinois"
+43475,"dekalb, indiana"
+12547,"dekalb, missouri"
+20490,"dekalb, tennessee"
+27812,"del norte, california"
+114135,"delaware, indiana"
+17011,"delaware, iowa"
+44135,"delaware, new york"
+209177,"delaware, ohio"
+43009,"delaware, oklahoma"
+566747,"delaware, pennsylvania"
+31162,"delta, colorado"
+35784,"delta, michigan"
+5331,"delta, texas"
+2097,"denali, alaska"
+15573,"dent, missouri"
+887207,"denton, texas"
+727211,"denver, colorado"
+38967,"des moines, iowa"
+197692,"deschutes, oregon"
+11361,"desha, arkansas"
+38001,"desoto, florida"
+184945,"desoto, mississippi"
+1794,"deuel, nebraska"
+4351,"deuel, south dakota"
+4891,"dewey, oklahoma"
+5892,"dewey, south dakota"
+20160,"dewitt, texas"
+2211,"dickens, texas"
+14318,"dickenson, virginia"
+4872,"dickey, north dakota"
+17258,"dickinson, iowa"
+18466,"dickinson, kansas"
+25239,"dickinson, michigan"
+53948,"dickson, tennessee"
+30479,"dillon, south carolina"
+10124,"dimmit, texas"
+28544,"dinwiddie, virginia"
+2264,"divide, north dakota"
+16826,"dixie, florida"
+5636,"dixon, nebraska"
+8448,"doddridge, west virginia"
+20605,"dodge, georgia"
+20934,"dodge, minnesota"
+36565,"dodge, nebraska"
+87839,"dodge, wisconsin"
+2055,"dolores, colorado"
+7600,"doniphan, kansas"
+3278,"donley, texas"
+13390,"dooly, georgia"
+27668,"door, wisconsin"
+31929,"dorchester, maryland"
+162809,"dorchester, south carolina"
+87956,"dougherty, georgia"
+351154,"douglas, colorado"
+146343,"douglas, georgia"
+19465,"douglas, illinois"
+122259,"douglas, kansas"
+38141,"douglas, minnesota"
+13185,"douglas, missouri"
+571327,"douglas, nebraska"
+48905,"douglas, nevada"
+110980,"douglas, oregon"
+2921,"douglas, south dakota"
+43429,"douglas, washington"
+43150,"douglas, wisconsin"
+218195,"doã±a ana, new mexico"
+18219,"drew, arkansas"
+42736,"dubois, indiana"
+97311,"dubuque, iowa"
+19938,"duchesne, utah"
+17332,"dukes, massachusetts"
+1693,"dundy, nebraska"
+29131,"dunklin, missouri"
+4424,"dunn, north dakota"
+45368,"dunn, wisconsin"
+922921,"dupage, illinois"
+58741,"duplin, north carolina"
+321488,"durham, north carolina"
+294218,"dutchess, new york"
+957755,"duval, florida"
+11157,"duval, texas"
+37159,"dyer, tennessee"
+55127,"eagle, colorado"
+10190,"early, georgia"
+440059,"east baton rouge, louisiana"
+6861,"east carroll, louisiana"
+19135,"east feliciana, louisiana"
+18360,"eastland, texas"
+110268,"eaton, michigan"
+104646,"eau claire, wisconsin"
+4006,"echols, georgia"
+166223,"ector, texas"
+58460,"eddy, new mexico"
+2287,"eddy, north dakota"
+17161,"edgar, illinois"
+51472,"edgecombe, north carolina"
+27260,"edgefield, south carolina"
+12150,"edmonson, kentucky"
+3829,"edmunds, south dakota"
+6395,"edwards, illinois"
+2798,"edwards, kansas"
+1932,"edwards, texas"
+64296,"effingham, georgia"
+34008,"effingham, illinois"
+192843,"el dorado, california"
+720403,"el paso, colorado"
+839238,"el paso, texas"
+26729,"elbert, colorado"
+19194,"elbert, georgia"
+2530,"elk, kansas"
+29910,"elk, pennsylvania"
+206341,"elkhart, indiana"
+52778,"elko, nevada"
+7517,"elliott, kentucky"
+28553,"ellis, kansas"
+3859,"ellis, oklahoma"
+184826,"ellis, texas"
+6102,"ellsworth, kansas"
+81209,"elmore, alabama"
+27511,"elmore, idaho"
+22646,"emanuel, georgia"
+10012,"emery, utah"
+9208,"emmet, iowa"
+33415,"emmet, michigan"
+3241,"emmons, north dakota"
+5346,"emporia, virginia"
+42698,"erath, texas"
+918702,"erie, new york"
+74266,"erie, ohio"
+269728,"erie, pennsylvania"
+36633,"escambia, alabama"
+318316,"escambia, florida"
+873,"esmeralda, nevada"
+789034,"essex, massachusetts"
+798975,"essex, new jersey"
+36885,"essex, new york"
+6163,"essex, vermont"
+10953,"essex, virginia"
+14106,"estill, kentucky"
+102268,"etowah, alabama"
+2029,"eureka, nevada"
+33395,"evangeline, louisiana"
+10654,"evans, georgia"
+96849,"fairbanks north star, alaska"
+24019,"fairfax, virginia"
+1147532,"fairfax, virginia"
+943332,"fairfield, connecticut"
+157574,"fairfield, ohio"
+22347,"fairfield, south carolina"
+6713,"fall river, south dakota"
+2846,"fallon, montana"
+14617,"falls church, virginia"
+17297,"falls, texas"
+26188,"fannin, georgia"
+35514,"fannin, texas"
+13653,"faribault, minnesota"
+2299,"faulk, south dakota"
+126007,"faulkner, arkansas"
+71222,"fauquier, virginia"
+16302,"fayette, alabama"
+114421,"fayette, georgia"
+21336,"fayette, illinois"
+23102,"fayette, indiana"
+19650,"fayette, iowa"
+323152,"fayette, kentucky"
+28525,"fayette, ohio"
+129274,"fayette, pennsylvania"
+41133,"fayette, tennessee"
+25346,"fayette, texas"
+42406,"fayette, west virginia"
+18523,"fentress, tennessee"
+11050,"fergus, montana"
+7627,"ferry, washington"
+21067,"fillmore, minnesota"
+5462,"fillmore, nebraska"
+36467,"finney, kansas"
+3830,"fisher, texas"
+115081,"flagler, florida"
+103806,"flathead, montana"
+14581,"fleming, kentucky"
+138293,"florence, south carolina"
+4295,"florence, wisconsin"
+98498,"floyd, georgia"
+78522,"floyd, indiana"
+15642,"floyd, iowa"
+35589,"floyd, kentucky"
+5712,"floyd, texas"
+15749,"floyd, virginia"
+27270,"fluvanna, virginia"
+1155,"foard, texas"
+103403,"fond du lac, wisconsin"
+12961,"ford, illinois"
+33619,"ford, kansas"
+7247,"forest, pennsylvania"
+9004,"forest, wisconsin"
+74897,"forrest, mississippi"
+244252,"forsyth, georgia"
+382295,"forsyth, north carolina"
+811688,"fort bend, texas"
+3210,"foster, north dakota"
+16346,"fountain, indiana"
+31362,"franklin, alabama"
+17715,"franklin, arkansas"
+12125,"franklin, florida"
+23349,"franklin, georgia"
+13876,"franklin, idaho"
+38469,"franklin, illinois"
+22758,"franklin, indiana"
+10070,"franklin, iowa"
+25544,"franklin, kansas"
+50991,"franklin, kentucky"
+20015,"franklin, louisiana"
+30199,"franklin, maine"
+70180,"franklin, massachusetts"
+7713,"franklin, mississippi"
+103967,"franklin, missouri"
+2979,"franklin, nebraska"
+50022,"franklin, new york"
+69685,"franklin, north carolina"
+1316756,"franklin, ohio"
+155027,"franklin, pennsylvania"
+42208,"franklin, tennessee"
+10725,"franklin, texas"
+49402,"franklin, vermont"
+7967,"franklin, virginia"
+56042,"franklin, virginia"
+95222,"franklin, washington"
+259547,"frederick, maryland"
+89313,"frederick, virginia"
+29036,"fredericksburg, virginia"
+30281,"freeborn, minnesota"
+19717,"freestone, texas"
+47839,"fremont, colorado"
+13099,"fremont, idaho"
+6960,"fremont, iowa"
+39261,"fremont, wyoming"
+999101,"fresno, california"
+20306,"frio, texas"
+2627,"frontier, nebraska"
+12477,"fulton, arkansas"
+1063937,"fulton, georgia"
+34340,"fulton, illinois"
+19974,"fulton, indiana"
+5969,"fulton, kentucky"
+53383,"fulton, new york"
+42126,"fulton, ohio"
+14530,"fulton, pennsylvania"
+4676,"furnas, nebraska"
+45660,"gadsden, florida"
+21513,"gage, nebraska"
+21492,"gaines, texas"
+6347,"galax, virginia"
+4828,"gallatin, illinois"
+8869,"gallatin, kentucky"
+114434,"gallatin, montana"
+29898,"gallia, ohio"
+342139,"galveston, texas"
+1837,"garden, nebraska"
+60061,"garfield, colorado"
+1258,"garfield, montana"
+1969,"garfield, nebraska"
+61056,"garfield, oklahoma"
+5051,"garfield, utah"
+2225,"garfield, washington"
+99386,"garland, arkansas"
+17666,"garrard, kentucky"
+29014,"garrett, maryland"
+27711,"garvin, oklahoma"
+6229,"garza, texas"
+14706,"gasconade, missouri"
+224529,"gaston, north carolina"
+11562,"gates, north carolina"
+31670,"geary, kansas"
+93649,"geauga, ohio"
+18112,"gem, idaho"
+405813,"genesee, michigan"
+57280,"genesee, new york"
+26271,"geneva, alabama"
+6571,"gentry, missouri"
+24500,"george, mississippi"
+62680,"georgetown, south carolina"
+33659,"gibson, indiana"
+49133,"gibson, tennessee"
+54018,"gila, arizona"
+18582,"gilchrist, florida"
+29464,"giles, tennessee"
+16720,"giles, virginia"
+26988,"gillespie, texas"
+1912,"gilliam, oregon"
+31369,"gilmer, georgia"
+7823,"gilmer, west virginia"
+6243,"gilpin, colorado"
+13753,"glacier, montana"
+13811,"glades, florida"
+25449,"gladwin, michigan"
+2971,"glascock, georgia"
+1409,"glasscock, texas"
+28393,"glenn, california"
+291636,"gloucester, new jersey"
+37348,"gloucester, virginia"
+85292,"glynn, georgia"
+13975,"gogebic, michigan"
+821,"golden valley, montana"
+1761,"golden valley, north dakota"
+7658,"goliad, texas"
+20837,"gonzales, texas"
+23753,"goochland, virginia"
+46340,"goodhue, minnesota"
+15179,"gooding, idaho"
+57963,"gordon, georgia"
+13211,"goshen, wyoming"
+1990,"gosper, nebraska"
+2636,"gove, kansas"
+24633,"grady, georgia"
+55834,"grady, oklahoma"
+89886,"grafton, new hampshire"
+38837,"graham, arizona"
+2482,"graham, kansas"
+8441,"graham, north carolina"
+23320,"grainger, tennessee"
+69451,"grand forks, north dakota"
+7235,"grand isle, vermont"
+93088,"grand traverse, michigan"
+15734,"grand, colorado"
+9754,"grand, utah"
+3379,"granite, montana"
+18265,"grant, arkansas"
+65769,"grant, indiana"
+7150,"grant, kansas"
+25069,"grant, kentucky"
+22389,"grant, louisiana"
+5972,"grant, minnesota"
+623,"grant, nebraska"
+26998,"grant, new mexico"
+2274,"grant, north dakota"
+4333,"grant, oklahoma"
+7199,"grant, oregon"
+7052,"grant, south dakota"
+97733,"grant, washington"
+11568,"grant, west virginia"
+51439,"grant, wisconsin"
+60443,"granville, north carolina"
+40711,"gratiot, michigan"
+37266,"graves, kentucky"
+5988,"gray, kansas"
+21886,"gray, texas"
+75061,"grays harbor, washington"
+26427,"grayson, kentucky"
+136212,"grayson, texas"
+15550,"grayson, virginia"
+1232,"greeley, kansas"
+2356,"greeley, nebraska"
+18913,"green lake, wisconsin"
+10941,"green, kentucky"
+36960,"green, wisconsin"
+34662,"greenbrier, west virginia"
+8111,"greene, alabama"
+45325,"greene, arkansas"
+18324,"greene, georgia"
+12969,"greene, illinois"
+31922,"greene, indiana"
+8888,"greene, iowa"
+13586,"greene, mississippi"
+293086,"greene, missouri"
+47188,"greene, new york"
+21069,"greene, north carolina"
+168937,"greene, ohio"
+36233,"greene, pennsylvania"
+69069,"greene, tennessee"
+19819,"greene, virginia"
+9498,"greenlee, arizona"
+11336,"greensville, virginia"
+35098,"greenup, kentucky"
+523542,"greenville, south carolina"
+5982,"greenwood, kansas"
+70811,"greenwood, south carolina"
+5712,"greer, oklahoma"
+123945,"gregg, texas"
+4185,"gregory, south dakota"
+20758,"grenada, mississippi"
+2231,"griggs, north dakota"
+28880,"grimes, texas"
+51054,"grundy, illinois"
+12232,"grundy, iowa"
+9850,"grundy, missouri"
+13427,"grundy, tennessee"
+4300,"guadalupe, new mexico"
+166847,"guadalupe, texas"
+38875,"guernsey, ohio"
+537174,"guilford, north carolina"
+13639,"gulf, florida"
+17462,"gunnison, colorado"
+10689,"guthrie, iowa"
+936250,"gwinnett, georgia"
+1899,"haakon, south dakota"
+45328,"habersham, georgia"
+2530,"haines, alaska"
+14651,"hale, alabama"
+33406,"hale, texas"
+50010,"halifax, north carolina"
+33911,"halifax, virginia"
+204441,"hall, georgia"
+61353,"hall, nebraska"
+2964,"hall, texas"
+64934,"hamblen, tennessee"
+14428,"hamilton, florida"
+8116,"hamilton, illinois"
+338011,"hamilton, indiana"
+14773,"hamilton, iowa"
+2539,"hamilton, kansas"
+9324,"hamilton, nebraska"
+4416,"hamilton, new york"
+817473,"hamilton, ohio"
+367804,"hamilton, tennessee"
+8461,"hamilton, texas"
+6164,"hamlin, south dakota"
+466372,"hampden, massachusetts"
+160830,"hampshire, massachusetts"
+23175,"hampshire, west virginia"
+19222,"hampton, south carolina"
+134510,"hampton, virginia"
+8457,"hancock, georgia"
+17708,"hancock, illinois"
+78168,"hancock, indiana"
+10630,"hancock, iowa"
+8722,"hancock, kentucky"
+54987,"hancock, maine"
+47632,"hancock, mississippi"
+75783,"hancock, ohio"
+6620,"hancock, tennessee"
+28810,"hancock, west virginia"
+3191,"hand, south dakota"
+107766,"hanover, virginia"
+5399,"hansford, texas"
+3453,"hanson, south dakota"
+29792,"haralson, georgia"
+26937,"hardee, florida"
+25050,"hardeman, tennessee"
+3933,"hardeman, texas"
+3821,"hardin, illinois"
+16846,"hardin, iowa"
+110958,"hardin, kentucky"
+31365,"hardin, ohio"
+25652,"hardin, tennessee"
+57602,"hardin, texas"
+625,"harding, new mexico"
+1298,"harding, south dakota"
+13776,"hardy, west virginia"
+255441,"harford, maryland"
+26010,"harlan, kentucky"
+3380,"harlan, nebraska"
+2653,"harmon, oklahoma"
+135976,"harnett, north carolina"
+7393,"harney, oregon"
+5436,"harper, kansas"
+3688,"harper, oklahoma"
+35236,"harris, georgia"
+4713325,"harris, texas"
+40515,"harrison, indiana"
+14049,"harrison, iowa"
+18886,"harrison, kentucky"
+208080,"harrison, mississippi"
+8352,"harrison, missouri"
+15040,"harrison, ohio"
+66553,"harrison, texas"
+67256,"harrison, west virginia"
+53016,"harrisonburg, virginia"
+26205,"hart, georgia"
+19035,"hart, kentucky"
+891720,"hartford, connecticut"
+5576,"hartley, texas"
+34429,"harvey, kansas"
+3968,"haskell, kansas"
+12627,"haskell, oklahoma"
+5658,"haskell, texas"
+201513,"hawaii, hawaii"
+56786,"hawkins, tennessee"
+922,"hayes, nebraska"
+230191,"hays, texas"
+62317,"haywood, north carolina"
+17304,"haywood, tennessee"
+11923,"heard, georgia"
+3819,"hemphill, texas"
+21532,"hempstead, arkansas"
+6646,"henderson, illinois"
+45210,"henderson, kentucky"
+117417,"henderson, north carolina"
+28117,"henderson, tennessee"
+82737,"henderson, texas"
+170311,"hendricks, indiana"
+42022,"hendry, florida"
+1265843,"hennepin, minnesota"
+330818,"henrico, virginia"
+17205,"henry, alabama"
+234561,"henry, georgia"
+48913,"henry, illinois"
+47972,"henry, indiana"
+19954,"henry, iowa"
+16126,"henry, kentucky"
+21824,"henry, missouri"
+27006,"henry, ohio"
+32345,"henry, tennessee"
+50557,"henry, virginia"
+61319,"herkimer, new york"
+193920,"hernando, florida"
+23677,"hertford, north carolina"
+2499,"hettinger, north dakota"
+4380,"hickman, kentucky"
+25178,"hickman, tennessee"
+9544,"hickory, missouri"
+4198,"hidalgo, new mexico"
+868707,"hidalgo, texas"
+43161,"highland, ohio"
+2190,"highland, virginia"
+106221,"highlands, florida"
+16484,"hill, montana"
+36649,"hill, texas"
+1471968,"hillsborough, florida"
+417025,"hillsborough, new hampshire"
+45605,"hillsdale, michigan"
+231840,"hinds, mississippi"
+820,"hinsdale, colorado"
+2762,"hitchcock, nebraska"
+28264,"hocking, ohio"
+23021,"hockley, texas"
+1794,"hodgeman, kansas"
+55234,"hoke, north carolina"
+19617,"holmes, florida"
+17010,"holmes, mississippi"
+43960,"holmes, ohio"
+4403,"holt, missouri"
+10067,"holt, nebraska"
+974563,"honolulu, hawaii"
+23382,"hood river, oregon"
+61643,"hood, texas"
+682,"hooker, nebraska"
+22529,"hopewell, virginia"
+44686,"hopkins, kentucky"
+37084,"hopkins, texas"
+354081,"horry, south carolina"
+33771,"hot spring, arkansas"
+4413,"hot springs, wyoming"
+35684,"houghton, michigan"
+105882,"houston, alabama"
+157863,"houston, georgia"
+18600,"houston, minnesota"
+8201,"houston, tennessee"
+22968,"houston, texas"
+13202,"howard, arkansas"
+82544,"howard, indiana"
+9158,"howard, iowa"
+325690,"howard, maryland"
+10001,"howard, missouri"
+6445,"howard, nebraska"
+36664,"howard, texas"
+40117,"howell, missouri"
+21491,"hubbard, minnesota"
+672391,"hudson, new jersey"
+4886,"hudspeth, texas"
+6897,"huerfano, colorado"
+13279,"hughes, oklahoma"
+17526,"hughes, south dakota"
+135558,"humboldt, california"
+9558,"humboldt, iowa"
+16831,"humboldt, nevada"
+8064,"humphreys, mississippi"
+18582,"humphreys, tennessee"
+98594,"hunt, texas"
+124371,"hunterdon, new jersey"
+45144,"huntingdon, pennsylvania"
+36520,"huntington, indiana"
+30981,"huron, michigan"
+58266,"huron, ohio"
+7291,"hutchinson, south dakota"
+20938,"hutchinson, texas"
+4937,"hyde, north carolina"
+1301,"hyde, south dakota"
+69830,"iberia, louisiana"
+32511,"iberville, louisiana"
+6860,"ida, iowa"
+16667,"idaho, idaho"
+181215,"imperial, california"
+37825,"independence, arkansas"
+159923,"indian river, florida"
+84073,"indiana, pennsylvania"
+292406,"ingham, michigan"
+18039,"inyo, california"
+64697,"ionia, michigan"
+25127,"iosco, michigan"
+16184,"iowa, iowa"
+23678,"iowa, wisconsin"
+181806,"iredell, north carolina"
+1536,"irion, texas"
+11066,"iron, michigan"
+10125,"iron, missouri"
+54839,"iron, utah"
+5687,"iron, wisconsin"
+27114,"iroquois, illinois"
+9416,"irwin, georgia"
+69872,"isabella, michigan"
+40596,"isanti, minnesota"
+85141,"island, washington"
+37109,"isle of wight, virginia"
+1327,"issaquena, mississippi"
+45130,"itasca, minnesota"
+23390,"itawamba, mississippi"
+13629,"izard, arkansas"
+8935,"jack, texas"
+51626,"jackson, alabama"
+16719,"jackson, arkansas"
+1392,"jackson, colorado"
+46414,"jackson, florida"
+72977,"jackson, georgia"
+56750,"jackson, illinois"
+44231,"jackson, indiana"
+19439,"jackson, iowa"
+13171,"jackson, kansas"
+13329,"jackson, kentucky"
+15744,"jackson, louisiana"
+158510,"jackson, michigan"
+9846,"jackson, minnesota"
+143617,"jackson, mississippi"
+703011,"jackson, missouri"
+43938,"jackson, north carolina"
+32413,"jackson, ohio"
+24530,"jackson, oklahoma"
+220944,"jackson, oregon"
+3344,"jackson, south dakota"
+11786,"jackson, tennessee"
+14760,"jackson, texas"
+28576,"jackson, west virginia"
+20643,"jackson, wisconsin"
+76523,"james city, virginia"
+14219,"jasper, georgia"
+9610,"jasper, illinois"
+33562,"jasper, indiana"
+37185,"jasper, iowa"
+16383,"jasper, mississippi"
+121328,"jasper, missouri"
+30073,"jasper, south carolina"
+35529,"jasper, texas"
+20436,"jay, indiana"
+15115,"jeff davis, georgia"
+2274,"jeff davis, texas"
+31368,"jefferson davis, louisiana"
+11128,"jefferson davis, mississippi"
+658573,"jefferson, alabama"
+66824,"jefferson, arkansas"
+582881,"jefferson, colorado"
+14246,"jefferson, florida"
+15362,"jefferson, georgia"
+29871,"jefferson, idaho"
+37684,"jefferson, illinois"
+32308,"jefferson, indiana"
+18295,"jefferson, iowa"
+19043,"jefferson, kansas"
+766757,"jefferson, kentucky"
+432493,"jefferson, louisiana"
+6990,"jefferson, mississippi"
+225081,"jefferson, missouri"
+12221,"jefferson, montana"
+7046,"jefferson, nebraska"
+109834,"jefferson, new york"
+65325,"jefferson, ohio"
+6002,"jefferson, oklahoma"
+24658,"jefferson, oregon"
+43425,"jefferson, pennsylvania"
+54495,"jefferson, tennessee"
+251565,"jefferson, texas"
+32221,"jefferson, washington"
+57146,"jefferson, west virginia"
+84769,"jefferson, wisconsin"
+8676,"jenkins, georgia"
+27735,"jennings, indiana"
+2013,"jerauld, south dakota"
+24412,"jerome, idaho"
+21773,"jersey, illinois"
+54115,"jessamine, kentucky"
+2879,"jewell, kansas"
+5200,"jim hogg, texas"
+40482,"jim wells, texas"
+21235,"jo daviess, illinois"
+26578,"johnson, arkansas"
+9643,"johnson, georgia"
+12417,"johnson, illinois"
+158167,"johnson, indiana"
+151140,"johnson, iowa"
+602401,"johnson, kansas"
+22188,"johnson, kentucky"
+54062,"johnson, missouri"
+5071,"johnson, nebraska"
+17788,"johnson, tennessee"
+175817,"johnson, texas"
+8445,"johnson, wyoming"
+209339,"johnston, north carolina"
+11085,"johnston, oklahoma"
+28735,"jones, georgia"
+20681,"jones, iowa"
+68098,"jones, mississippi"
+9419,"jones, north carolina"
+903,"jones, south dakota"
+20083,"jones, texas"
+87487,"josephine, oregon"
+12017,"juab, utah"
+2007,"judith basin, montana"
+31974,"juneau, alaska"
+26687,"juneau, wisconsin"
+24763,"juniata, pennsylvania"
+265066,"kalamazoo, michigan"
+86,"kalawao, hawaii"
+18038,"kalkaska, michigan"
+16337,"kanabec, minnesota"
+178124,"kanawha, west virginia"
+43199,"kandiyohi, minnesota"
+532403,"kane, illinois"
+7886,"kane, utah"
+109862,"kankakee, illinois"
+15601,"karnes, texas"
+72293,"kauai, hawaii"
+136154,"kaufman, texas"
+43538,"kay, oklahoma"
+6495,"kearney, nebraska"
+3838,"kearny, kansas"
+8034,"keith, nebraska"
+9742,"kemper, mississippi"
+58708,"kenai peninsula, alaska"
+128990,"kendall, illinois"
+47431,"kendall, texas"
+404,"kenedy, texas"
+122302,"kennebec, maine"
+169561,"kenosha, wisconsin"
+180786,"kent, delaware"
+19422,"kent, maryland"
+656955,"kent, michigan"
+164292,"kent, rhode island"
+762,"kent, texas"
+166998,"kenton, kentucky"
+10246,"keokuk, iowa"
+900202,"kern, california"
+52600,"kerr, texas"
+66551,"kershaw, south carolina"
+13901,"ketchikan gateway, alaska"
+20434,"kewaunee, wisconsin"
+2116,"keweenaw, michigan"
+806,"keya paha, nebraska"
+2480,"kidder, north dakota"
+3632,"kimball, nebraska"
+4337,"kimble, texas"
+7025,"king and queen, virginia"
+26836,"king george, virginia"
+17148,"king william, virginia"
+272,"king, texas"
+2252782,"king, washington"
+15765,"kingfisher, oklahoma"
+7152,"kingman, kansas"
+152940,"kings, california"
+2559903,"kings, new york"
+4939,"kingsbury, south dakota"
+3667,"kinney, texas"
+1406,"kiowa, colorado"
+2475,"kiowa, kansas"
+8708,"kiowa, oklahoma"
+7097,"kit carson, colorado"
+271473,"kitsap, washington"
+47935,"kittitas, washington"
+4298,"kittson, minnesota"
+68238,"klamath, oregon"
+30680,"kleberg, texas"
+22425,"klickitat, washington"
+14806,"knott, kentucky"
+49699,"knox, illinois"
+36594,"knox, indiana"
+31145,"knox, kentucky"
+39772,"knox, maine"
+3959,"knox, missouri"
+8332,"knox, nebraska"
+62322,"knox, ohio"
+470313,"knox, tennessee"
+3664,"knox, texas"
+12998,"kodiak island, alaska"
+12229,"koochiching, minnesota"
+165697,"kootenai, idaho"
+79456,"kosciusko, indiana"
+14813,"kossuth, iowa"
+118016,"la crosse, wisconsin"
+21108,"la paz, arizona"
+56221,"la plata, colorado"
+7520,"la salle, texas"
+19618,"labette, kansas"
+6623,"lac qui parle, minnesota"
+209674,"lackawanna, pennsylvania"
+35723,"laclede, missouri"
+6624,"lafayette, arkansas"
+8422,"lafayette, florida"
+244390,"lafayette, louisiana"
+54019,"lafayette, mississippi"
+32708,"lafayette, missouri"
+16665,"lafayette, wisconsin"
+97614,"lafourche, louisiana"
+39614,"lagrange, indiana"
+1592,"lake and peninsula, alaska"
+3740,"lake of the woods, minnesota"
+64386,"lake, california"
+8127,"lake, colorado"
+367118,"lake, florida"
+696535,"lake, illinois"
+485493,"lake, indiana"
+11853,"lake, michigan"
+10641,"lake, minnesota"
+30458,"lake, montana"
+230149,"lake, ohio"
+7869,"lake, oregon"
+12797,"lake, south dakota"
+7016,"lake, tennessee"
+13805,"lamar, alabama"
+19077,"lamar, georgia"
+63343,"lamar, mississippi"
+49859,"lamar, texas"
+12893,"lamb, texas"
+25362,"lamoille, vermont"
+4046,"lamoure, north dakota"
+21428,"lampasas, texas"
+319090,"lancaster, nebraska"
+545724,"lancaster, pennsylvania"
+98012,"lancaster, south carolina"
+10603,"lancaster, virginia"
+5532,"lander, nevada"
+1535,"lane, kansas"
+382067,"lane, oregon"
+19189,"langlade, wisconsin"
+10423,"lanier, georgia"
+87607,"lapeer, michigan"
+109888,"laporte, indiana"
+99500,"laramie, wyoming"
+356899,"larimer, colorado"
+14398,"larue, kentucky"
+14506,"las animas, colorado"
+108669,"lasalle, illinois"
+14892,"lasalle, louisiana"
+30573,"lassen, california"
+40108,"latah, idaho"
+10073,"latimer, oklahoma"
+92729,"lauderdale, alabama"
+74125,"lauderdale, mississippi"
+25633,"lauderdale, tennessee"
+60813,"laurel, kentucky"
+47546,"laurens, georgia"
+67493,"laurens, south carolina"
+20154,"lavaca, texas"
+32924,"lawrence, alabama"
+16406,"lawrence, arkansas"
+15678,"lawrence, illinois"
+45370,"lawrence, indiana"
+15317,"lawrence, kentucky"
+12586,"lawrence, mississippi"
+38355,"lawrence, missouri"
+59463,"lawrence, ohio"
+85512,"lawrence, pennsylvania"
+25844,"lawrence, south dakota"
+44142,"lawrence, tennessee"
+49853,"le flore, oklahoma"
+28887,"le sueur, minnesota"
+71070,"lea, new mexico"
+22786,"leake, mississippi"
+81758,"leavenworth, kansas"
+141793,"lebanon, pennsylvania"
+164542,"lee, alabama"
+8857,"lee, arkansas"
+770577,"lee, florida"
+29992,"lee, georgia"
+34096,"lee, illinois"
+33657,"lee, iowa"
+7403,"lee, kentucky"
+85436,"lee, mississippi"
+61779,"lee, north carolina"
+16828,"lee, south carolina"
+17239,"lee, texas"
+23423,"lee, virginia"
+21761,"leelanau, michigan"
+28183,"leflore, mississippi"
+369318,"lehigh, pennsylvania"
+8027,"lemhi, idaho"
+98451,"lenawee, michigan"
+55949,"lenoir, north carolina"
+293582,"leon, florida"
+17404,"leon, texas"
+9877,"leslie, kentucky"
+21553,"letcher, kentucky"
+41503,"levy, florida"
+69432,"lewis and clark, montana"
+3838,"lewis, idaho"
+13275,"lewis, kentucky"
+9776,"lewis, missouri"
+26296,"lewis, new york"
+12268,"lewis, tennessee"
+80707,"lewis, washington"
+15907,"lewis, west virginia"
+298750,"lexington, south carolina"
+7446,"lexington, virginia"
+8354,"liberty, florida"
+61435,"liberty, georgia"
+2337,"liberty, montana"
+88219,"liberty, texas"
+176862,"licking, ohio"
+98915,"limestone, alabama"
+23437,"limestone, texas"
+13024,"lincoln, arkansas"
+5701,"lincoln, colorado"
+7921,"lincoln, georgia"
+5366,"lincoln, idaho"
+2962,"lincoln, kansas"
+24549,"lincoln, kentucky"
+46742,"lincoln, louisiana"
+34634,"lincoln, maine"
+5639,"lincoln, minnesota"
+34153,"lincoln, mississippi"
+59013,"lincoln, missouri"
+19980,"lincoln, montana"
+34914,"lincoln, nebraska"
+5183,"lincoln, nevada"
+19572,"lincoln, new mexico"
+86111,"lincoln, north carolina"
+34877,"lincoln, oklahoma"
+49962,"lincoln, oregon"
+61128,"lincoln, south dakota"
+34366,"lincoln, tennessee"
+10939,"lincoln, washington"
+20409,"lincoln, west virginia"
+27593,"lincoln, wisconsin"
+19830,"lincoln, wyoming"
+226706,"linn, iowa"
+9703,"linn, kansas"
+11920,"linn, missouri"
+129749,"linn, oregon"
+3233,"lipscomb, texas"
+180333,"litchfield, connecticut"
+12259,"little river, arkansas"
+12207,"live oak, texas"
+35648,"livingston, illinois"
+9194,"livingston, kentucky"
+140789,"livingston, louisiana"
+191995,"livingston, michigan"
+15227,"livingston, missouri"
+62914,"livingston, new york"
+21795,"llano, texas"
+21466,"logan, arkansas"
+22409,"logan, colorado"
+28618,"logan, illinois"
+2794,"logan, kansas"
+27102,"logan, kentucky"
+748,"logan, nebraska"
+1850,"logan, north dakota"
+45672,"logan, ohio"
+48011,"logan, oklahoma"
+32019,"logan, west virginia"
+19559,"long, georgia"
+73309,"lonoke, arkansas"
+309833,"lorain, ohio"
+19369,"los alamos, new mexico"
+10039107,"los angeles, california"
+54068,"loudon, tennessee"
+413538,"loudoun, virginia"
+11035,"louisa, iowa"
+37591,"louisa, virginia"
+664,"loup, nebraska"
+10253,"love, oklahoma"
+169,"loving, texas"
+9726,"lowndes, alabama"
+117406,"lowndes, georgia"
+58595,"lowndes, mississippi"
+310569,"lubbock, texas"
+8600,"lucas, iowa"
+428348,"lucas, ohio"
+6229,"luce, michigan"
+33610,"lumpkin, georgia"
+23709,"luna, new mexico"
+12196,"lunenburg, virginia"
+317417,"luzerne, pennsylvania"
+113299,"lycoming, pennsylvania"
+3781,"lyman, south dakota"
+82168,"lynchburg, virginia"
+5951,"lynn, texas"
+11755,"lyon, iowa"
+33195,"lyon, kansas"
+8210,"lyon, kentucky"
+25474,"lyon, minnesota"
+57510,"lyon, nevada"
+10799,"mackinac, michigan"
+873972,"macomb, michigan"
+18068,"macon, alabama"
+12947,"macon, georgia"
+104009,"macon, illinois"
+15117,"macon, missouri"
+35858,"macon, north carolina"
+24602,"macon, tennessee"
+44926,"macoupin, illinois"
+157327,"madera, california"
+372909,"madison, alabama"
+16576,"madison, arkansas"
+18493,"madison, florida"
+29880,"madison, georgia"
+39907,"madison, idaho"
+262966,"madison, illinois"
+129569,"madison, indiana"
+16338,"madison, iowa"
+92987,"madison, kentucky"
+10951,"madison, louisiana"
+106272,"madison, mississippi"
+12088,"madison, missouri"
+8600,"madison, montana"
+35099,"madison, nebraska"
+70941,"madison, new york"
+21755,"madison, north carolina"
+44731,"madison, ohio"
+97984,"madison, tennessee"
+14284,"madison, texas"
+13261,"madison, virginia"
+12161,"magoffin, kentucky"
+22095,"mahaska, iowa"
+5527,"mahnomen, minnesota"
+228683,"mahoning, ohio"
+7629,"major, oklahoma"
+30571,"malheur, oregon"
+17478,"manassas park, virginia"
+41085,"manassas, virginia"
+403253,"manatee, florida"
+24558,"manistee, michigan"
+78981,"manitowoc, wisconsin"
+135692,"marathon, wisconsin"
+18863,"marengo, alabama"
+4485414,"maricopa, arizona"
+8697,"maries, missouri"
+258826,"marin, california"
+40350,"marinette, wisconsin"
+29709,"marion, alabama"
+16694,"marion, arkansas"
+365579,"marion, florida"
+8359,"marion, georgia"
+37205,"marion, illinois"
+964582,"marion, indiana"
+33253,"marion, iowa"
+11884,"marion, kansas"
+19273,"marion, kentucky"
+24573,"marion, mississippi"
+28530,"marion, missouri"
+65093,"marion, ohio"
+347818,"marion, oregon"
+30657,"marion, south carolina"
+28907,"marion, tennessee"
+9854,"marion, texas"
+56072,"marion, west virginia"
+17203,"mariposa, california"
+26118,"marlboro, south carolina"
+66699,"marquette, michigan"
+15574,"marquette, wisconsin"
+96774,"marshall, alabama"
+11438,"marshall, illinois"
+46258,"marshall, indiana"
+39369,"marshall, iowa"
+9707,"marshall, kansas"
+31100,"marshall, kentucky"
+9336,"marshall, minnesota"
+35294,"marshall, mississippi"
+16931,"marshall, oklahoma"
+4935,"marshall, south dakota"
+34375,"marshall, tennessee"
+30531,"marshall, west virginia"
+161000,"martin, florida"
+10255,"martin, indiana"
+11195,"martin, kentucky"
+19683,"martin, minnesota"
+22440,"martin, north carolina"
+5771,"martin, texas"
+12554,"martinsville, virginia"
+13359,"mason, illinois"
+17070,"mason, kentucky"
+29144,"mason, michigan"
+4274,"mason, texas"
+66768,"mason, washington"
+26516,"mason, west virginia"
+13772,"massac, illinois"
+36643,"matagorda, texas"
+108317,"matanuska-susitna, alaska"
+8834,"mathews, virginia"
+167417,"maui, hawaii"
+96387,"maury, tennessee"
+58722,"maverick, texas"
+41100,"mayes, oklahoma"
+40474,"mcclain, oklahoma"
+1664,"mccone, montana"
+5586,"mccook, south dakota"
+9463,"mccormick, south carolina"
+65418,"mccracken, kentucky"
+17231,"mccreary, kentucky"
+7984,"mcculloch, texas"
+32832,"mccurtain, oklahoma"
+22837,"mcdonald, missouri"
+29682,"mcdonough, illinois"
+45756,"mcdowell, north carolina"
+17624,"mcdowell, west virginia"
+21312,"mcduffie, georgia"
+307774,"mchenry, illinois"
+5745,"mchenry, north dakota"
+14378,"mcintosh, georgia"
+2497,"mcintosh, north dakota"
+19596,"mcintosh, oklahoma"
+40625,"mckean, pennsylvania"
+15024,"mckenzie, north dakota"
+71367,"mckinley, new mexico"
+171517,"mclean, illinois"
+9207,"mclean, kentucky"
+9450,"mclean, north dakota"
+256623,"mclennan, texas"
+35893,"mcleod, minnesota"
+53794,"mcminn, tennessee"
+743,"mcmullen, texas"
+25694,"mcnairy, tennessee"
+28542,"mcpherson, kansas"
+494,"mcpherson, nebraska"
+2379,"mcpherson, south dakota"
+4033,"meade, kansas"
+28572,"meade, kentucky"
+28332,"meade, south dakota"
+1862,"meagher, montana"
+1110356,"mecklenburg, north carolina"
+30587,"mecklenburg, virginia"
+43453,"mecosta, michigan"
+179746,"medina, ohio"
+51584,"medina, texas"
+23222,"meeker, minnesota"
+22907,"meigs, ohio"
+12422,"meigs, tennessee"
+2061,"mellette, south dakota"
+12196,"menard, illinois"
+2138,"menard, texas"
+86749,"mendocino, california"
+6489,"menifee, kentucky"
+22780,"menominee, michigan"
+4556,"menominee, wisconsin"
+277680,"merced, california"
+15437,"mercer, illinois"
+21933,"mercer, kentucky"
+3617,"mercer, missouri"
+367430,"mercer, new jersey"
+8187,"mercer, north dakota"
+41172,"mercer, ohio"
+109424,"mercer, pennsylvania"
+58758,"mercer, west virginia"
+21167,"meriwether, georgia"
+7755,"merrick, nebraska"
+151391,"merrimack, new hampshire"
+154210,"mesa, colorado"
+10071,"metcalfe, kentucky"
+35516,"miami, indiana"
+34237,"miami, kansas"
+106987,"miami, ohio"
+2716940,"miami-dade, florida"
+162436,"middlesex, connecticut"
+1611699,"middlesex, massachusetts"
+825062,"middlesex, new jersey"
+10582,"middlesex, virginia"
+83156,"midland, michigan"
+176832,"midland, texas"
+46138,"mifflin, pennsylvania"
+24823,"milam, texas"
+13188,"millard, utah"
+26277,"mille lacs, minnesota"
+43257,"miller, arkansas"
+5718,"miller, georgia"
+25619,"miller, missouri"
+15109,"mills, iowa"
+4873,"mills, texas"
+945726,"milwaukee, wisconsin"
+2216,"miner, south dakota"
+769,"mineral, colorado"
+4397,"mineral, montana"
+4505,"mineral, nevada"
+26868,"mineral, west virginia"
+23424,"mingo, west virginia"
+21039,"minidoka, idaho"
+193134,"minnehaha, south dakota"
+15118,"missaukee, michigan"
+40651,"mississippi, arkansas"
+13180,"mississippi, missouri"
+119600,"missoula, montana"
+21863,"mitchell, georgia"
+10586,"mitchell, iowa"
+5979,"mitchell, kansas"
+14964,"mitchell, north carolina"
+8545,"mitchell, texas"
+413210,"mobile, alabama"
+8841,"modoc, california"
+13283,"moffat, colorado"
+212181,"mohave, arizona"
+16132,"moniteau, missouri"
+618795,"monmouth, new jersey"
+14444,"mono, california"
+8615,"monona, iowa"
+105612,"monongalia, west virginia"
+20733,"monroe, alabama"
+6701,"monroe, arkansas"
+74228,"monroe, florida"
+27578,"monroe, georgia"
+34637,"monroe, illinois"
+148431,"monroe, indiana"
+7707,"monroe, iowa"
+10650,"monroe, kentucky"
+150500,"monroe, michigan"
+35252,"monroe, mississippi"
+8644,"monroe, missouri"
+741770,"monroe, new york"
+13654,"monroe, ohio"
+170271,"monroe, pennsylvania"
+46545,"monroe, tennessee"
+13275,"monroe, west virginia"
+46253,"monroe, wisconsin"
+19818,"montague, texas"
+63888,"montcalm, michigan"
+434061,"monterey, california"
+26183,"montezuma, colorado"
+226486,"montgomery, alabama"
+8986,"montgomery, arkansas"
+9172,"montgomery, georgia"
+28414,"montgomery, illinois"
+38338,"montgomery, indiana"
+9917,"montgomery, iowa"
+31829,"montgomery, kansas"
+28157,"montgomery, kentucky"
+1050688,"montgomery, maryland"
+9775,"montgomery, mississippi"
+11551,"montgomery, missouri"
+49221,"montgomery, new york"
+27173,"montgomery, north carolina"
+531687,"montgomery, ohio"
+830915,"montgomery, pennsylvania"
+208993,"montgomery, tennessee"
+607391,"montgomery, texas"
+98535,"montgomery, virginia"
+9328,"montmorency, michigan"
+18230,"montour, pennsylvania"
+42758,"montrose, colorado"
+6576,"moody, south dakota"
+100880,"moore, north carolina"
+6488,"moore, tennessee"
+20940,"moore, texas"
+4521,"mora, new mexico"
+24874,"morehouse, louisiana"
+119679,"morgan, alabama"
+29068,"morgan, colorado"
+19276,"morgan, georgia"
+33658,"morgan, illinois"
+70489,"morgan, indiana"
+13309,"morgan, kentucky"
+20627,"morgan, missouri"
+14508,"morgan, ohio"
+21403,"morgan, tennessee"
+12124,"morgan, utah"
+17884,"morgan, west virginia"
+4642,"morrill, nebraska"
+5620,"morris, kansas"
+491845,"morris, new jersey"
+12388,"morris, texas"
+33386,"morrison, minnesota"
+35328,"morrow, ohio"
+11603,"morrow, oregon"
+2587,"morton, kansas"
+31364,"morton, north dakota"
+1200,"motley, texas"
+14501,"moultrie, illinois"
+10545,"mountrail, north dakota"
+40062,"mower, minnesota"
+30622,"muhlenberg, kentucky"
+812855,"multnomah, oregon"
+40096,"murray, georgia"
+8194,"murray, minnesota"
+14073,"murray, oklahoma"
+42664,"muscatine, iowa"
+195769,"muscogee, georgia"
+173566,"muskegon, michigan"
+86215,"muskingum, ohio"
+67997,"muskogee, oklahoma"
+4633,"musselshell, montana"
+65204,"nacogdoches, texas"
+3519,"nance, nebraska"
+11399,"nantucket, massachusetts"
+137744,"napa, california"
+94298,"nash, north carolina"
+88625,"nassau, florida"
+1356924,"nassau, new york"
+38158,"natchitoches, louisiana"
+79858,"natrona, wyoming"
+110924,"navajo, arizona"
+50113,"navarro, texas"
+46233,"nelson, kentucky"
+2879,"nelson, north dakota"
+14930,"nelson, virginia"
+10231,"nemaha, kansas"
+6972,"nemaha, nebraska"
+16007,"neosho, kansas"
+29118,"neshoba, mississippi"
+2750,"ness, kansas"
+8252,"nevada, arkansas"
+99755,"nevada, california"
+558753,"new castle, delaware"
+234473,"new hanover, north carolina"
+854757,"new haven, connecticut"
+23091,"new kent, virginia"
+265206,"new london, connecticut"
+17076,"new madrid, missouri"
+1628706,"new york, new york"
+48980,"newaygo, michigan"
+38440,"newberry, south carolina"
+179225,"newport news, virginia"
+82082,"newport, rhode island"
+7753,"newton, arkansas"
+111744,"newton, georgia"
+13984,"newton, indiana"
+21018,"newton, mississippi"
+58236,"newton, missouri"
+13595,"newton, texas"
+40408,"nez perce, idaho"
+209281,"niagara, new york"
+7269,"nicholas, kentucky"
+24496,"nicholas, west virginia"
+34274,"nicollet, minnesota"
+2356,"niobrara, wyoming"
+47744,"noble, indiana"
+14424,"noble, ohio"
+11131,"noble, oklahoma"
+21629,"nobles, minnesota"
+22092,"nodaway, missouri"
+14714,"nolan, texas"
+706775,"norfolk, massachusetts"
+242742,"norfolk, virginia"
+6375,"norman, minnesota"
+9832,"north slope, alaska"
+19483,"northampton, north carolina"
+305285,"northampton, pennsylvania"
+11710,"northampton, virginia"
+90843,"northumberland, pennsylvania"
+12095,"northumberland, virginia"
+7621,"northwest arctic, alaska"
+5361,"norton, kansas"
+3981,"norton, virginia"
+15232,"nottoway, virginia"
+10076,"nowata, oklahoma"
+10417,"noxubee, mississippi"
+4148,"nuckolls, nebraska"
+362294,"nueces, texas"
+46523,"nye, nevada"
+13753,"o'brien, iowa"
+1257584,"oakland, michigan"
+30069,"obion, tennessee"
+607186,"ocean, new jersey"
+26467,"oceana, michigan"
+9836,"ochiltree, texas"
+40280,"oconee, georgia"
+79546,"oconee, south carolina"
+37930,"oconto, wisconsin"
+20997,"ogemaw, michigan"
+14177,"oglala lakota, south dakota"
+50643,"ogle, illinois"
+15259,"oglethorpe, georgia"
+5875,"ohio, indiana"
+23994,"ohio, kentucky"
+41411,"ohio, west virginia"
+210738,"okaloosa, florida"
+42243,"okanogan, washington"
+42168,"okeechobee, florida"
+11993,"okfuskee, oklahoma"
+797434,"oklahoma, oklahoma"
+38465,"okmulgee, oklahoma"
+49587,"oktibbeha, mississippi"
+66799,"oldham, kentucky"
+2112,"oldham, texas"
+1959,"oliver, north dakota"
+158293,"olmsted, minnesota"
+4531,"oneida, idaho"
+228671,"oneida, new york"
+35595,"oneida, wisconsin"
+460528,"onondaga, new york"
+197938,"onslow, north carolina"
+109777,"ontario, new york"
+5720,"ontonagon, michigan"
+3175692,"orange, california"
+1393452,"orange, florida"
+19646,"orange, indiana"
+384940,"orange, new york"
+148476,"orange, north carolina"
+83396,"orange, texas"
+28892,"orange, vermont"
+37051,"orange, virginia"
+86175,"orangeburg, south carolina"
+10529,"oregon, missouri"
+390144,"orleans, louisiana"
+40352,"orleans, new york"
+27037,"orleans, vermont"
+15949,"osage, kansas"
+13615,"osage, missouri"
+46963,"osage, oklahoma"
+3421,"osborne, kansas"
+375751,"osceola, florida"
+5958,"osceola, iowa"
+23460,"osceola, michigan"
+8241,"oscoda, michigan"
+117124,"oswego, new york"
+18278,"otero, colorado"
+67490,"otero, new mexico"
+16012,"otoe, nebraska"
+24668,"otsego, michigan"
+59493,"otsego, new york"
+5704,"ottawa, kansas"
+291830,"ottawa, michigan"
+40525,"ottawa, ohio"
+31127,"ottawa, oklahoma"
+58746,"otter tail, minnesota"
+6282,"ottineau, north dakota"
+23382,"ouachita, arkansas"
+153279,"ouachita, louisiana"
+4952,"ouray, colorado"
+187885,"outagamie, wisconsin"
+22241,"overton, tennessee"
+20799,"owen, indiana"
+10901,"owen, kentucky"
+4415,"owsley, kentucky"
+11823,"owyhee, idaho"
+57975,"oxford, maine"
+9174,"ozark, missouri"
+89221,"ozaukee, wisconsin"
+22471,"pacific, washington"
+15107,"page, iowa"
+23902,"page, virginia"
+1496770,"palm beach, florida"
+8886,"palo alto, iowa"
+29189,"palo pinto, texas"
+12726,"pamlico, north carolina"
+34192,"panola, mississippi"
+23194,"panola, texas"
+18845,"park, colorado"
+16606,"park, montana"
+29194,"park, wyoming"
+16937,"parke, indiana"
+142878,"parker, texas"
+9605,"parmer, texas"
+553947,"pasco, florida"
+39824,"pasquotank, north carolina"
+501826,"passaic, new jersey"
+17608,"patrick, virginia"
+168667,"paulding, georgia"
+18672,"paulding, ohio"
+6414,"pawnee, kansas"
+2613,"pawnee, nebraska"
+16376,"pawnee, oklahoma"
+23951,"payette, idaho"
+81784,"payne, oklahoma"
+27546,"peach, georgia"
+55535,"pearl river, mississippi"
+15823,"pecos, texas"
+6801,"pembina, north dakota"
+15805,"pemiscot, missouri"
+13724,"pend oreille, washington"
+63060,"pender, north carolina"
+14590,"pendleton, kentucky"
+6969,"pendleton, west virginia"
+14119,"pennington, minnesota"
+113775,"pennington, south dakota"
+152148,"penobscot, maine"
+179179,"peoria, illinois"
+7287,"pepin, wisconsin"
+2891,"perkins, nebraska"
+2865,"perkins, south dakota"
+13463,"perquimans, north carolina"
+8923,"perry, alabama"
+10455,"perry, arkansas"
+20916,"perry, illinois"
+19169,"perry, indiana"
+25758,"perry, kentucky"
+11973,"perry, mississippi"
+19136,"perry, missouri"
+36134,"perry, ohio"
+46272,"perry, pennsylvania"
+8076,"perry, tennessee"
+6725,"pershing, nevada"
+39490,"person, north carolina"
+3266,"petersburg, alaska"
+31346,"petersburg, virginia"
+487,"petroleum, montana"
+42339,"pettis, missouri"
+44573,"phelps, missouri"
+9034,"phelps, nebraska"
+1584064,"philadelphia, pennsylvania"
+17782,"phillips, arkansas"
+4265,"phillips, colorado"
+5234,"phillips, kansas"
+3954,"phillips, montana"
+16344,"piatt, illinois"
+58457,"pickaway, ohio"
+19930,"pickens, alabama"
+32591,"pickens, georgia"
+126884,"pickens, south carolina"
+5048,"pickett, tennessee"
+19465,"pierce, georgia"
+7148,"pierce, nebraska"
+3975,"pierce, north dakota"
+904980,"pierce, washington"
+42754,"pierce, wisconsin"
+33114,"pike, alabama"
+10718,"pike, arkansas"
+18962,"pike, georgia"
+15561,"pike, illinois"
+12389,"pike, indiana"
+57876,"pike, kentucky"
+39288,"pike, mississippi"
+18302,"pike, missouri"
+27772,"pike, ohio"
+55809,"pike, pennsylvania"
+1047279,"pima, arizona"
+462789,"pinal, arizona"
+29579,"pine, minnesota"
+974996,"pinellas, florida"
+9126,"pipestone, minnesota"
+16785,"piscataquis, maine"
+17767,"pitkin, colorado"
+180742,"pitt, north carolina"
+43654,"pittsburg, oklahoma"
+60354,"pittsylvania, virginia"
+1479,"piute, utah"
+398329,"placer, california"
+23197,"plaquemines, louisiana"
+104418,"platte, missouri"
+33470,"platte, nebraska"
+8393,"platte, wyoming"
+7460,"pleasants, west virginia"
+18807,"plumas, california"
+25177,"plymouth, iowa"
+521202,"plymouth, massachusetts"
+6619,"pocahontas, iowa"
+8247,"pocahontas, west virginia"
+23528,"poinsett, arkansas"
+21730,"pointe coupee, louisiana"
+19964,"polk, arkansas"
+724777,"polk, florida"
+42613,"polk, georgia"
+490161,"polk, iowa"
+31364,"polk, minnesota"
+32149,"polk, missouri"
+5213,"polk, nebraska"
+20724,"polk, north carolina"
+86085,"polk, oregon"
+16832,"polk, tennessee"
+51353,"polk, texas"
+43783,"polk, wisconsin"
+5911,"pondera, montana"
+32174,"pontotoc, mississippi"
+38284,"pontotoc, oklahoma"
+64072,"pope, arkansas"
+4177,"pope, illinois"
+11249,"pope, minnesota"
+12271,"poquoson, virginia"
+162466,"portage, ohio"
+70772,"portage, wisconsin"
+170389,"porter, indiana"
+94398,"portsmouth, virginia"
+25427,"posey, indiana"
+24383,"pottawatomie, kansas"
+72592,"pottawatomie, oklahoma"
+93206,"pottawattamie, iowa"
+16526,"potter, pennsylvania"
+2153,"potter, south dakota"
+117415,"potter, texas"
+1682,"powder river, montana"
+12359,"powell, kentucky"
+6890,"powell, montana"
+7681,"power, idaho"
+18504,"poweshiek, iowa"
+29652,"powhatan, virginia"
+8062,"prairie, arkansas"
+1077,"prairie, montana"
+9164,"pratt, kansas"
+40882,"preble, ohio"
+25126,"prentiss, mississippi"
+6704,"presidio, texas"
+12592,"presque isle, michigan"
+33432,"preston, west virginia"
+13351,"price, wisconsin"
+22802,"prince edward, virginia"
+909327,"prince george's, maryland"
+38353,"prince george, virginia"
+470335,"prince william, virginia"
+638931,"providence, rhode island"
+12172,"prowers, colorado"
+168424,"pueblo, colorado"
+391911,"pulaski, arkansas"
+11137,"pulaski, georgia"
+5335,"pulaski, illinois"
+12353,"pulaski, indiana"
+64979,"pulaski, kentucky"
+52607,"pulaski, missouri"
+34027,"pulaski, virginia"
+11096,"pushmataha, oklahoma"
+74521,"putnam, florida"
+22119,"putnam, georgia"
+5739,"putnam, illinois"
+37576,"putnam, indiana"
+4696,"putnam, missouri"
+98320,"putnam, new york"
+33861,"putnam, ohio"
+80245,"putnam, tennessee"
+56450,"putnam, west virginia"
+8253,"quay, new mexico"
+50381,"queen anne's, maryland"
+2253858,"queens, new york"
+2299,"quitman, georgia"
+6792,"quitman, mississippi"
+17137,"rabun, georgia"
+196311,"racine, wisconsin"
+18249,"radford, virginia"
+12514,"rains, texas"
+73361,"raleigh, west virginia"
+10309,"ralls, missouri"
+550321,"ramsey, minnesota"
+11519,"ramsey, north dakota"
+137713,"randall, texas"
+22722,"randolph, alabama"
+17958,"randolph, arkansas"
+6778,"randolph, georgia"
+31782,"randolph, illinois"
+24665,"randolph, indiana"
+24748,"randolph, missouri"
+143667,"randolph, north carolina"
+28695,"randolph, west virginia"
+155271,"rankin, mississippi"
+5218,"ransom, north dakota"
+129648,"rapides, louisiana"
+7370,"rappahannock, virginia"
+43806,"ravalli, montana"
+2530,"rawlins, kansas"
+23018,"ray, missouri"
+3849,"reagan, texas"
+3452,"real, texas"
+4055,"red lake, minnesota"
+8442,"red river, louisiana"
+12023,"red river, texas"
+10724,"red willow, nebraska"
+15170,"redwood, minnesota"
+15976,"reeves, texas"
+6948,"refugio, texas"
+61998,"reno, kansas"
+158714,"rensselaer, new york"
+14548,"renville, minnesota"
+2327,"renville, north dakota"
+4636,"republic, kansas"
+6270,"reynolds, missouri"
+33167,"rhea, tennessee"
+9537,"rice, kansas"
+66972,"rice, minnesota"
+2483,"rich, utah"
+7865,"richardson, nebraska"
+15513,"richland, illinois"
+20122,"richland, louisiana"
+10803,"richland, montana"
+16177,"richland, north dakota"
+121154,"richland, ohio"
+415759,"richland, south carolina"
+17252,"richland, wisconsin"
+202518,"richmond, georgia"
+476143,"richmond, new york"
+44829,"richmond, north carolina"
+9023,"richmond, virginia"
+230436,"richmond, virginia"
+74232,"riley, kansas"
+4894,"ringgold, iowa"
+38921,"rio arriba, new mexico"
+6324,"rio blanco, colorado"
+11267,"rio grande, colorado"
+28324,"ripley, indiana"
+13288,"ripley, missouri"
+9554,"ritchie, west virginia"
+2470546,"riverside, california"
+53382,"roane, tennessee"
+13688,"roane, west virginia"
+94186,"roanoke, virginia"
+99143,"roanoke, virginia"
+10394,"roberts, south dakota"
+854,"roberts, texas"
+2108,"robertson, kentucky"
+71813,"robertson, tennessee"
+17074,"robertson, texas"
+130625,"robeson, north carolina"
+141879,"rock island, illinois"
+9315,"rock, minnesota"
+1357,"rock, nebraska"
+163354,"rock, wisconsin"
+22573,"rockbridge, virginia"
+16695,"rockcastle, kentucky"
+90896,"rockdale, georgia"
+309769,"rockingham, new hampshire"
+91010,"rockingham, north carolina"
+81948,"rockingham, virginia"
+325789,"rockland, new york"
+104915,"rockwall, texas"
+3583,"roger mills, oklahoma"
+92459,"rogers, oklahoma"
+14176,"rolette, north dakota"
+4920,"rooks, kansas"
+11004,"roosevelt, montana"
+18500,"roosevelt, new mexico"
+24019,"roscommon, michigan"
+15165,"roseau, minnesota"
+8937,"rosebud, montana"
+76666,"ross, ohio"
+25638,"routt, colorado"
+24460,"rowan, kentucky"
+142088,"rowan, north carolina"
+10264,"runnels, texas"
+16581,"rush, indiana"
+3036,"rush, kansas"
+54406,"rusk, texas"
+14178,"rusk, wisconsin"
+57961,"russell, alabama"
+6856,"russell, kansas"
+17923,"russell, kentucky"
+26586,"russell, virginia"
+67029,"rutherford, north carolina"
+332285,"rutherford, tennessee"
+58191,"rutland, vermont"
+23884,"sabine, louisiana"
+10542,"sabine, texas"
+9721,"sac, iowa"
+1552058,"sacramento, california"
+35856,"sagadahoc, maine"
+190539,"saginaw, michigan"
+6824,"saguache, colorado"
+62385,"salem, new jersey"
+25301,"salem, virginia"
+122437,"saline, arkansas"
+23491,"saline, illinois"
+54224,"saline, kansas"
+22761,"saline, missouri"
+14224,"saline, nebraska"
+1160437,"salt lake, utah"
+20473,"saluda, south carolina"
+63531,"sampson, north carolina"
+8237,"san augustine, texas"
+62808,"san benito, california"
+2180085,"san bernardino, california"
+3338330,"san diego, california"
+881549,"san francisco, california"
+28859,"san jacinto, texas"
+762148,"san joaquin, california"
+728,"san juan, colorado"
+123958,"san juan, new mexico"
+15308,"san juan, utah"
+17582,"san juan, washington"
+283111,"san luis obispo, california"
+766573,"san mateo, california"
+8179,"san miguel, colorado"
+27277,"san miguel, new mexico"
+66730,"san patricio, texas"
+6055,"san saba, texas"
+2344,"sanborn, south dakota"
+12113,"sanders, montana"
+146748,"sandoval, new mexico"
+58518,"sandusky, ohio"
+194672,"sangamon, illinois"
+41170,"sanilac, michigan"
+30939,"sanpete, utah"
+446499,"santa barbara, california"
+1927852,"santa clara, california"
+46498,"santa cruz, arizona"
+273213,"santa cruz, california"
+150358,"santa fe, new mexico"
+184313,"santa rosa, florida"
+433742,"sarasota, florida"
+229863,"saratoga, new york"
+3898,"sargent, north dakota"
+187196,"sarpy, nebraska"
+64442,"sauk, wisconsin"
+21578,"saunders, nebraska"
+16558,"sawyer, wisconsin"
+155299,"schenectady, new york"
+2793,"schleicher, texas"
+5257,"schley, georgia"
+30999,"schoharie, new york"
+8094,"schoolcraft, michigan"
+6768,"schuyler, illinois"
+4660,"schuyler, missouri"
+17807,"schuyler, new york"
+141359,"schuylkill, pennsylvania"
+75314,"scioto, ohio"
+4902,"scotland, missouri"
+34823,"scotland, north carolina"
+10281,"scott, arkansas"
+4951,"scott, illinois"
+23873,"scott, indiana"
+172943,"scott, iowa"
+4823,"scott, kansas"
+57004,"scott, kentucky"
+149013,"scott, minnesota"
+28124,"scott, mississippi"
+38280,"scott, missouri"
+22068,"scott, tennessee"
+21566,"scott, virginia"
+35618,"scotts bluff, nebraska"
+13966,"screven, georgia"
+16703,"scurry, texas"
+7881,"searcy, arkansas"
+127827,"sebastian, arkansas"
+2248,"sedgwick, colorado"
+516042,"sedgwick, kansas"
+471826,"seminole, florida"
+8090,"seminole, georgia"
+24258,"seminole, oklahoma"
+34016,"seneca, new york"
+55178,"seneca, ohio"
+15026,"sequatchie, tennessee"
+41569,"sequoyah, oklahoma"
+17007,"sevier, arkansas"
+98250,"sevier, tennessee"
+21620,"sevier, utah"
+21428,"seward, kansas"
+17284,"seward, nebraska"
+3265,"shackelford, texas"
+8166,"shannon, missouri"
+4321,"sharkey, mississippi"
+17442,"sharp, arkansas"
+180080,"shasta, california"
+40899,"shawano, wisconsin"
+176875,"shawnee, kansas"
+115340,"sheboygan, wisconsin"
+217702,"shelby, alabama"
+21634,"shelby, illinois"
+44729,"shelby, indiana"
+11454,"shelby, iowa"
+49024,"shelby, kentucky"
+5930,"shelby, missouri"
+48590,"shelby, ohio"
+937166,"shelby, tennessee"
+25274,"shelby, texas"
+43616,"shenandoah, virginia"
+97238,"sherburne, minnesota"
+2521,"sheridan, kansas"
+3309,"sheridan, montana"
+5246,"sheridan, nebraska"
+1315,"sheridan, north dakota"
+30485,"sheridan, wyoming"
+5917,"sherman, kansas"
+3001,"sherman, nebraska"
+1780,"sherman, oregon"
+3022,"sherman, texas"
+68122,"shiawassee, michigan"
+12882,"shoshone, idaho"
+14865,"sibley, minnesota"
+3005,"sierra, california"
+10791,"sierra, new mexico"
+34915,"silver bow, montana"
+18572,"simpson, kentucky"
+26658,"simpson, mississippi"
+34855,"sioux, iowa"
+1166,"sioux, nebraska"
+4230,"sioux, north dakota"
+43539,"siskiyou, california"
+8493,"sitka, alaska"
+129205,"skagit, washington"
+12083,"skamania, washington"
+750,"slope, north dakota"
+3583,"smith, kansas"
+15916,"smith, mississippi"
+20157,"smith, tennessee"
+232751,"smith, texas"
+30104,"smyth, virginia"
+822083,"snohomish, washington"
+40372,"snyder, pennsylvania"
+16637,"socorro, new mexico"
+447643,"solano, california"
+50484,"somerset, maine"
+25616,"somerset, maryland"
+328934,"somerset, new jersey"
+73447,"somerset, pennsylvania"
+9128,"somervell, texas"
+494336,"sonoma, california"
+17631,"southampton, virginia"
+66703,"spalding, georgia"
+319785,"spartanburg, south carolina"
+20277,"spencer, indiana"
+19351,"spencer, kentucky"
+6376,"spink, south dakota"
+522798,"spokane, washington"
+136215,"spotsylvania, virginia"
+47244,"st. bernard, louisiana"
+53100,"st. charles, louisiana"
+402022,"st. charles, missouri"
+89512,"st. clair, alabama"
+259686,"st. clair, illinois"
+159128,"st. clair, michigan"
+9397,"st. clair, missouri"
+90687,"st. croix, wisconsin"
+24994,"st. francis, arkansas"
+67215,"st. francois, missouri"
+10132,"st. helena, louisiana"
+21096,"st. james, louisiana"
+42837,"st. john the baptist, louisiana"
+264672,"st. johns, florida"
+271826,"st. joseph, indiana"
+60964,"st. joseph, michigan"
+82124,"st. landry, louisiana"
+107740,"st. lawrence, new york"
+199070,"st. louis, minnesota"
+994205,"st. louis, missouri"
+300576,"st. louis, missouri"
+328297,"st. lucie, florida"
+53431,"st. martin, louisiana"
+113510,"st. mary's, maryland"
+49348,"st. mary, louisiana"
+260419,"st. tammany, louisiana"
+4156,"stafford, kansas"
+152882,"stafford, virginia"
+550660,"stanislaus, california"
+3098,"stanley, south dakota"
+62806,"stanly, north carolina"
+2006,"stanton, kansas"
+5920,"stanton, nebraska"
+5342,"stark, illinois"
+31489,"stark, north dakota"
+370606,"stark, ohio"
+22995,"starke, indiana"
+64633,"starr, texas"
+24932,"staunton, virginia"
+17894,"ste. genevieve, missouri"
+161075,"stearns, minnesota"
+36649,"steele, minnesota"
+1890,"steele, north dakota"
+25925,"stephens, georgia"
+43143,"stephens, oklahoma"
+9366,"stephens, texas"
+44498,"stephenson, illinois"
+1291,"sterling, texas"
+34594,"steuben, indiana"
+95379,"steuben, new york"
+5485,"stevens, kansas"
+9805,"stevens, minnesota"
+45723,"stevens, washington"
+6621,"stewart, georgia"
+13715,"stewart, tennessee"
+9642,"stillwater, montana"
+29025,"stoddard, missouri"
+45591,"stokes, north carolina"
+12506,"stone, arkansas"
+18336,"stone, mississippi"
+31952,"stone, missouri"
+1350,"stonewall, texas"
+4123,"storey, nevada"
+97117,"story, iowa"
+130633,"strafford, new hampshire"
+20704,"stutsman, north dakota"
+9831,"sublette, wyoming"
+803907,"suffolk, massachusetts"
+1476601,"suffolk, new york"
+92108,"suffolk, virginia"
+20669,"sullivan, indiana"
+6089,"sullivan, missouri"
+43146,"sullivan, new hampshire"
+75432,"sullivan, new york"
+6066,"sullivan, pennsylvania"
+158348,"sullivan, tennessee"
+1391,"sully, south dakota"
+12573,"summers, west virginia"
+31011,"summit, colorado"
+541013,"summit, ohio"
+42145,"summit, utah"
+22836,"sumner, kansas"
+191283,"sumner, tennessee"
+12427,"sumter, alabama"
+132420,"sumter, florida"
+29524,"sumter, georgia"
+106721,"sumter, south carolina"
+25110,"sunflower, mississippi"
+71783,"surry, north carolina"
+6422,"surry, virginia"
+40328,"susquehanna, pennsylvania"
+234225,"sussex, delaware"
+140488,"sussex, new jersey"
+11159,"sussex, virginia"
+96971,"sutter, california"
+3776,"sutton, texas"
+44417,"suwannee, florida"
+14271,"swain, north carolina"
+3737,"sweet grass, montana"
+42343,"sweetwater, wyoming"
+9266,"swift, minnesota"
+7397,"swisher, texas"
+10751,"switzerland, indiana"
+6195,"talbot, georgia"
+37181,"talbot, maryland"
+1537,"taliaferro, georgia"
+79978,"talladega, alabama"
+13809,"tallahatchie, mississippi"
+40367,"tallapoosa, alabama"
+16854,"tama, iowa"
+55928,"taney, missouri"
+134758,"tangipahoa, louisiana"
+32723,"taos, new mexico"
+2102515,"tarrant, texas"
+28321,"tate, mississippi"
+25286,"tattnall, georgia"
+21569,"taylor, florida"
+8020,"taylor, georgia"
+6121,"taylor, iowa"
+25769,"taylor, kentucky"
+138034,"taylor, texas"
+16695,"taylor, west virginia"
+20343,"taylor, wisconsin"
+131803,"tazewell, illinois"
+40595,"tazewell, virginia"
+65084,"tehama, california"
+15860,"telfair, georgia"
+25388,"teller, colorado"
+4334,"tensas, louisiana"
+110461,"terrebonne, louisiana"
+8531,"terrell, georgia"
+776,"terrell, texas"
+12337,"terry, texas"
+12142,"teton, idaho"
+6147,"teton, montana"
+23464,"teton, wyoming"
+25398,"texas, missouri"
+19983,"texas, oklahoma"
+5003,"thayer, nebraska"
+44451,"thomas, georgia"
+7777,"thomas, kansas"
+722,"thomas, nebraska"
+1501,"throckmorton, texas"
+7224,"thurston, nebraska"
+290536,"thurston, washington"
+40644,"tift, georgia"
+27036,"tillamook, oregon"
+7250,"tillman, oklahoma"
+48203,"tioga, new york"
+40591,"tioga, pennsylvania"
+22015,"tippah, mississippi"
+195732,"tippecanoe, indiana"
+15148,"tipton, indiana"
+61599,"tipton, tennessee"
+19383,"tishomingo, mississippi"
+32750,"titus, texas"
+12294,"todd, kentucky"
+24664,"todd, minnesota"
+10177,"todd, south dakota"
+150721,"tolland, connecticut"
+119200,"tom green, texas"
+102180,"tompkins, new york"
+72259,"tooele, utah"
+4736,"toole, montana"
+26830,"toombs, georgia"
+15461,"torrance, new mexico"
+2189,"towner, north dakota"
+12037,"towns, georgia"
+8036,"traill, north dakota"
+34385,"transylvania, north carolina"
+3259,"traverse, minnesota"
+1273954,"travis, texas"
+696,"treasure, montana"
+2803,"trego, kansas"
+29649,"trempealeau, wisconsin"
+6901,"treutlen, georgia"
+14651,"trigg, kentucky"
+8471,"trimble, kentucky"
+12285,"trinity, california"
+14651,"trinity, texas"
+5441,"tripp, south dakota"
+69922,"troup, georgia"
+11284,"trousdale, tennessee"
+197974,"trumbull, ohio"
+6839,"tucker, west virginia"
+466195,"tulare, california"
+651552,"tulsa, oklahoma"
+9632,"tunica, mississippi"
+54478,"tuolumne, california"
+7985,"turner, georgia"
+8384,"turner, south dakota"
+209355,"tuscaloosa, alabama"
+91987,"tuscarawas, ohio"
+52245,"tuscola, michigan"
+8120,"twiggs, georgia"
+86878,"twin falls, idaho"
+21672,"tyler, texas"
+8591,"tyler, west virginia"
+4016,"tyrrell, north carolina"
+20226,"uinta, wyoming"
+35734,"uintah, utah"
+177573,"ulster, new york"
+77950,"umatilla, oregon"
+17883,"unicoi, tennessee"
+38682,"union, arkansas"
+15237,"union, florida"
+24511,"union, georgia"
+16653,"union, illinois"
+7054,"union, indiana"
+12241,"union, iowa"
+14381,"union, kentucky"
+22108,"union, louisiana"
+28815,"union, mississippi"
+556341,"union, new jersey"
+4059,"union, new mexico"
+239859,"union, north carolina"
+58988,"union, ohio"
+26835,"union, oregon"
+44923,"union, pennsylvania"
+27316,"union, south carolina"
+15932,"union, south dakota"
+19972,"union, tennessee"
+41753,"upshur, texas"
+24176,"upshur, west virginia"
+26320,"upson, georgia"
+3657,"upton, texas"
+636235,"utah, utah"
+26741,"uvalde, texas"
+49025,"val verde, texas"
+76688,"valencia, new mexico"
+11392,"valley, idaho"
+7396,"valley, montana"
+4158,"valley, nebraska"
+16545,"van buren, arkansas"
+7044,"van buren, iowa"
+75677,"van buren, michigan"
+5872,"van buren, tennessee"
+28275,"van wert, ohio"
+56590,"van zandt, texas"
+44535,"vance, north carolina"
+181451,"vanderburgh, indiana"
+50668,"venango, pennsylvania"
+846006,"ventura, california"
+75758,"vermilion, illinois"
+59511,"vermilion, louisiana"
+15498,"vermillion, indiana"
+47429,"vernon, louisiana"
+20563,"vernon, missouri"
+30822,"vernon, wisconsin"
+92084,"victoria, texas"
+107038,"vigo, indiana"
+22195,"vilas, wisconsin"
+13085,"vinton, ohio"
+449974,"virginia beach, virginia"
+553284,"volusia, florida"
+11520,"wabash, illinois"
+30996,"wabash, indiana"
+21627,"wabasha, minnesota"
+6931,"wabaunsee, kansas"
+13682,"wadena, minnesota"
+81289,"wagoner, oklahoma"
+4488,"wahkiakum, washington"
+1111761,"wake, north carolina"
+33739,"wakulla, florida"
+39715,"waldo, maine"
+63521,"walker, alabama"
+69761,"walker, georgia"
+72971,"walker, texas"
+60760,"walla walla, washington"
+1518,"wallace, kansas"
+55246,"waller, texas"
+7208,"wallowa, oregon"
+10641,"walsh, north dakota"
+14286,"walthall, mississippi"
+74071,"walton, florida"
+94593,"walton, georgia"
+5435,"walworth, south dakota"
+103868,"walworth, wisconsin"
+34969,"wapello, iowa"
+67641,"ward, north dakota"
+11998,"ward, texas"
+35734,"ware, georgia"
+5254,"warren, georgia"
+16844,"warren, illinois"
+8265,"warren, indiana"
+51466,"warren, iowa"
+132896,"warren, kentucky"
+45381,"warren, mississippi"
+35649,"warren, missouri"
+105267,"warren, new jersey"
+63944,"warren, new york"
+19731,"warren, north carolina"
+234602,"warren, ohio"
+39191,"warren, pennsylvania"
+41277,"warren, tennessee"
+40164,"warren, virginia"
+62998,"warrick, indiana"
+34091,"wasatch, utah"
+26682,"wasco, oregon"
+18612,"waseca, minnesota"
+7805,"washakie, wyoming"
+15720,"washburn, wisconsin"
+16326,"washington, alabama"
+239187,"washington, arkansas"
+4908,"washington, colorado"
+25473,"washington, florida"
+20374,"washington, georgia"
+10194,"washington, idaho"
+13887,"washington, illinois"
+28036,"washington, indiana"
+21965,"washington, iowa"
+5406,"washington, kansas"
+12095,"washington, kentucky"
+46194,"washington, louisiana"
+31379,"washington, maine"
+151049,"washington, maryland"
+262440,"washington, minnesota"
+43909,"washington, mississippi"
+24730,"washington, missouri"
+20729,"washington, nebraska"
+61204,"washington, new york"
+11580,"washington, north carolina"
+59911,"washington, ohio"
+51527,"washington, oklahoma"
+601592,"washington, oregon"
+206865,"washington, pennsylvania"
+125577,"washington, rhode island"
+129375,"washington, tennessee"
+35882,"washington, texas"
+177556,"washington, utah"
+58409,"washington, vermont"
+53740,"washington, virginia"
+136034,"washington, wisconsin"
+10916,"washita, oklahoma"
+471519,"washoe, nevada"
+367601,"washtenaw, michigan"
+56177,"watauga, north carolina"
+10897,"watonwan, minnesota"
+404198,"waukesha, wisconsin"
+50990,"waupaca, wisconsin"
+24443,"waushara, wisconsin"
+29927,"wayne, georgia"
+16215,"wayne, illinois"
+65884,"wayne, indiana"
+6441,"wayne, iowa"
+20333,"wayne, kentucky"
+1749343,"wayne, michigan"
+20183,"wayne, mississippi"
+12873,"wayne, missouri"
+9385,"wayne, nebraska"
+89918,"wayne, new york"
+123131,"wayne, north carolina"
+115710,"wayne, ohio"
+51361,"wayne, pennsylvania"
+16673,"wayne, tennessee"
+2711,"wayne, utah"
+39402,"wayne, west virginia"
+22630,"waynesboro, virginia"
+33328,"weakley, tennessee"
+276652,"webb, texas"
+260213,"weber, utah"
+2607,"webster, georgia"
+35904,"webster, iowa"
+12942,"webster, kentucky"
+38340,"webster, louisiana"
+9689,"webster, mississippi"
+39592,"webster, missouri"
+3487,"webster, nebraska"
+8114,"webster, west virginia"
+324492,"weld, colorado"
+28296,"wells, indiana"
+3834,"wells, north dakota"
+26465,"west baton rouge, louisiana"
+10830,"west carroll, louisiana"
+15568,"west feliciana, louisiana"
+967506,"westchester, new york"
+348899,"westmoreland, pennsylvania"
+18015,"westmoreland, virginia"
+6927,"weston, wyoming"
+15065,"wetzel, west virginia"
+33631,"wexford, michigan"
+41556,"wharton, texas"
+229247,"whatcom, washington"
+2126,"wheatland, montana"
+7855,"wheeler, georgia"
+783,"wheeler, nebraska"
+1332,"wheeler, oregon"
+5056,"wheeler, texas"
+9580,"white pine, nevada"
+78753,"white, arkansas"
+30798,"white, georgia"
+13537,"white, illinois"
+24102,"white, indiana"
+27345,"white, tennessee"
+55175,"whiteside, illinois"
+104628,"whitfield, georgia"
+33964,"whitley, indiana"
+36264,"whitley, kentucky"
+50104,"whitman, washington"
+969,"wibaux, montana"
+2119,"wichita, kansas"
+132230,"wichita, texas"
+103609,"wicomico, maryland"
+12769,"wilbarger, texas"
+10373,"wilcox, alabama"
+8635,"wilcox, georgia"
+9777,"wilkes, georgia"
+68412,"wilkes, north carolina"
+6207,"wilkin, minnesota"
+8954,"wilkinson, georgia"
+8630,"wilkinson, mississippi"
+690743,"will, illinois"
+21358,"willacy, texas"
+37589,"williams, north dakota"
+36692,"williams, ohio"
+30368,"williamsburg, south carolina"
+14954,"williamsburg, virginia"
+66597,"williamson, illinois"
+238412,"williamson, tennessee"
+590551,"williamson, texas"
+8525,"wilson, kansas"
+81801,"wilson, north carolina"
+144657,"wilson, tennessee"
+51070,"wilson, texas"
+28078,"winchester, virginia"
+116782,"windham, connecticut"
+42222,"windham, vermont"
+55062,"windsor, vermont"
+8010,"winkler, texas"
+13904,"winn, louisiana"
+282572,"winnebago, illinois"
+10354,"winnebago, iowa"
+171907,"winnebago, wisconsin"
+19991,"winneshiek, iowa"
+50484,"winona, minnesota"
+23629,"winston, alabama"
+17955,"winston, mississippi"
+5821,"wirt, west virginia"
+69984,"wise, texas"
+37383,"wise, virginia"
+7157,"wolfe, kentucky"
+130817,"wood, ohio"
+45539,"wood, texas"
+83518,"wood, west virginia"
+72999,"wood, wisconsin"
+103107,"woodbury, iowa"
+38459,"woodford, illinois"
+26734,"woodford, kentucky"
+6320,"woodruff, arkansas"
+8793,"woods, oklahoma"
+3138,"woodson, kansas"
+20211,"woodward, oklahoma"
+52276,"worcester, maryland"
+830622,"worcester, massachusetts"
+20247,"worth, georgia"
+7381,"worth, iowa"
+2013,"worth, missouri"
+2502,"wrangell, alaska"
+12562,"wright, iowa"
+138377,"wright, minnesota"
+18289,"wright, missouri"
+21772,"wyandot, ohio"
+165429,"wyandotte, kansas"
+39859,"wyoming, new york"
+26794,"wyoming, pennsylvania"
+20394,"wyoming, west virginia"
+28684,"wythe, virginia"
+37667,"yadkin, north carolina"
+250873,"yakima, washington"
+579,"yakutat, alaska"
+12108,"yalobusha, mississippi"
+107100,"yamhill, oregon"
+18069,"yancey, north carolina"
+22814,"yankton, south dakota"
+24913,"yates, new york"
+235099,"yavapai, arizona"
+29690,"yazoo, mississippi"
+21341,"yell, arkansas"
+9709,"yellow medicine, minnesota"
+161300,"yellowstone, montana"
+8713,"yoakum, texas"
+220500,"yolo, california"
+207641,"york, maine"
+13679,"york, nebraska"
+449058,"york, pennsylvania"
+280979,"york, south carolina"
+68280,"york, virginia"
+18010,"young, texas"
+78668,"yuba, california"
+213787,"yuma, arizona"
+10019,"yuma, colorado"
+14179,"zapata, texas"
+11840,"zavala, texas"
+2756,"ziebach, south dakota"
