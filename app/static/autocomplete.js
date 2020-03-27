@@ -11,7 +11,7 @@ function autocomplete(name) {
 
     inp.addEventListener("input", function(e) {
         let a, b, i, val = this.value;
-        if (!val) { return false; }
+        if (!val) { closeAllLists(); return false; }
         currentFocus = -1;
 
         let query;
@@ -36,7 +36,7 @@ function autocomplete(name) {
 
                 let valid = false;
                 for (i = 0; i < arr.length; i++) {
-                    arr[i] = arr[i].replace(/^\w/, c => c.toUpperCase());
+                    arr[i] = arr[i].split(" ").map(w => w.replace(/^\w/, c => c.toUpperCase())).join(" ");
                     if (arr[i].toUpperCase() == val.toUpperCase()) {
                         valid = true;
                     }
