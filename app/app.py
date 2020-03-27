@@ -18,7 +18,7 @@ states = counties_states.select_unique("state").to_list()
 # responses
 @app.route('/')
 def main():
-    return render_template('index.html')
+    return render_template('index.html', title="COVID in my County")
 
 @app.route('/result', methods=["POST"])
 def result():
