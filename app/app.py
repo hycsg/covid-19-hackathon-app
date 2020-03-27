@@ -7,9 +7,7 @@ title = "COVID in my County"
 
 # loading data
 county_population = open_csv("app/static/population.csv")
-county_population.add_field("full", lambda row: f"{row['county']}, {row['state']}")
-county_population = county_population.select(["full", "population"])
-county_population.index("full", Comparisons.strings)
+county_population.already_indexed("full", Comparisons.strings)
 
 yesterday = (date.today() - timedelta(days=1)).strftime('%m-%d-%Y')
 data = get_csv(f"https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{yesterday}.csv")
