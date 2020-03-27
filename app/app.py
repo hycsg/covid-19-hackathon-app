@@ -4,9 +4,10 @@ from datetime import date, timedelta
 
 app = Flask(__name__)
 title = "COVID in my County"
+static_dir = "static/"
 
 # loading data
-county_population = open_csv("app/static/population.csv")
+county_population = open_csv(f"{static_dir}population.csv")
 county_population.already_indexed("full", Comparisons.strings)
 
 yesterday = (date.today() - timedelta(days=1)).strftime('%m-%d-%Y')
