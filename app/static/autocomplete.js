@@ -1,4 +1,6 @@
-const inputs = {}
+const inputs = {
+    "submit": document.getElementById("submit")
+};
 let count = 0;
 
 function autocomplete(name) {
@@ -86,17 +88,21 @@ function autocomplete(name) {
     function validate(valid) {
         if (valid) {
             inp.classList.add("is-valid");
-            if (inp == inputs["state"]) {
-                inputs["county"].value = ""
-                inputs["county"].classList.remove("is-valid");
-                inputs["county"].classList.remove("d-none");
-                inputs["county"].focus();
+            if (inp == inputs.state) {
+                inputs.county.value = ""
+                inputs.county.classList.remove("is-valid");
+                inputs.county.classList.remove("d-none");
+                inputs.county.focus();
+            } else if (inp == inputs.county) {
+                inputs.submit.disabled = false;
             }
             closeAllLists();
         } else {
             inp.classList.remove("is-valid");
-            if (inp == inputs["state"]) {
-                inputs["county"].classList.add("d-none");
+            if (inp == inputs.state) {
+                inputs.county.classList.add("d-none");
+            } else if (inp == inputs.county) {
+                inputs.submit.disabled = true;
             }
         }
     }

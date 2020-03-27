@@ -16,9 +16,9 @@
             <input id="state_input" type="text" placeholder="Enter US State" name="state" class="form-control" required="required">
         </div>
         <div class="autocomplete">
-            <input id="county_input" type="text" placeholder="Enter County" name="county" class="form-control d-none" required="required">
+            <input id="county_input" type="text" placeholder="Enter County or City" name="county" class="form-control d-none" required="required">
         </div>
-        <input type="submit" value="Get Advice" class="btn btn-primary btn-lg">
+        <input id="submit" type="submit" disabled value="Get Advice" class="btn btn-primary btn-lg">
     </form>
     <script type="text/javascript" src="{{ url_for('static', filename='autocomplete.js') }} "></script>
 </body>
