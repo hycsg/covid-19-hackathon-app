@@ -16,6 +16,7 @@ case "$opt" in
     # Update all Pipfile requirements
     pipenv lock\
       && pipenv install --dev \
+      && export FLASK_APP=app.py \
       && pipenv run flask run
   ;;
 
