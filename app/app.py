@@ -59,14 +59,11 @@ def get_county():
     
     selected_state = counties_states.query({"state":state}).index("county", Comparisons.strings)
     counties = selected_state.select_unique("county").to_list()
+    
     results = []
     for county in counties:
         if partial_county == county[0:len(partial_county)]:
-            some_results = selected_state.query({"county":county}).select("full").to_list()
-            for r in some_results:
-                results.append(r)
-                if len(results) == 3:
-                    break
-        if len(results) == 3:
-            break
+            results.append(county)
+            if len(results) == 5:
+                break
     return ";".join(results)
