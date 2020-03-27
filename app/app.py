@@ -5,11 +5,18 @@ from datetime import date, timedelta
 app = Flask(__name__)
 
 # loading data
+county_population = open_csv("app/static/population.csv")
+county_population.add_field("full", lambda row: f"{row['county']}, {row['state']}")
+county_population = county_population.select(["full", "population"])
+county_population.index("full", Comparisons.strings)
+
 yesterday = (date.today() - timedelta(days=1)).strftime('%m-%d-%Y')
 data = get_csv(f"https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{yesterday}.csv")
 data = data.select_as({"Admin2":"county", "Province_State":"state", "Confirmed":"confirmed", "Deaths":"deaths", "Recovered":"recovered", "Last_Update":"last update"})
 data.already_indexed("county", Comparisons.strings)
 data.replace(data.fields, lambda s: s.lower())
+data.add_field("full", lambda row: f"{row['county']}, {row['state']}")
+data.index("full", Comparisons.strings)
 
 counties_states = data.select(["county", "state"]).query({"state":{"neq":""},"county":{"neq":""}})
 counties_states.add_field("full", lambda row: f"{row['county']}, {row['state']}")
@@ -23,8 +30,13 @@ def main():
 @app.route('/result', methods=["POST"])
 def result():
     input_data = {"state": request.form.get("state").lower(), "county": request.form.get("county").lower()}
-    query_result = data.query_one(input_data)
-    return render_template("result.html", result=query_result.to_dictionary())
+    info_dict = data.query_one(input_data).to_dictionary()
+    
+    if info_dict != {}:
+        population = int(county_population.query_one({"full":info_dict["full"]}).to_dictionary()["population"])
+        # population data
+
+    return render_template("result.html", result=info_dict)
 
 @app.route('/get_state')
 def get_state():
@@ -44,7 +56,7 @@ def get_county():
     if partial_county == "":
         return ""
     
-    selected_state = counties_states.query({"state":state})
+    selected_state = counties_states.query({"state":state}).index("county", Comparisons.strings)
     counties = selected_state.select_unique("county").to_list()
     results = []
     for county in counties:
