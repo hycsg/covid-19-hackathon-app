@@ -3,6 +3,7 @@ from csvquery import get_csv, open_csv, Comparisons
 from datetime import date, timedelta
 
 app = Flask(__name__)
+title = "COVID in my County"
 
 # loading data
 county_population = open_csv("app/static/population.csv")
@@ -25,7 +26,7 @@ states = counties_states.select_unique("state").to_list()
 # responses
 @app.route('/')
 def main():
-    return render_template('index.html', title="COVID in my County")
+    return render_template('index.html', title=title)
 
 @app.route('/result', methods=["POST"])
 def result():
@@ -36,7 +37,7 @@ def result():
         population = int(county_population.query_one({"full":info_dict["full"]}).to_dictionary()["population"])
         # population data
 
-    return render_template("result.html", result=info_dict)
+    return render_template("result.html", result=info_dict, title=title)
 
 @app.route('/get_state')
 def get_state():
