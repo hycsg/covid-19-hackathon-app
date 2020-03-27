@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }} ">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min-2.css') }} ">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }} ">
     <title>{{title}}</title>
 </head>
@@ -12,13 +12,13 @@
 <body>
     <h1>{{title}}</h1>
     <form action="/result" method="post">
-        <input id="state_input" type="text" placeholder="Enter US State" name="state">
-        <input id="county_input" type="text" placeholder="Enter County" name="county">
+	    <input id="state_input" type="text" placeholder="Enter US State" name="state" class="form-control" required="required">
+	    <input id="county_input" type="text" placeholder="Enter County" name="county" class="form-control" required="required">
         <p>
             <span id="state_suggest"></span>
             <span id="county_suggest"></span>
         </p>
-        <input type="submit" value="Get Advice">
+        <input type="submit" value="Get Advice" class="btn btn-primary">
     </form>
     <script type="text/javascript" src="{{ url_for('static', filename='autocomplete.js') }} "></script>
 </body>
