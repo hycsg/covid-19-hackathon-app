@@ -1,8 +1,10 @@
 #!/usr/bin/zsh
 
+PROJECT_DIR=${0:a:h}
+
 opt=$1
 branch=$2
-cd app
+cd $PROJECT_DIR/app
 
 case "$opt" in
 
@@ -30,5 +32,3 @@ case "$opt" in
     echo "To update literally everything --> $0 update";;
 
 esac
-
-cd ..
