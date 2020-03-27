@@ -14,7 +14,7 @@ case "$opt" in
     [[ $branch == "master" ]]  \
       && git checkout master;
     # Update all Pipfile requirements
-    pipenv lock --clear \
+    pipenv lock\
       && pipenv install --dev \
       && pipenv run flask run
   ;;
