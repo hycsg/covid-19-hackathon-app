@@ -10,16 +10,17 @@
 </head>
 
 <body>
-{% if result %}
-  	<h1>Results:</h1>
-  	<br>
-  	<ol style="font-size: 25%;">
-  	{% for key, value in result.items() %}
-	<li>{{ key }}: {{ value}}</li>		
-  	{% endfor %}
-  	<ol>
-{% else %}
-	<h1>Invalid Input</h1>
-{% endif %}
+    {% if result %}
+    <h1>Results:</h1>
+    <br>
+    <ol>
+        {% for key, value in result.items() %}
+        <li>{{ key }}: {{ value}}</li>
+        {% endfor %}
+    </ol>
+    {% else %}
+    <h1>Invalid Input</h1>
+    {% endif %}
 </body>
+
 </html>
