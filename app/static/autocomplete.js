@@ -54,7 +54,7 @@ function autocomplete(name) {
                     }
                 }
 
-                if (arr.length > 0) {
+                if (arr[0] != "") {
                     currentFocus = 0;
                     addActive(document.getElementById(inp.id + "autocomplete-list").getElementsByTagName("div"))
                 }
