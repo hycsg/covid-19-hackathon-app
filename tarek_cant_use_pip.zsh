@@ -3,27 +3,30 @@
 PROJECT_DIR=${0:a:h}
 
 opt=$1
-branch=$2
 cd $PROJECT_DIR/app
 
 case "$opt" in
 
   run) # pull latest code from selected branch and run flask app
-    [ $branch == "dev" ] &&
-      git checkout dev;
-    [ $branch == "master" ] &&
-      git checkout master
-    pipenv lock &&
-    pipenv install --dev &&
-    pipenv run flask run;;
+    branch=$2;
+    [[ $branch == "dev" ]]     \
+      && git checkout dev;
+    [[ $branch == "master" ]]  \
+      && git checkout master;
+    # Update all Pipfile requirements
+    pipenv lock \
+      && pipenv install --dev \
+      && pipenv run flask run
+  ;;
 
   update) # grab latest code and update all pipenv deps
-    git checkout master &&
-    git pull &&
-    git checkout dev && 
-    git pull &&
-    pipenv lock &&
-    pipenv install --dev;;
+    git checkout master    \
+      && git pull          \
+      && git checkout dev  \
+      && git pull          \
+      && pipenv lock       \
+      && pipenv install --dev
+  ;;
 
   *) # Invalid, print usage
     echo "Invalid command"
