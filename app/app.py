@@ -22,7 +22,7 @@ def main():
 
 @app.route('/result', methods=["POST"])
 def result():
-    input_data = {"state": request.form.get("state").toLowerCase(), "county": request.form.get("county").toLowerCase()}
+    input_data = {"state": request.form.get("state").lower(), "county": request.form.get("county").lower()}
     query_result = data.query_one(input_data)
     return render_template("result.html", result=query_result.to_dictionary())
 
