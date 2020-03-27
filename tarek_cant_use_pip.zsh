@@ -8,10 +8,10 @@ cd $PROJECT_DIR/app
 case "$opt" in
 
   run) # pull latest code from selected branch and run flask app
-    branch=$2
-    [ $branch == "dev" ] \
+    branch=$2;
+    [[ $branch == "dev" ]]     \
       && git checkout dev;
-    [ $branch == "master" ] \
+    [[ $branch == "master" ]]  \
       && git checkout master;
     # Update all Pipfile requirements
     pipenv lock \
@@ -20,12 +20,12 @@ case "$opt" in
   ;;
 
   update) # grab latest code and update all pipenv deps
-    git checkout master \
-      && git pull \
-      && git checkout dev \
-      && git pull \
-      && pipenv lock \
-      && pipenv install --dev \
+    git checkout master    \
+      && git pull          \
+      && git checkout dev  \
+      && git pull          \
+      && pipenv lock       \
+      && pipenv install --dev
   ;;
 
   *) # Invalid, print usage
