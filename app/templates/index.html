@@ -12,10 +12,15 @@
 <body>
     <h1>Coronavirus Assistant</h1>
     <form action="/result" method="post">
-        <input type="text" placeholder="Enter United States State" name="state">
-	<input type="text" placeholder="Enter County" name="county">
-        <input type="submit" value="Get Advise">
+        <input id="state_input" type="text" placeholder="Enter US State" name="state">
+        <input id="county_input" type="text" placeholder="Enter County" name="county">
+        <p>
+            <span id="state_suggest"></span>
+            <span id="county_suggest"></span>
+        </p>
+        <input type="submit" value="Get Advice">
     </form>
+    <script type="text/javascript" src="{{ url_for('static', filename='autocomplete.js') }} "></script>
 </body>
 
 </html>
