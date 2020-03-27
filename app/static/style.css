@@ -1,6 +1,15 @@
+html {
+    height: 100%;
+}
+
 body {
-    margin: 16px;
-    background-image: 'external-content.duckduckgo.jpeg'
+    height: 100%;
+    padding: 16px;
+    background-image: url('background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 input {
