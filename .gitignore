@@ -1,2 +1,3 @@
 *.code-workspace
+*.bat
 app/__pycache__
