@@ -15,7 +15,7 @@
     <br>
     <ul>
         {% for key, value in result.items() %}
-        <li><h3>{{ key }}: {{ value}}</h3></li>
+        <li><h3>{{ key.title() }}: {{ value}}</h3></li>
         {% endfor %}
     </ul>
     {% else %}
