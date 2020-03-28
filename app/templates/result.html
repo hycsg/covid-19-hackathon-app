@@ -10,17 +10,21 @@
 </head>
 
 <body>
-    {% if result %}
-    <h1>Results:</h1>
-    <br>
-    <ol>
-        {% for key, value in result.items() %}
-        <li>{{ key }}: {{ value}}</li>
-        {% endfor %}
-    </ol>
-    {% else %}
-    <h1>Invalid Input</h1>
-    {% endif %}
+    <div class="card border-primary mb-3" style="max-width: 20rem;">
+        <div class="card-header">Results</div>
+        <div class="card-body">
+            <h4 class="card-title">{{ location }}</h4>
+            <p class="card-text">
+                <ul>
+                    {% if result %} {% for key, value in result.items() %}
+                    <li><b>{{ key }}:</b> {{ value }}</li>
+                    {% endfor %} {% endif %}
+                </ul>
+                {% if result %} <small><b>source:</b> <a target="_blank" href="https://github.com/CSSEGISandData/COVID-19">John Hopkins University CSSE</a> at {{ last_update }}</small> {% endif %}
+            </p>
+        </div>
+    </div>
+
 </body>
 
 </html>
