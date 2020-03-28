@@ -10,7 +10,7 @@ COVID in my County (hycsg hackathon project) is a submission to the [covid-globa
 
 ### Windows
 ```
->run.bat
+> run.bat
 ```
 
 ### Linux/MacOS
