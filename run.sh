@@ -5,6 +5,5 @@ cd app
 export FLASK_APP=app.py
 pipenv lock
 pipenv install --dev
-apt-get install xdg-utils
-xdg-open 'http://127.0.0.1:5000'
+open http://127.0.0.1:5000
 pipenv run flask run
