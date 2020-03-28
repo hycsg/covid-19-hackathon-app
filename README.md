@@ -7,10 +7,19 @@ Covid in my County (hycsg hackathon project) is a submission to the [covid-globa
 1. Read the instructions listed in this `README.md`
 
 ### Windows
-
-1.
+```
+cd app
+pipenv lock
+pipenv install --dev
+set FLASK_APP=app.py
+pipenv run flask run
+```
 
 ### Linux/MacOS
-
-1.
-
+```sh
+$ cd app
+$ export FLASK_APP=app.py
+$ pipenv lock
+$ pipenv install --dev
+$ pipenv run flask run
+```
