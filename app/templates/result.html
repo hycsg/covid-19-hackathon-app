@@ -13,11 +13,11 @@
     {% if result %}
     <h1>Results:</h1>
     <br>
-    <ol>
+    <ul>
         {% for key, value in result.items() %}
         <li>{{ key }}: {{ value}}</li>
         {% endfor %}
-    </ol>
+    </ul>
     {% else %}
     <h1>Invalid Input</h1>
     {% endif %}
