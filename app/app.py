@@ -7,12 +7,12 @@ title = "COVID in my County"
 static_dir = "static/"
 
 # loading data
-county_population = open_csv(f"{static_dir}population.csv")
-county_population.already_indexed("full", Comparisons.strings)
+# county_population = open_csv(f"{static_dir}population.csv")
+# county_population.already_indexed("full", Comparisons.strings)
 
 yesterday = (date.today() - timedelta(days=1)).strftime('%m-%d-%Y')
 data = get_csv(f"https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{yesterday}.csv")
-data = data.select_as({"Admin2":"county", "Province_State":"state", "Confirmed":"confirmed", "Deaths":"deaths", "Recovered":"recovered", "Last_Update":"last update"})
+data = data.select_as({"Admin2":"county", "Province_State":"state", "Confirmed":"confirmed cases", "Deaths":"deaths", "Recovered":"recovered", "Last_Update":"last update"})
 data.already_indexed("county", Comparisons.strings)
 data.replace(data.fields, lambda s: s.lower())
 data.add_field("full", lambda row: f"{row['county']}, {row['state']}")
@@ -30,13 +30,13 @@ def main():
 @app.route('/result', methods=["POST"])
 def result():
     input_data = {"state": request.form.get("state").lower(), "county": request.form.get("county").lower()}
-    info_dict = data.query_one(input_data).to_dictionary()
-    
+    info_dict = data.query_one(input_data).select(["confirmed cases", "recovered", "deaths", "last update", "full"]).to_dictionary()
+    location = "Invalid Request"
+    last_update = ""
     if info_dict != {}:
-        population = int(county_population.query_one({"full":info_dict["full"]}).to_dictionary()["population"])
-        # population data
-
-    return render_template("result.html", result=info_dict, title=title)
+        location = ", ".join([" ".join([word.capitalize() for word in section.split(" ")]) for section in info_dict.pop("full").split(", ")])
+        last_update = info_dict.pop("last update")
+    return render_template("result.html", location=location, last_update=last_update, result=info_dict, title=title)
 
 @app.route('/get_state')
 def get_state():

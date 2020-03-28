@@ -10,22 +10,33 @@
 </head>
 
 <body>
-    {% if result %}
-    <h1>Results:</h1>
-    <br>
-    <ul>
-        {% for key, value in result.items() %}
-        <li><h3>{{ key.title() }}: {{ value}}</h3></li>
-        {% endfor %}
-    </ul>
-    {% else %}
-    <h1>Invalid Input</h1>
-    {% endif %}
-    <br>
-    <blockquote class="blockquote">
-    	<h4>Look <a href="https://www.cdc.gov/coronavirus/2019-ncov/faq.html">here</a> for more information about the Coronavirus.</h4>
-    	<h4>Look <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html">here</a> for information pertinent to preventing and treating it.</h4>
-    </blockquote>
+    <div class="card border-primary mb-3">
+        <div class="card-header">Results</div>
+        <div class="card-body">
+            <h4 class="card-title">{{ location }}</h4>
+            <p class="card-text">
+                <ul>
+                    {% if result %} {% for key, value in result.items() %}
+                    <li><b>{{ key }}:</b> {{ value }}</li>
+                    {% endfor %} {% endif %}
+                </ul>
+                {% if result %} <br><small><b>source:</b> <a target="_blank" href="https://github.com/CSSEGISandData/COVID-19">John Hopkins University CSSE</a> at {{ last_update }}</small> {% endif %}
+                <br>
+            </p>
+        </div>
+    </div>
+    <div class="card border-primary mb-3">
+        <div class="card-header">More Info</div>
+        <div class="card-body">
+            <p class="card-text">
+                <a target="_blank" href="https://www.cdc.gov/coronavirus/2019-ncov/faq.html">Click here</a> for more information about the Coronavirus.
+                <br>
+                <br>
+                <a target="_blank" href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html">Click here</a> for information pertinent to preventing and treating it.
+            </p>
+        </div>
+    </div>
 </body>
+
 
 </html>
