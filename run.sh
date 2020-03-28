@@ -5,5 +5,5 @@ cd app
 export FLASK_APP=app.py
 pipenv lock
 pipenv install --dev
-open http://127.0.0.1:5000
+xdg-open 'http://127.0.0.1:5000'
 pipenv run flask run
