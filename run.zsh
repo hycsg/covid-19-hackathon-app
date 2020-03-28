@@ -29,9 +29,10 @@ case "$opt" in
   ;;
 
   *) # Invalid, print usage
-    echo "Invalid command"
+    echo "Invalid usage of $0"
     echo "------------------"
     echo "To run the application         --> $0 run [branch-name]"
-    echo "To update literally everything --> $0 update";;
+    echo "To update literally everything --> $0 update"
+  ;;
 
 esac
