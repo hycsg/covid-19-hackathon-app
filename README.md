@@ -15,3 +15,7 @@ Covid in my County (hycsg hackathon project) is a submission to the [covid-globa
 ```sh
 $ ./run.sh
 ```
+
+## Github Link
+
+https://github.com/hycsg/covid-19-hackathon-app
