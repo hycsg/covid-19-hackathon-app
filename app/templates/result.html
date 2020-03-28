@@ -15,7 +15,7 @@
     <br>
     <ul class="list-group">
         {% for key, value in result.items() %}
-        <li class="list-group-item d-flex justify-content-between align-items-center"><h3>{{ key.title() }}: {{ value}}</h3></li>
+        <li class="list-group-item d-flex justify-content-between align-items-center"><h3>{{ key.title() }}: <i>{{ value}}</i></h3></li>
         {% endfor %}
     </ul>
     {% else %}
