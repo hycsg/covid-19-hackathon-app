@@ -6,3 +6,11 @@ Covid in my County (hycsg hackathon project) is a submission to the [covid-globa
 
 1. Read the instructions listed in this `README.md`
 
+### Windows
+
+1.
+
+### Linux/MacOS
+
+1.
+
