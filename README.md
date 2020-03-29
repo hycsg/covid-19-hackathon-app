@@ -5,11 +5,12 @@ COVID in my County (hycsg hackathon project) is a submission to the [covid-globa
 ## Running the application
 
 1. Download Python version 3.7 or later from https://www.python.org/downloads/
-2. Run one of the OS-specific commands below:
+2. Clone this repository
+3. Inside the project directory, run one of the OS-specific commands below:
 
 ### Windows
 ```
->run.bat
+> run.bat
 ```
 
 ### Linux/MacOS
