@@ -39,11 +39,11 @@
         },
         "csvquery": {
             "hashes": [
-                "sha256:26dec419323f6b756cae5dc1f8a83a39aeb7a86d0e15c3eef9baa5d75c11f10a",
-                "sha256:3c39eed2a6c9f595f98481fb084fc7d4707825be7ad55001e6843cad3a558a92"
+                "sha256:3fdf0ff8ecc2ed7dc275a19860c5b93d89b67fb92e344cac75632a584e0692db",
+                "sha256:acae4d297783e2b1f7554c1a6437f6d2f2b054a96f40b6a2582e59540363e635"
             ],
             "index": "pypi",
-            "version": "==1.0.5"
+            "version": "==1.1.2"
         },
         "flask": {
             "hashes": [
