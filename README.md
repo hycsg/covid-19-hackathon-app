@@ -21,3 +21,7 @@ $ ./run.sh
 ## Github repository
 
 https://github.com/hycsg/covid-19-hackathon-app
+
+## Demo vid
+
+https://www.youtube.com/watch?v=NDFWAnKGsIU
